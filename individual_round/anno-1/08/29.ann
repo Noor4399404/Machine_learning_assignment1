@@ -1,0 +1,8 @@
+T1	Fear 63 69;70 78	paniek gebracht
+A1	Confidence T1 Main
+T2	Fear 181 187	paniek
+A2	Confidence T2 High
+T3	Sadness 189 197	verdriet
+A3	Confidence T3 High
+T4	Anger 201 206	woede
+A4	Confidence T4 High

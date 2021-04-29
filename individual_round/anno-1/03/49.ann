@@ -1,0 +1,5 @@
+T1	Anger 111 116;153 160;163 169;173 181;223 230	slaat kritiek scheld bedreigt complot
+A1	Confidence T1 High
+T2	Other 251 254;270 278	wie vertrouw
+A2	Confidence T2 Main
+#1	AnnotatorNotes T2	Irony

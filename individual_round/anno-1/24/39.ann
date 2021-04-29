@@ -1,0 +1,7 @@
+T1	Anger 243 247	STOP
+A1	Confidence T1 Main
+T2	Anger 223 232	asocialen
+T3	Anger 107 111;140 144	LEUK ETEN
+T4	Other 59 63;64 68	Leuk hoor
+A2	Confidence T4 High
+#1	AnnotatorNotes T4	Sarcasm

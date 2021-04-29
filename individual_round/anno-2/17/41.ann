@@ -1,0 +1,6 @@
+T1	Disgust 14 28	bagatelliseert
+A1	Confidence T1 Low
+T2	Anger 249 257	schuldig
+A2	Confidence T2 Main
+T3	Anger 143 147;148 150;151 157;158 169	NIET de juiste maatregelen
+A3	Confidence T3 High

@@ -1,0 +1,8 @@
+T1	Fear 103 112;78 82;92 94;95 102	schrokken zich te pletter
+A1	Confidence T1 High
+T2	Fear 177 181;182 185	heel erg
+A2	Confidence T2 High
+T3	Anger 280 285;287 292	VRAAG Opzet
+A3	Confidence T3 Main
+T4	Anger 211 215;226 230	deed niks
+A4	Confidence T4 Main

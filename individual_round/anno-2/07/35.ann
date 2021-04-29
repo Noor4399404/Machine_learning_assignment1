@@ -1,0 +1,6 @@
+T1	Anger 108 112;113 118	niet mogen
+A1	Confidence T1 Main
+T2	Anger 169 179	overlijden
+A2	Confidence T2 Main
+T3	Anger 180 184;185 190	niet mogen
+A3	Confidence T3 Main

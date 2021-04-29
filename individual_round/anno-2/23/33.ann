@@ -1,0 +1,10 @@
+T1	Caring 86 89;90 94;95 97;98 104	let goed op jezelf
+A1	Confidence T1 High
+T2	Caring 106 109;110 114;115 117	pas goed op
+A2	Confidence T2 High
+T3	Disgust 166 172;176 182;183 191;192 197	elkaar ineens paranoia maken
+A3	Confidence T3 Main
+T4	Fear 183 191	paranoia
+A4	Confidence T4 High
+T5	Disgust 147 154	guppies
+A5	Confidence T5 High

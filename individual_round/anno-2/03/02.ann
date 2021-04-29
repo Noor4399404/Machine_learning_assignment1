@@ -1,0 +1,6 @@
+T1	Fear 250 256	risico
+A1	Confidence T1 High
+T2	Disgust 130 135;136 145	imago strategie
+A2	Confidence T2 Main
+T4	Disgust 113 116;117 122	erg bezig
+A4	Confidence T4 Main

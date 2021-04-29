@@ -1,0 +1,6 @@
+T1	Fear 72 83	onzekerheid
+A1	Confidence T1 Main
+T2	Fear 87 92	angst
+A2	Confidence T2 Main
+T3	Sadness 188 189	😢
+A3	Confidence T3 High

@@ -1,0 +1,6 @@
+T1	Anger 24 29	stout
+A1	Confidence T1 Main
+T2	Anger 96 103	Idioten
+A2	Confidence T2 Main
+T3	Disgust 118 121;122 125;126 133	wel erg relaxed
+A3	Confidence T3 Low

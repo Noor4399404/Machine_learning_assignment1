@@ -1,0 +1,6 @@
+T1	Trust 15 19;20 24	fijn zijn
+A1	Confidence T1 Main
+T2	Trust 71 80	inderdaad
+A2	Confidence T2 Main
+T3	Joy 262 268	lekker
+A3	Confidence T3 High

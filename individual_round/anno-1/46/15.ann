@@ -1,0 +1,8 @@
+T1	Caring 0 7	‘Leuke’
+A1	Confidence T1 Main
+T2	Trust 20 25;26 28;35 38	sluit me aan
+A2	Confidence T2 Low
+T3	Disgust 62 72	hysterisch
+A3	Confidence T3 High
+T4	Trust 94 98	niet
+A4	Confidence T4 Low

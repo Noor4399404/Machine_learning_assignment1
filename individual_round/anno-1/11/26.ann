@@ -1,0 +1,7 @@
+T1	Trust 179 185	winnen
+A1	Confidence T1 Main
+T2	Other 192 196	niet
+A2	Confidence T2 Low
+#1	AnnotatorNotes T2	distrust
+T3	Disgust 14 20	Schrap
+A3	Confidence T3 Low

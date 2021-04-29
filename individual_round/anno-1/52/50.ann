@@ -1,0 +1,10 @@
+T1	Fear 90 96	PANIEK
+A1	Confidence T1 High
+T2	Fear 121 125;142 147	word erger
+A2	Confidence T2 High
+T3	Fear 56 64;65 71	vrijheid kosten
+A3	Confidence T3 High
+T4	Joy 29 33;37 40	niet erg
+A4	Confidence T4 High
+T5	Fear 186 190;191 199	geen vrijheid
+A5	Confidence T5 High

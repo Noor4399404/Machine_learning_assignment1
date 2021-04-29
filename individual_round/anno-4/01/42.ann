@@ -1,0 +1,4 @@
+T1	Sadness 111 117;118 121;122 130;95 97	reason for optimism no
+A1	Confidence T1 Main
+T2	Disgust 76 83;84 93	totally incorrect
+A2	Confidence T2 High

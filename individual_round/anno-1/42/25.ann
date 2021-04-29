@@ -1,0 +1,10 @@
+T1	Disgust 22 31;32 38	verklaart oorlog
+A1	Confidence T1 High
+T2	Trust 58 63	roemt
+A2	Confidence T2 High
+T3	Joy 70 75	beste
+A3	Confidence T3 High
+T4	Joy 105 109	blij
+A4	Confidence T4 Main
+T5	Trust 114 123	deskundig
+A5	Confidence T5 High

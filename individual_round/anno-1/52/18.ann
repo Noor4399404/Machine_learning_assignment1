@@ -1,0 +1,6 @@
+T1	Fear 7 20	enge getallen
+A1	Confidence T1 Main
+T2	Fear 111 128;133 146;97 109	ziekenhuisopnames sterfgevallen besmettingen
+A2	Confidence T2 High
+T3	Caring 158 166	genieten
+A3	Confidence T3 High

@@ -1,0 +1,6 @@
+T1	Disgust 0 3	Nee
+A1	Confidence T1 High
+T2	Anger 72 74	NU
+A2	Confidence T2 Low
+T3	Anger 97 99	NU
+A3	Confidence T3 Low

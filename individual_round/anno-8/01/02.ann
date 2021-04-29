@@ -1,0 +1,6 @@
+T1	Disgust 114 121	Failure
+A1	Confidence T1 Main
+T2	Sadness 153 157	:-((
+A2	Confidence T2 High
+T3	Fear 141 152	threatening
+A3	Confidence T3 Low

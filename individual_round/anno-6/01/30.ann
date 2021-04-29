@@ -1,0 +1,4 @@
+T1	Sadness 35 39	dead
+A1	Confidence T1 Main
+T2	Sadness 126 132;133 135;136 146;147 151;152 161	number of infections only increases
+A2	Confidence T2 Main

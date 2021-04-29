@@ -1,0 +1,12 @@
+T1	Fear 1 10;11 13;14 22	COVID19NL 82 Gevallen
+T2	Anger 24 28;29 32	WAAR DAN
+T3	Anger 35 38	Nul
+A1	Confidence T3 Low
+T4	Anger 68 71	hoe
+A2	Confidence T4 Low
+T5	Fear 84 94	beschermen
+A3	Confidence T5 Low
+T6	Fear 121 133	besmettingen
+A4	Confidence T6 Low
+A5	Confidence T1 Main
+A6	Confidence T2 High

@@ -1,0 +1,6 @@
+T1	Surprise 0 3	Hoe
+A1	Confidence T1 Low
+T2	Surprise 17 25	Covid_19
+A2	Confidence T2 Main
+T3	Surprise 49 58	verspreid
+A3	Confidence T3 High

@@ -1,0 +1,10 @@
+T1	Anger 32 35	KUT
+A1	Confidence T1 Main
+T2	Disgust 45 50	onzin
+A2	Confidence T2 High
+T3	Anger 118 121;122 127	ten koste
+A3	Confidence T3 High
+T4	Anger 141 145	Stop
+A4	Confidence T4 High
+T5	Disgust 163 172	flauwekul
+A5	Confidence T5 High

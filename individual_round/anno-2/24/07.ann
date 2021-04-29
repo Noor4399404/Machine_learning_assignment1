@@ -1,0 +1,6 @@
+T1	Fear 78 90	Waarschuwing
+A1	Confidence T1 Low
+T2	Sadness 125 133;134 138;139 146	absoluut niet voorbij
+A2	Confidence T2 Main
+T3	Sadness 48 53	doden
+A3	Confidence T3 Low

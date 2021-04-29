@@ -1,0 +1,10 @@
+T1	Fear 234 248	waarschijnlijk
+A1	Confidence T1 Low
+T2	Fear 249 255	fataal
+A2	Confidence T2 Low
+T3	Anticipation 28 36	situatie
+A3	Confidence T3 Low
+T4	Anticipation 37 39	en
+A4	Confidence T4 Low
+T5	Anticipation 40 46	opinie
+A5	Confidence T5 Low

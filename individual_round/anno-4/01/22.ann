@@ -1,0 +1,5 @@
+T1	Anger 86 91;92 96	don't even
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	Confusion
+T2	Anger 104 107;108 112;113 117;118 124	How many more deaths
+A2	Confidence T2 Main

@@ -1,0 +1,8 @@
+T1	Fear 182 190;191 197	zwartste kanten
+T2	Fear 117 129	confronteert
+A1	Confidence T2 Main
+A2	Confidence T1 Main
+T3	Fear 20 32	ondragelijke
+A3	Confidence T3 Main
+T4	Anticipation 75 85	blijfthuis
+A4	Confidence T4 Low

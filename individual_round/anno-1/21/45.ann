@@ -1,0 +1,6 @@
+T1	Fear 43 46	ERG
+A1	Confidence T1 High
+T2	Anticipation 49 53;54 58;59 61	LOCK DOWN NU
+A2	Confidence T2 Main
+T3	Anger 65 68	GVD
+A3	Confidence T3 High

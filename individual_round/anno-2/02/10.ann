@@ -1,0 +1,6 @@
+T1	Fear 41 53	besmettingen
+A1	Confidence T1 Main
+T2	Fear 85 89;90 101	zijn vastgesteld
+A2	Confidence T2 High
+T3	Trust 181 190	voorkomen
+A3	Confidence T3 High

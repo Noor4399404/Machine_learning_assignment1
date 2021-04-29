@@ -1,0 +1,7 @@
+T1	Disgust 133 140	sjakies
+A1	Confidence T1 High
+T2	Other 0 8	Voordeel
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	irony
+T3	Anticipation 227 230;231 234	Wat zal
+A3	Confidence T3 Main

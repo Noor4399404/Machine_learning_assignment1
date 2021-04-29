@@ -1,0 +1,6 @@
+T1	Disgust 45 80	#rivm leugenaars omgekochte artsen?
+A1	Confidence T1 Main
+T2	Disgust 81 118	hoe kan men zulke grote fouten maken?
+A2	Confidence T2 Main
+T3	Anger 140 153	criminaliteit
+A3	Confidence T3 High

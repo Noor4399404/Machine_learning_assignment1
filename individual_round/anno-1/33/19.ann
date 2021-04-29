@@ -1,0 +1,8 @@
+T1	Surprise 103 108	Echt?
+A2	Confidence T1 Main
+T2	Disgust 125 129;130 136	vies volkje
+A1	Confidence T2 High
+T3	Disgust 203 209	blagen
+A3	Confidence T3 High
+T4	Disgust 248 267	onverantwoordelijke
+A4	Confidence T4 High

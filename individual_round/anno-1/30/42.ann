@@ -1,0 +1,14 @@
+T1	Caring 122 125	Doe
+A1	Confidence T1 High
+T2	Caring 126 129	nou
+A2	Confidence T2 High
+T3	Caring 130 134	niet
+A3	Confidence T3 Main
+T4	Caring 136 141	lieve
+A4	Confidence T4 High
+T5	Disgust 46 56	borrelende
+A5	Confidence T5 High
+T6	Disgust 60 72	picknickende
+A6	Confidence T6 High
+T7	Disgust 73 79	mensen
+A7	Confidence T7 Main

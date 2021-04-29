@@ -1,0 +1,10 @@
+T1	Trust 89 94	prima
+A1	Confidence T1 Main
+T2	Trust 105 109	ging
+A2	Confidence T2 Main
+T3	Trust 133 136	van
+A3	Confidence T3 Main
+T4	Trust 137 140	uit
+A4	Confidence T4 Main
+T5	Trust 126 132	gewoon
+A5	Confidence T5 Main

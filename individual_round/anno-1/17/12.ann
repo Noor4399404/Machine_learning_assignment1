@@ -1,0 +1,6 @@
+T1	Fear 22 35	schrikbarende
+A1	Confidence T1 High
+T2	Anger 66 71;72 78;79 81;82 88	enorm zitten te slapen
+A2	Confidence T2 Main
+T3	Disgust 103 111;112 123	compleet ondeskundig
+A3	Confidence T3 High

@@ -1,0 +1,6 @@
+T1	Fear 42 45;50 55;7 13	met leven speelt
+A1	Confidence T1 Main
+T2	Fear 206 208;209 213;214 218	de klos zijn
+A2	Confidence T2 Main
+T3	Anger 251 255;270 279	Geen school!!!
+A3	Confidence T3 High

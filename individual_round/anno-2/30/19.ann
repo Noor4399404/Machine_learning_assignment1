@@ -1,0 +1,10 @@
+T1	Anger 6 40	We gaan mooi de kant op van Italië
+A1	Confidence T1 Main
+T2	Anger 42 71	de lijn gaat dezelfde kant op
+A2	Confidence T2 Main
+T3	Anger 109 147	arrogant denken dat ze het beter weten
+A3	Confidence T3 High
+T4	Anger 150 200	k hoop dat nabestaanden wraak gaan nemen op jullie
+A4	Confidence T4 High
+T5	Anger 230 263	dankzij jullie arrogante laksheid
+A5	Confidence T5 High

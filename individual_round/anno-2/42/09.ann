@@ -1,0 +1,12 @@
+T1	Anger 276 277	😡
+A1	Confidence T1 High
+T2	Disgust 0 9	Degoutant
+A2	Confidence T2 Main
+T3	Anger 92 99	nazisme
+A3	Confidence T3 High
+T4	Disgust 92 99	nazisme
+A4	Confidence T4 Main
+T5	Disgust 140 144	walg
+A5	Confidence T5 Main
+T6	Disgust 200 209	wanbeleid
+A6	Confidence T6 Main

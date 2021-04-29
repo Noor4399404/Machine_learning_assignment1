@@ -1,0 +1,4 @@
+T1	Disgust 46 50;51 53;54 58	niet zo wijs
+A1	Confidence T1 Main
+T2	Disgust 151 154;163 169	Zeg genoeg
+A2	Confidence T2 Low

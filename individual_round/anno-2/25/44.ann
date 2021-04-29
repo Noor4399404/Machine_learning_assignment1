@@ -1,0 +1,4 @@
+T1	Disgust 132 136;137 139;140 147;163 169;173 176;180 187	door te drukken smoren weg poetsen
+A1	Confidence T1 Main
+T2	Disgust 228 232;233 237;238 240;241 245	valt door de mand
+A2	Confidence T2 Main

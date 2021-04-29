@@ -1,0 +1,6 @@
+T1	Disgust 77 83	stupid
+A1	Confidence T1 Main
+T2	Fear 58 65;66 71	Extreme right
+A2	Confidence T2 High
+T3	Anticipation 19 24;25 29	don't live
+A3	Confidence T3 High

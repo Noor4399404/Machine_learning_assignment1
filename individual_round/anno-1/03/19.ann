@@ -1,0 +1,4 @@
+T1	Disgust 102 109;110 115;123 132;133 139	NIEMAND snapt imbeciele gedrag
+A1	Confidence T1 Main
+T2	Anger 20 25;27 39	Rutte scholendicht
+A2	Confidence T2 High

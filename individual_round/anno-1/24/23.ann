@@ -1,0 +1,8 @@
+T1	Fear 103 106;107 110;93 99	hel los breekt
+A1	Confidence T1 Main
+T2	Fear 195 201;202 207	besmet raken
+A2	Confidence T2 Main
+T3	Fear 217 227	overlijden
+A3	Confidence T3 Main
+T4	Anger 255 260	naïef
+A4	Confidence T4 High

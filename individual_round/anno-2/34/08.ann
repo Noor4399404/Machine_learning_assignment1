@@ -1,0 +1,6 @@
+T1	Caring 0 4;17 22;5 7;8 16	Houd thuis je kinderen
+A1	Confidence T1 Main
+T2	Caring 44 45;47 60	i risicogroepen
+A2	Confidence T2 High
+T3	Disgust 102 108;109 113;114 125	vooral gaan thuiswerken
+A3	Confidence T3 High

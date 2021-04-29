@@ -1,0 +1,10 @@
+T1	Fear 72 83	eenzaamheid
+A1	Confidence T1 High
+T2	Fear 85 92	wanhoop
+A2	Confidence T2 High
+T3	Fear 94 104	desillusie
+A3	Confidence T3 High
+T4	Fear 106 117	benauwdheid
+A4	Confidence T4 High
+T5	Fear 121 133	ontwrichting
+A5	Confidence T5 High

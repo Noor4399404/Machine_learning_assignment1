@@ -1,0 +1,12 @@
+T1	Anger 21 41;3 6;7 15	coronavirusNederland heb verdomme
+A1	Confidence T1 High
+T3	Fear 81 85;89 97	voel kompleet
+A3	Confidence T3 Main
+T2	Disgust 209 211	al
+A2	Confidence T2 High
+T4	Disgust 212 215	die
+A4	Confidence T4 High
+T5	Disgust 216 226	allogtonen
+A5	Confidence T5 High
+T6	Anger 250 256;265 267;268 277	godver in karentene
+A6	Confidence T6 Main

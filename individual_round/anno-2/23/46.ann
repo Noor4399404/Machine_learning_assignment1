@@ -1,0 +1,5 @@
+T1	Disgust 93 97	Grrr
+A1	Confidence T1 Main
+T2	Anger 100 110;111 114;123 128	blijfthuis was regel
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Irony

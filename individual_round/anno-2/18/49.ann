@@ -1,0 +1,12 @@
+T1	Trust 87 103	samentegencorona
+A1	Confidence T1 Main
+T2	Trust 105 112	voorjou
+A2	Confidence T2 High
+T3	Caring 5 8	You
+A3	Confidence T3 Low
+T4	Caring 9 14	never
+A4	Confidence T4 Low
+T5	Caring 15 19	walk
+A5	Confidence T5 Low
+T7	Caring 20 25	alone
+A7	Confidence T7 Low

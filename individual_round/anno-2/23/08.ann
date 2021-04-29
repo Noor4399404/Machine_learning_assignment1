@@ -1,0 +1,8 @@
+T1	Disgust 32 40	proleten
+T2	Disgust 54 62	heilloze
+A1	Confidence T2 Main
+T3	Disgust 63 70	ideoten
+A2	Confidence T3 Main
+T4	Disgust 17 20	hel
+A3	Confidence T4 Main
+A4	Confidence T1 Main

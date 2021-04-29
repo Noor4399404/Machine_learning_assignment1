@@ -1,0 +1,11 @@
+T1	Other 91 120	"het is niet zo besmettelijk"
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	Irony
+T2	Other 121 143	"lijkt op een griepje"
+A2	Confidence T2 High
+#2	AnnotatorNotes T2	Irony
+T3	Other 202 206;207 210;216 220;221 226	wist het toch beter
+A3	Confidence T3 High
+#3	AnnotatorNotes T3	Irony
+T4	Disgust 20 25;35 38	joris weg
+A4	Confidence T4 Main

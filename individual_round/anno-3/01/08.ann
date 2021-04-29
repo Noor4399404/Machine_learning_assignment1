@@ -1,0 +1,5 @@
+T1	Other 9 13	nice
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	sarcasm
+T2	Anticipation 162 166;167 171	real news
+A2	Confidence T2 High

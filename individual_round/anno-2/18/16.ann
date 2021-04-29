@@ -1,0 +1,10 @@
+T1	Trust 86 95	langzamer
+A1	Confidence T1 Main
+T2	Trust 50 55	groei
+A2	Confidence T2 High
+T3	Trust 83 85	is
+A3	Confidence T3 High
+T4	Joy 34 45	duidelijker
+A4	Confidence T4 Low
+T5	Joy 19 30	duidelijker
+A5	Confidence T5 Low

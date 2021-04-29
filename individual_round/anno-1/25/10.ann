@@ -1,0 +1,6 @@
+T1	Anger 75 80;88 96	laten afpakken
+A1	Confidence T1 Main
+T2	Anger 132 139;140 145;149 155;156 163	niemand heeft morgen beloofd
+A2	Confidence T2 High
+T3	Sadness 197 212	ga je toch niet
+A3	Confidence T3 High

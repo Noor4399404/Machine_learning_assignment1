@@ -1,0 +1,4 @@
+T1	Fear 167 169;170 174	te laat
+A1	Confidence T1 Main
+T2	Sadness 0 7;19 24	Wanneer actie
+A2	Confidence T2 High

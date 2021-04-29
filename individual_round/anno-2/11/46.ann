@@ -1,0 +1,6 @@
+T1	Disgust 15 24	fijn zijn
+A1	Confidence T1 Low
+T2	Disgust 99 109	vervelende
+A2	Confidence T2 High
+T3	Disgust 192 213	soortgelijke griezels
+A3	Confidence T3 Main

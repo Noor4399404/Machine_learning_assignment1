@@ -1,0 +1,6 @@
+T1	Fear 11 17	geweld
+A1	Confidence T1 Main
+T2	Anticipation 102 112	blijfthuis
+A2	Confidence T2 High
+T3	Fear 161 176	huiselijkgeweld
+A3	Confidence T3 Main

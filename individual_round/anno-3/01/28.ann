@@ -1,0 +1,12 @@
+T1	Anger 243 255	incompetence
+A1	Confidence T1 Main
+T2	Anger 203 206	die
+A2	Confidence T2 High
+T3	Disgust 224 231	blunder
+A3	Confidence T3 High
+T4	Anger 11 20	confusion
+A4	Confidence T4 High
+T5	Disgust 49 52;53 57	too late
+A5	Confidence T5 High
+T6	Fear 70 73;74 80	too little
+A6	Confidence T6 High

@@ -1,0 +1,6 @@
+T1	Trust 12 16	fijn
+A1	Confidence T1 Main
+T2	Trust 87 92;93 95;96 103	cross my fingers
+A2	Confidence T2 Main
+T3	Sadness 173 176;177 181;182 184	mis haar zo
+A3	Confidence T3 High

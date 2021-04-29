@@ -1,0 +1,4 @@
+T1	Disgust 23 27;28 33;34 36;37 41;42 47	just wants to make money
+A1	Confidence T1 Main
+T2	Sadness 79 86;87 93;94 97	letting people die
+A2	Confidence T2 High

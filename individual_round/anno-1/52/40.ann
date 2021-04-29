@@ -1,0 +1,7 @@
+T1	Disgust 13 17	grap
+A1	Confidence T1 Main
+T2	Other 80 92	belangrijker
+#1	AnnotatorNotes T2	Irony
+T3	Other 113 124	vervangbaar
+A2	Confidence T3 High
+#2	AnnotatorNotes T3	Irony

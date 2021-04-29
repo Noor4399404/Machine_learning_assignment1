@@ -1,0 +1,14 @@
+T1	Fear 140 144	Maar
+A1	Confidence T1 Main
+T2	Fear 145 148	als
+A2	Confidence T2 Main
+T3	Fear 149 152	het
+A3	Confidence T3 Main
+T4	Fear 179 185	stijgt
+A4	Confidence T4 Main
+T5	Fear 187 193	dreigt
+A5	Confidence T5 Main
+T6	Fear 194 197	een
+A6	Confidence T6 Main
+T7	Fear 198 204	crisis
+A7	Confidence T7 Main

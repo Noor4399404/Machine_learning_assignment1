@@ -1,0 +1,8 @@
+T1	Trust 0 9	Duidelijk
+A1	Confidence T1 Main
+T2	Trust 47 56	duidelijk
+A2	Confidence T2 Main
+T3	Surprise 73 80	onzeker
+A3	Confidence T3 High
+T4	Trust 131 136;137 139;140 142;143 145;146 152	niets op af te dingen
+A4	Confidence T4 High

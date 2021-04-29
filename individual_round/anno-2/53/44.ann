@@ -1,0 +1,8 @@
+T1	Surprise 19 22;23 26	dus als
+A1	Confidence T1 Main
+T2	Surprise 100 103;97 99	als en
+A2	Confidence T2 Low
+T3	Surprise 198 201	maf
+A3	Confidence T3 Main
+T4	Surprise 163 168	alsof
+A4	Confidence T4 Low

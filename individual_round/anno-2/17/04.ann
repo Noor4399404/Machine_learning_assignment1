@@ -1,0 +1,6 @@
+T1	Anger 56 61;72 78;79 82	wordt aardig zat
+A1	Confidence T1 Main
+T2	Sadness 105 107;108 116;117 119;120 126;95 101	in isolatie te zitten gevoel
+A2	Confidence T2 Low
+T3	Anger 175 179;191 194;195 197;198 201	Zijn ook al zat
+A3	Confidence T3 High

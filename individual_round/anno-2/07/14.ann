@@ -1,0 +1,8 @@
+T1	Anticipation 46 54	dreigend
+A1	Confidence T1 High
+T2	Anticipation 127 131;132 136	voer voor
+A2	Confidence T2 High
+T3	Trust 180 185;186 194	extra aandacht
+A3	Confidence T3 High
+T4	Trust 261 266;267 275	onder aandacht
+A4	Confidence T4 High

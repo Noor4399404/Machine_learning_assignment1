@@ -1,0 +1,9 @@
+T1	Surprise 14 24;25 32;9 13	ziekenhuis opnames veel
+A1	Confidence T1 Main
+T2	Caring 85 95	blijfthuis
+A2	Confidence T2 High
+T3	Disgust 108 114;97 107	mensen vervelende
+A3	Confidence T3 High
+T4	Other 116 128	ganaarbuiten
+A4	Confidence T4 High
+#1	AnnotatorNotes T4	Irony

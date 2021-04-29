@@ -1,0 +1,6 @@
+T1	Disgust 180 233	Iedereen met twee of meer functionerende hersencellen
+A1	Confidence T1 High
+T2	Disgust 55 69	“ingewikkelde”
+A2	Confidence T2 Main
+T3	Anger 122 151	het niveau van zijn achterban
+A3	Confidence T3 Main

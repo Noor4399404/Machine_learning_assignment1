@@ -1,0 +1,10 @@
+T1	Disgust 151 157	smerig
+A1	Confidence T1 Main
+T2	Anticipation 52 61	toiletten
+A2	Confidence T2 Main
+T3	Disgust 76 82	handen
+A3	Confidence T3 Low
+T4	Disgust 99 103	geen
+A4	Confidence T4 High
+T5	Disgust 132 144	droogmachine
+A5	Confidence T5 High

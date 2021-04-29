@@ -1,0 +1,7 @@
+T1	Trust 32 37	beste
+T2	Surprise 123 132	ijdelheid
+A1	Confidence T2 High
+T4	Surprise 139 142;147 149;153 154	zij of ?
+A3	Confidence T4 High
+T3	Anger 188 192;193 198	geen keuze
+A2	Confidence T3 Main

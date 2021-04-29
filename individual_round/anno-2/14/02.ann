@@ -1,0 +1,8 @@
+T1	Trust 38 41;45 50	mag hopen
+A1	Confidence T1 High
+T3	Anger 79 89	provocatie
+A3	Confidence T3 Main
+T2	Anger 69 72	wet
+A2	Confidence T2 Low
+T4	Sadness 135 136	.
+A4	Confidence T4 Low

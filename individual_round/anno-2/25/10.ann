@@ -1,0 +1,6 @@
+T1	Anger 208 212;213 217;218 220;221 224;225 231;232 238	niet bang in een hoekje zitten
+A1	Confidence T1 Main
+T2	Sadness 35 40	leven
+A2	Confidence T2 High
+T3	Sadness 41 48	gelaten
+A3	Confidence T3 High

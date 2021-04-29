@@ -1,0 +1,10 @@
+T1	Anger 0 14	Onbegrijpelijk
+A1	Confidence T1 Main
+T2	Anger 43 53	betweterig
+A2	Confidence T2 Main
+T3	Anger 100 105;106 108;88 93;94 99	weten in tegen beter
+A3	Confidence T3 Main
+T4	Sadness 111 117	Somber
+A4	Confidence T4 High
+T5	Sadness 218 224;225 236	minder rooskleurig
+A5	Confidence T5 High

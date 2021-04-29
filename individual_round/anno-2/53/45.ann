@@ -1,0 +1,8 @@
+T1	Disgust 28 34;35 38	schijt aan
+T2	Anger 111 133	rivmsnaptergeenreetvan
+A1	Confidence T2 Main
+T3	Anger 99 109	rutteisgek
+A2	Confidence T3 Main
+T4	Anger 135 139	boos
+A3	Confidence T4 Main
+A4	Confidence T1 High

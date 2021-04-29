@@ -1,0 +1,6 @@
+T1	Other 0 6;7 9	Lekker hè
+#1	AnnotatorNotes T1	sarcasm
+T2	Other 63 68;69 72;73 75;76 77;77 83;83 84	leren van je ‘ fouten ’
+A1	Confidence T2 High
+A2	Confidence T1 Main
+#2	AnnotatorNotes T2	sarcasm

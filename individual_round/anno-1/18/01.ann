@@ -1,0 +1,5 @@
+T1	Disgust 188 191;192 199	HOE STUPIDE
+A1	Confidence T1 Main
+T2	Other 19 30;6 18	informatie" "betrouwbare
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Sarcasm

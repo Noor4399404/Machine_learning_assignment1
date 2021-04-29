@@ -1,0 +1,6 @@
+T1	Anger 116 122;124 128	gewoon dood
+A1	Confidence T1 Low
+T2	Fear 159 166;167 172	wachten staat
+A2	Confidence T2 Main
+T3	Anticipation 196 201;207 211	minst must
+A3	Confidence T3 Low

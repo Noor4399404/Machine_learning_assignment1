@@ -1,0 +1,4 @@
+T1	Anger 114 119;120 127;133 135	slaat nergens op
+A1	Confidence T1 Main
+T2	Surprise 105 106;106 107;107 108;56 60	! ? ? Maar
+A2	Confidence T2 High

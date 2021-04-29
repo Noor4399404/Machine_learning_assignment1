@@ -1,0 +1,8 @@
+T1	Trust 48 52	dank
+A1	Confidence T1 Main
+T2	Trust 75 79	goed
+A2	Confidence T2 High
+T3	Trust 187 196	duidelijk
+A3	Confidence T3 Low
+T4	Trust 200 206	netjes
+A4	Confidence T4 Low

@@ -1,0 +1,12 @@
+T1	Anger 176 179	...
+A1	Confidence T1 Main
+T2	Anger 213 218	moord
+A2	Confidence T2 Main
+T3	Anger 136 140	maar
+A3	Confidence T3 High
+T4	Anger 61 65	niet
+A4	Confidence T4 High
+T5	Anger 66 68	zo
+A5	Confidence T5 High
+T6	Anger 69 72	erg
+A6	Confidence T6 High

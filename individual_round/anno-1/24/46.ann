@@ -1,0 +1,6 @@
+T1	Caring 0 5;6 11	Blijf thuis
+A1	Confidence T1 Main
+T2	Caring 71 73;78 84	ga alleen
+A2	Confidence T2 Main
+T3	Caring 118 130	Ikblijfthuis
+A3	Confidence T3 Main

@@ -1,0 +1,14 @@
+T1	Surprise 75 81	Waarom
+A1	Confidence T1 High
+T2	Anger 129 132	Kap
+A2	Confidence T2 High
+T3	Trust 175 179;180 188	niet stressen
+A3	Confidence T3 High
+T4	Trust 192 199	geloven
+A4	Confidence T4 High
+T5	Trust 208 212	ziel
+A5	Confidence T5 High
+T6	Trust 216 222	kracht
+A6	Confidence T6 High
+T7	Disgust 231 234;235 236;237 241	get a life
+A7	Confidence T7 High

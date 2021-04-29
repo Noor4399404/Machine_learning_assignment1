@@ -1,0 +1,6 @@
+T1	Anger 80 88	bullshit
+A1	Confidence T1 Main
+T2	Disgust 53 59	Muddle
+A2	Confidence T2 High
+T3	Disgust 13 16;4 12	out dropping
+A3	Confidence T3 Low

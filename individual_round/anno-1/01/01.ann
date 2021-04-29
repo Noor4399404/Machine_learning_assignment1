@@ -1,0 +1,6 @@
+T1	Fear 142 147	vrees
+A1	Confidence T1 Main
+T3	Fear 198 213	raken verstrikt
+A3	Confidence T3 High
+T2	Fear 164 173;184 193	overzicht verliezen
+A2	Confidence T2 High

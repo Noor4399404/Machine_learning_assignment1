@@ -1,0 +1,9 @@
+T1	Disgust 14 28	bagatelliseert
+A1	Confidence T1 High
+T2	Anger 143 147;151 157;158 169	NIET juiste maatregelen
+A2	Confidence T2 Low
+T3	Other 175 179;180 186	gaan lekker
+A3	Confidence T3 Low
+#1	AnnotatorNotes T3	sarcasm
+T4	Anger 239 243;244 248;249 257	orgs zijn schuldig
+A4	Confidence T4 Main

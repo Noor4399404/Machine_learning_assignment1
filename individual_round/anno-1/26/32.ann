@@ -1,0 +1,8 @@
+T1	Other 16 23;24 30	vingers getikt
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	Irony
+T2	Joy 108 110	:D
+A2	Confidence T2 High
+T3	Other 34 36	:)
+A3	Confidence T3 Main
+#2	AnnotatorNotes T3	Irony

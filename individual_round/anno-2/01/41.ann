@@ -1,0 +1,8 @@
+T1	Anger 11 17;2 10	deuren gesmeten
+A1	Confidence T1 Main
+T2	Sadness 30 36	huilen
+A2	Confidence T2 High
+T3	Anger 53 55;56 63	op stampen
+A3	Confidence T3 High
+T4	Sadness 81 87	huilen
+A4	Confidence T4 High

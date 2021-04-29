@@ -1,0 +1,8 @@
+T1	Joy 61 65;69 72	niet erg
+A1	Confidence T1 High
+T2	Sadness 98 107	verliezen
+A2	Confidence T2 High
+T3	Sadness 165 173	#sterven
+A3	Confidence T3 High
+T4	Anger 212 218	#moord
+A4	Confidence T4 Main

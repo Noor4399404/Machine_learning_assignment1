@@ -1,0 +1,5 @@
+T1	Trust 77 81;86 90	doen best
+A1	Confidence T1 Main
+T2	Anger 16 20;21 27;9 15	maar vragen blijft
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	annoyance

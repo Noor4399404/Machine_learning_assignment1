@@ -1,0 +1,12 @@
+T1	Disgust 59 65;66 72	zoveel fouten
+A1	Confidence T1 Main
+T2	Disgust 100 106;107 109;114 118;93 99	levens op spel mensen
+A2	Confidence T2 High
+T3	Disgust 125 131;141 146;147 155	fouten NOOIT vergeten
+A3	Confidence T3 High
+T4	Disgust 179 180	😡
+A4	Confidence T4 High
+T5	Disgust 219 220	😡
+A5	Confidence T5 High
+T6	Disgust 251 252	😡
+A6	Confidence T6 High

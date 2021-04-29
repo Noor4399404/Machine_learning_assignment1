@@ -1,0 +1,5 @@
+T1	Fear 0 3;4 9	Hoe weten
+A1	Confidence T1 Low
+T2	Fear 49 52;53 59;77 89	pas testen risicogebied
+A2	Confidence T2 Low
+#2	AnnotatorNotes T2	concern

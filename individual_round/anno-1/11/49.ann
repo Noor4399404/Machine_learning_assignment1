@@ -1,0 +1,4 @@
+T1	Fear 140 146;147 151	gevaar loop
+A1	Confidence T1 Main
+T2	Surprise 14 19;20 22;23 25	vroeg me af
+A2	Confidence T2 Low

@@ -1,0 +1,8 @@
+T1	Trust 4 10	roepen
+A1	Confidence T1 High
+T2	Trust 11 13	op
+A2	Confidence T2 High
+T3	Trust 33 42	voorbeeld
+A3	Confidence T3 Main
+T4	Trust 57 63	volgen
+A4	Confidence T4 Main

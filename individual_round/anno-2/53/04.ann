@@ -1,0 +1,10 @@
+T1	Anger 0 3;28 31;4 9	Wie les leest
+A1	Confidence T1 Main
+T2	Anger 43 48;63 66;67 70	komen mee weg
+A2	Confidence T2 Main
+T3	Anger 72 77;78 84	eerst zeggen
+A3	Confidence T3 Main
+T4	Anger 133 135	nu
+A4	Confidence T4 Main
+T5	Anger 161 169	dadelijk
+A5	Confidence T5 Main

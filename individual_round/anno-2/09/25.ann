@@ -1,0 +1,6 @@
+T1	Disgust 128 141;142 149	schurkenstaat Turkije
+A1	Confidence T1 High
+T2	Disgust 226 228;229 231;232 239	Ga je schamen
+A2	Confidence T2 Main
+T3	Disgust 263 274	roversbende
+A3	Confidence T3 High

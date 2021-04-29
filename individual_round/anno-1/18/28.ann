@@ -1,0 +1,5 @@
+T1	Anger 13 16;24 27;32 40	kap met aanjagen
+A1	Confidence T1 Main
+T2	Other 123 129;130 137	Alvast bedankt
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Sarcasm

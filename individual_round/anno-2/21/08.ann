@@ -1,0 +1,15 @@
+T1	Sadness 211 217;235 241	geloof minder
+T2	Anger 250 277	iktikditmetmijnmiddelvinger
+A1	Confidence T2 High
+T3	Other 168 177	fabeltjes
+A2	Confidence T3 Main
+#1	AnnotatorNotes T3	distrust
+T4	Other 279 293	fabeltjeskrant
+A3	Confidence T4 Main
+#2	AnnotatorNotes T4	distrust
+T5	Trust 27 33;34 37	minder erg
+A4	Confidence T5 Low
+T6	Other 72 77	hopen
+A5	Confidence T6 Low
+#3	AnnotatorNotes T6	irony
+A6	Confidence T1 High

@@ -1,0 +1,6 @@
+T1	Anger 101 106;107 115	onzin verkopen
+A1	Confidence T1 Main
+T2	Disgust 0 9;10 26	Pijnlijke Twitter-tijdlijn
+A2	Confidence T2 Low
+T3	Anger 58 62;63 67;68 74	geen idee hebben
+A3	Confidence T3 High

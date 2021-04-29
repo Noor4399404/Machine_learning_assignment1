@@ -1,0 +1,5 @@
+T1	Disgust 34 42	knullige
+A1	Confidence T1 Main
+T2	Other 116 122;123 126	Lekker dan
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Irony

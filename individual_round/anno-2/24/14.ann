@@ -1,0 +1,10 @@
+T1	Sadness 24 35	quarantaine
+A1	Confidence T1 High
+T2	Fear 37 46;47 52	bedrijven dicht
+A2	Confidence T2 Main
+T3	Fear 54 58;59 66	geen inkomen
+A3	Confidence T3 Main
+T4	Fear 68 73	armoe
+A4	Confidence T4 Main
+T5	Fear 75 82	dakloos
+A5	Confidence T5 Main

@@ -1,0 +1,8 @@
+T1	Caring 186 192	helpen
+A1	Confidence T1 Main
+T2	Caring 170 174;175 181	vast houden
+A2	Confidence T2 Main
+T3	Surprise 70 76;77 81;94 98	dringt niet door
+A3	Confidence T3 High
+T4	Disgust 109 113	rare
+A4	Confidence T4 High

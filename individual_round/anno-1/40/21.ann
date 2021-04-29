@@ -1,0 +1,12 @@
+T1	Anger 0 2	Ah
+A1	Confidence T1 High
+T2	Anger 38 41	nog
+A2	Confidence T2 Main
+T3	Anger 42 46	niet
+A3	Confidence T3 Main
+T4	Anger 47 51	eens
+A4	Confidence T4 Main
+T5	Anger 78 84	totale
+A5	Confidence T5 Main
+T6	Anger 85 95	paardenlul
+A6	Confidence T6 Main

@@ -1,0 +1,8 @@
+T1	Anger 202 214	gewaarschuwd
+A1	Confidence T1 Main
+T2	Anger 175 186	geschrokken
+A2	Confidence T2 Main
+T3	Anger 100 111;89 96	verkondigen Leugens
+A3	Confidence T3 Main
+T4	Anger 139 143;144 147;148 155	maar een Griepje
+A4	Confidence T4 Main

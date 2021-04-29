@@ -1,0 +1,6 @@
+T1	Trust 0 5	Prima
+A1	Confidence T1 Main
+T2	Caring 23 27	Dank
+A2	Confidence T2 High
+T3	Sadness 164 167	Mis
+A3	Confidence T3 High

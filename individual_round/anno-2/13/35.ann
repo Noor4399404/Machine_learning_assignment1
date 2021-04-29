@@ -1,0 +1,12 @@
+T1	Trust 145 149	Jong
+A1	Confidence T1 Main
+T2	Trust 152 164	Vrijwilliger
+A2	Confidence T2 Main
+T3	Trust 167 181	Zelfbedruipend
+A3	Confidence T3 Main
+T4	Trust 194 209	Ongesubsidieerd
+A4	Confidence T4 Main
+T5	Trust 259 263;269 274	ECHT nodig
+A5	Confidence T5 Main
+T6	Trust 76 82	helden
+A6	Confidence T6 Main

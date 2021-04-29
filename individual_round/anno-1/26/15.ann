@@ -1,0 +1,9 @@
+T1	Other 255 258	Duh
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	Irony
+T2	Other 218 228	natuurlijk
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	Irony
+T3	Other 53 57;58 61;62 65;69 73	over the top film
+A3	Confidence T3 Main
+#3	AnnotatorNotes T3	Irony

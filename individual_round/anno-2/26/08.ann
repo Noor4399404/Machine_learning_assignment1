@@ -1,0 +1,4 @@
+T1	Anticipation 38 48	uitrekenen
+A1	Confidence T1 Main
+T2	Anticipation 86 90;91 93;94 104	Kans op besmetting
+A2	Confidence T2 Main

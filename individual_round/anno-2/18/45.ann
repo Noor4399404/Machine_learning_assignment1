@@ -1,0 +1,8 @@
+T1	Disgust 42 48	lastig
+A1	Confidence T1 Main
+T2	Disgust 49 51	te
+A2	Confidence T2 High
+T3	Disgust 52 61	begrijpen
+A3	Confidence T3 High
+T4	Anger 223 237	schoolvakantie
+A4	Confidence T4 Low

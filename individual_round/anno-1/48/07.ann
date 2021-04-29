@@ -1,0 +1,4 @@
+T1	Fear 120 126;130 139	proces vertragen
+A1	Confidence T1 Main
+T2	Fear 0 6;59 71;7 19	Aantal voorspelbaar besmettingen
+A2	Confidence T2 High

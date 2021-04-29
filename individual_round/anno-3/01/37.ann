@@ -1,0 +1,6 @@
+T1	Anger 78 86	disaster
+A1	Confidence T1 Main
+T2	Surprise 90 102	incalculable
+A2	Confidence T2 High
+T3	Fear 9 13	hope
+A3	Confidence T3 Low

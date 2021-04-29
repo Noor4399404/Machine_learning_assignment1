@@ -1,0 +1,8 @@
+T1	Anger 138 142;151 156	doet niets
+A1	Confidence T1 Main
+T2	Anticipation 143 150	wederom
+A2	Confidence T2 High
+T3	Caring 158 162;176 186	Stop controleer
+A3	Confidence T3 High
+T4	Anger 229 238	naïviteit
+A4	Confidence T4 High

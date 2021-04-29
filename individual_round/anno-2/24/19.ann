@@ -1,0 +1,9 @@
+T1	Anger 4 15	allerergste
+A1	Confidence T1 Main
+T2	Fear 92 96	bang
+A2	Confidence T2 High
+T3	Fear 103 107	Bang
+A3	Confidence T3 High
+T4	Other 169 176	bedankt
+A4	Confidence T4 High
+#1	AnnotatorNotes T4	sarcasm

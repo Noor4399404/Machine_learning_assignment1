@@ -1,0 +1,6 @@
+T1	Trust 115 120	ECHTE
+A1	Confidence T1 Main
+T2	Trust 76 82	helden
+A2	Confidence T2 Main
+T3	Trust 259 263;269 274	ECHT nodig
+A3	Confidence T3 Main

@@ -1,0 +1,4 @@
+T1	Disgust 0 8;14 18;19 29;35 42	Couldn't have instituted earlier
+A1	Confidence T1 Main
+T2	Fear 131 135;136 141	Stay there
+A2	Confidence T2 High

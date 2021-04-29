@@ -1,0 +1,9 @@
+T1	Trust 20 25;26 32	goede nieuws
+A1	Confidence T1 Main
+T2	Trust 108 110;111 113;114 121	af te vlakken
+A2	Confidence T2 Main
+T3	Sadness 134 137;138 141;147 152	wel wat nodig
+T4	Trust 222 232	blijfthuis
+A3	Confidence T4 Main
+T5	Trust 234 245	blijfgezond
+A4	Confidence T5 Main

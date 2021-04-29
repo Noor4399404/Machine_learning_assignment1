@@ -1,0 +1,6 @@
+T1	Fear 20 30	schrijnend
+A1	Confidence T1 Main
+T2	Anger 206 209;210 214;215 217	Hou eens op
+A2	Confidence T2 Low
+T3	Anger 163 172	blijkbaar
+A3	Confidence T3 Low

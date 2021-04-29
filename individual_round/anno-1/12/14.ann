@@ -1,0 +1,5 @@
+T1	Surprise 76 84;85 92	piekeren checken
+A1	Confidence T1 Main
+T2	Sadness 221 225;226 234	zeer onrustig
+T3	Sadness 238 248	emotioneel
+A2	Confidence T3 High

@@ -1,0 +1,8 @@
+T2	Fear 175 179;180 185;186 189	geen vrije wil
+A2	Confidence T2 Main
+T3	Fear 205 209;210 217	geen geweten
+A3	Confidence T3 Main
+T4	Fear 11 23;40 49	slachtoffers opgelopen
+A4	Confidence T4 Main
+T5	Fear 112 123;70 78	vastgesteld Covid19n
+A5	Confidence T5 Main

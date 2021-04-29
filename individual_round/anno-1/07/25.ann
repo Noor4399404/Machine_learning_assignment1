@@ -1,0 +1,7 @@
+T1	Caring 100 110	blijfthuis
+T2	Caring 112 122	StayAtHome
+A1	Confidence T2 High
+T3	Surprise 26 30	ofzo
+A2	Confidence T3 Main
+T4	Surprise 30 34	????
+A3	Confidence T4 Main

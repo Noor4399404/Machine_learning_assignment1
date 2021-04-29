@@ -1,0 +1,10 @@
+T1	Disgust 0 2;3 5	Ja ja
+A1	Confidence T1 High
+T2	Disgust 30 33;34 39;40 42;43 46;47 50	Nou weten we het wel
+A2	Confidence T2 Main
+T3	Disgust 67 80	massahysterie
+A3	Confidence T3 High
+T4	Anger 52 55;56 58	Hou op
+A4	Confidence T4 High
+T5	Anger 10 14;15 23;24 28	gaan allemaal dood
+A5	Confidence T5 Low

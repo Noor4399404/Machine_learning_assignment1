@@ -1,0 +1,6 @@
+T1	Disgust 46 54	egoïsten
+A1	Confidence T1 Main
+T2	Disgust 144 154	achterlijk
+A2	Confidence T2 Main
+T3	Fear 180 186;192 198	levens kosten
+A3	Confidence T3 High

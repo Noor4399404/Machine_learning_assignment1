@@ -1,0 +1,8 @@
+T1	Anger 52 55;56 58	Hou op
+A1	Confidence T1 Main
+T2	Anger 0 2;10 14;15 23;24 28;3 5;7 9	Ja gaan allemaal dood ja we
+A2	Confidence T2 Low
+T3	Disgust 34 39;43 46;47 50	weten het wel
+A3	Confidence T3 High
+T4	Disgust 67 80	massahysterie
+A4	Confidence T4 High

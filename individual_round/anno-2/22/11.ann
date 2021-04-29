@@ -1,0 +1,6 @@
+T1	Anger 12 14;15 18;8 11	op zeg kom
+A1	Confidence T1 Main
+T2	Disgust 40 45;46 51	klote virus
+A2	Confidence T2 High
+T3	Disgust 68 72;73 79	geen gezeik
+A3	Confidence T3 High

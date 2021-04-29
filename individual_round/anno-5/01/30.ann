@@ -1,0 +1,4 @@
+T1	Fear 35 39	dead
+A1	Confidence T1 Main
+T2	Fear 136 146;152 161	infections increases
+A2	Confidence T2 Main

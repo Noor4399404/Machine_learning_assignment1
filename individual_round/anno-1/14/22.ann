@@ -1,0 +1,6 @@
+T1	Anger 20 25;6 11	barst liegt
+A1	Confidence T1 Main
+T2	Anger 102 107;97 101	right Yeah
+A2	Confidence T2 Main
+T3	Anger 111 115;122 135	Waar journalistiek
+A3	Confidence T3 Low

@@ -1,0 +1,6 @@
+T1	Anticipation 89 95;96 100	uitleg voor
+A1	Confidence T1 Main
+T2	Fear 157 168	geschrokken
+A2	Confidence T2 Low
+T3	Disgust 218 222;223 227	écht ziek
+A3	Confidence T3 High

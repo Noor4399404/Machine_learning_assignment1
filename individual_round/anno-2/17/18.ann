@@ -1,0 +1,8 @@
+T1	Joy 32 33	!
+A1	Confidence T1 Low
+T2	Sadness 59 65;66 71	alleen thuis
+A2	Confidence T2 Main
+T3	Other 112 128	waarishetfeestje
+#1	AnnotatorNotes T3	irony
+T4	Fear 75 80;81 85	durft niet
+A3	Confidence T4 High

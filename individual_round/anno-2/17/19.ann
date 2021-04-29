@@ -1,0 +1,6 @@
+T1	Anger 30 38	misdadig
+A1	Confidence T1 Main
+T2	Disgust 250 255	vuile
+A2	Confidence T2 High
+T3	Disgust 107 112;113 116;117 121;122 126	zelfs met zere keel
+A3	Confidence T3 Low

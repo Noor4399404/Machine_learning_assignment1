@@ -1,0 +1,7 @@
+T1	Surprise 15 24;25 27	Bijzonder he
+T2	Fear 57 61;62 65;70 79	voel mij crimineel
+A1	Confidence T2 Low
+T3	Caring 101 112	pasopjezelf
+A2	Confidence T3 Main
+T4	Caring 114 124	blijfthuis
+A3	Confidence T4 Main

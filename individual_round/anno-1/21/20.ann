@@ -1,0 +1,8 @@
+T1	Fear 30 34;35 37;38 45	niet te stoppen
+A1	Confidence T1 Main
+T2	Fear 47 53;54 58;73 85	Steeds meer geïnfecteerd
+A2	Confidence T2 Main
+T3	Fear 137 143	schade
+A3	Confidence T3 Main
+T4	Anticipation 165 169;170 178;179 183;184 187;188 194	niet iedereen zich van bewust
+A4	Confidence T4 Low

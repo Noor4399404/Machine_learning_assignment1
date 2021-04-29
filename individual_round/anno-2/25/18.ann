@@ -1,0 +1,7 @@
+T1	Surprise 26 27;7 13	? ineens
+A1	Confidence T1 Main
+T2	Surprise 58 67	Kennelijk
+A2	Confidence T2 Main
+T3	Fear 146 154	wanhopig
+T4	Caring 247 251;252 256;264 270	goed voor zorgen
+A3	Confidence T4 Low

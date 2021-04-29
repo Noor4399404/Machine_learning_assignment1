@@ -1,0 +1,7 @@
+T1	Other 0 6;7 9	Lekker hè
+#1	AnnotatorNotes T1	sarcasm
+T2	Other 30 34;35 38;39 45;46 49;50 59	Iets van houden aan afspraken
+A1	Confidence T2 Main
+T3	Other 63 68;73 75;76 77;77 83;83 84	leren je ‘ fouten ’
+A2	Confidence T3 Low
+A3	Confidence T1 Main

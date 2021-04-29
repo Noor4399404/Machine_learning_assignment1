@@ -1,0 +1,8 @@
+T1	Disgust 0 3	GVD
+A1	Confidence T1 High
+T2	Anger 0 3	GVD
+A2	Confidence T2 Main
+T3	Anger 70 80	Schandalig
+A3	Confidence T3 Main
+T4	Disgust 54 63	verzwegen
+A4	Confidence T4 High

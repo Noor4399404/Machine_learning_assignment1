@@ -1,0 +1,7 @@
+T1	Caring 16 20	Dank
+A1	Confidence T1 Low
+T2	Sadness 39 42;43 49	wel jammer
+A2	Confidence T2 Main
+T3	Other 200 201	😉
+A3	Confidence T3 High
+#1	AnnotatorNotes T3	Irony

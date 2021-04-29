@@ -1,0 +1,10 @@
+T1	Other 46 48;60 63;64 69;70 76;77 84	GA ALS KUDDE DIEREN EROPUIT
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	Irony
+T2	Anger 124 129;130 138	grote gevolgen
+A2	Confidence T2 Main
+T3	Other 102 111	gezellige
+A3	Confidence T3 Low
+#2	AnnotatorNotes T3	Irony
+T4	Anger 262 271	verliezen
+A4	Confidence T4 Low

@@ -1,0 +1,9 @@
+T1	Other 251 254;267 269;270 278	wie ik vertrouw
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	distrust
+T2	Other 163 169;173 181	scheld bedreigt
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	distrust
+T3	Other 223 230;231 240	complot theorieën
+A3	Confidence T3 Main
+#3	AnnotatorNotes T3	distrust

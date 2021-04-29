@@ -1,0 +1,8 @@
+T1	Disgust 109 114	Sterf
+A1	Confidence T1 Main
+T2	Disgust 115 119	maar
+A2	Confidence T2 High
+T3	Anger 36 41	zoals
+A3	Confidence T3 Low
+T4	Anger 42 52	gewoonlijk
+A4	Confidence T4 Low

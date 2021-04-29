@@ -1,0 +1,8 @@
+T1	Other 102 107;97 101	right Yeah
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	Distrust
+T2	Other 6 11	liegt
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	Distrust
+T3	Anticipation 111 115	Waar
+A3	Confidence T3 Low

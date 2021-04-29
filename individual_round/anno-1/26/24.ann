@@ -1,0 +1,12 @@
+T1	Anger 15 23;24 29;30 33	helemaal klaar mee
+A1	Confidence T1 Main
+T2	Anger 65 67;68 74	op rotten
+A2	Confidence T2 Main
+T3	Anger 75 78;79 84	weg wezen
+A3	Confidence T3 Main
+T4	Anger 91 96;97 101	deugt niet
+A4	Confidence T4 Main
+T5	Anger 103 110;115 122	Stoppen domheid
+A5	Confidence T5 Main
+T6	Anger 194 197;198 209	hoe betrouwbaar
+A6	Confidence T6 Main

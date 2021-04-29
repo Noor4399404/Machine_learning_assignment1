@@ -1,0 +1,12 @@
+T1	Disgust 46 50;51 55;56 62	Gaan over lijken
+A1	Confidence T1 Main
+T2	Disgust 147 152;153 160	laten stikken
+A2	Confidence T2 Main
+T3	Disgust 184 197	verachtelijke
+A3	Confidence T3 Main
+T4	Disgust 198 210	incompetente
+A4	Confidence T4 Main
+T5	Disgust 211 216	domme
+A5	Confidence T5 Main
+T6	Disgust 246 257	islampijper
+A6	Confidence T6 Main

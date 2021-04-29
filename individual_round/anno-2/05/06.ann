@@ -1,0 +1,8 @@
+T1	Anger 155 161	zieker
+A1	Confidence T1 Main
+T2	Surprise 0 4;13 16;9 12	Ligt mij aan
+A2	Confidence T2 High
+T3	Anger 82 91	opkloppen
+A3	Confidence T3 Main
+T4	Anger 106 110;111 117;121 134	veel groter verwoestender
+A4	Confidence T4 Main
