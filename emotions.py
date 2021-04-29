@@ -50,14 +50,14 @@ def main():
         list(main_emotions['anno-2'].values())
         )
 
-    print(f'The cohen kappa score is: {cohen_kappa}')
+    print(f'The Cohen kappa score is: {cohen_kappa}\n')
 
     matrix = confusion_matrix(
         list(main_emotions['anno-1'].values()), 
         list(main_emotions['anno-2'].values())
         )
     
-    print(matrix)
+    print(f'The confusion matrix is the following:\n{matrix}')
 
 
 if __name__ == "__main__":
