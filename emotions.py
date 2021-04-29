@@ -50,7 +50,7 @@ def main():
         list(main_emotions['anno-2'].values())
         )
 
-    print(cohen_kappa)
+    print(f'The cohen kappa score is: {cohen_kappa}')
 
 
 if __name__ == "__main__":
