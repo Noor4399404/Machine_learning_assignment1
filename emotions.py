@@ -1,7 +1,7 @@
 import argparse
 import pprint
 from sklearn.metrics import cohen_kappa_score
-
+from sklearn.metrics import confusion_matrix
 
 def main_emotions_collecter(folderpath):
 
@@ -51,6 +51,13 @@ def main():
         )
 
     print(cohen_kappa)
+
+    matrix = confusion_matrix(
+        list(main_emotions['anno-1'].values()), 
+        list(main_emotions['anno-2'].values())
+        )
+    
+    print(matrix)
 
 
 if __name__ == "__main__":
