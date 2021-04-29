@@ -50,7 +50,7 @@ def main():
         list(main_emotions['anno-2'].values())
         )
 
-    print(cohen_kappa)
+    print(f'The cohen kappa score is: {cohen_kappa}')
 
     matrix = confusion_matrix(
         list(main_emotions['anno-1'].values()), 
