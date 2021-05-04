@@ -19,11 +19,10 @@ always similar.
 Recommendations for annotations tweets: 
 
 Sometimes the tweets did not have a main emotion of feeling. 
-Therefor the tweets were sometimes emotionless and just giving information
+Therefore the tweets were sometimes emotionless and just giving information
 or stating facts.
 There was not a annotation for those tweets. 
-Furthermore some tweets were giving some sarcastic tweets, there was not a label for this tone.
-So it can be possible these tweets were annotated wrong because of the often happy words used that were
-not meant that way. 
-Sometimes the tweets were not given a main emotion at all. 
-When there was not a emotion annotated, the annotations often were not similar. 
+Furthermore some tweets had the possibility of being sarcasting, there was not a label for this émotion'.
+In this case often happy words were used to describe there feelings. 
+So it can be possible that these tweets were annotated wrong and did not express joy or happiness at all,
+but rather disgust or anger. 
