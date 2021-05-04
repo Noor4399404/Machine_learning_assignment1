@@ -1,0 +1,27 @@
+The output of emotions.py run on the folder: individual_round
+The Cohen kappa score is: 0.1642788920725884
+
+The confusion matrix is the following:
+[[1 0 0 2 0 0 0 0 1 0]
+ [2 0 0 0 0 0 0 0 0 0]
+ [1 0 0 0 0 0 1 1 0 3]
+ [3 0 0 6 0 0 0 0 0 0]
+ [1 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 1 0 0 1]
+ [0 1 0 4 0 3 7 0 1 1]
+ [1 0 0 2 0 0 1 0 0 0]
+ [0 0 0 0 0 0 0 0 1 0]
+ [1 0 0 0 0 0 2 0 1 0]]
+
+This kappa score is quite low. This means our annotations are not 
+always similar. 
+
+Recommendations for annotations tweets: 
+
+Sometimes the tweets did not have a main emotion of feeling. 
+Therefor the tweets were sometimes emotionless and just giving information
+or stating facts.
+There was not a annotation for those tweets. 
+Furthermore some tweets were giving some sarcastic tweets, there was not a label for this tone.
+So it can be possible these tweets were annotated wrong because of the often happy words used that were
+not meant that way. 
