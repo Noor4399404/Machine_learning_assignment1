@@ -25,3 +25,5 @@ There was not a annotation for those tweets.
 Furthermore some tweets were giving some sarcastic tweets, there was not a label for this tone.
 So it can be possible these tweets were annotated wrong because of the often happy words used that were
 not meant that way. 
+Sometimes the tweets were not given a main emotion at all. 
+When there was not a emotion annotated, the annotations often were not similar. 
