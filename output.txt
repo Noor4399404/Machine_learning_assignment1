@@ -14,7 +14,9 @@ The confusion matrix is the following:
  [1 0 0 0 0 0 2 0 1 0]]
 
 This kappa score is quite low. This means our annotations are not 
-always similar. 
+always similar. This was because, as we found out later, we had quite the same thoughts about the emotions in the 
+sentence, but our annotations were just not quite the same. 
+
 
 Recommendations for annotations tweets: 
  
