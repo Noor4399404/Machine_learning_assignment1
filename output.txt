@@ -17,12 +17,15 @@ This kappa score is quite low. This means our annotations are not
 always similar. 
 
 Recommendations for annotations tweets: 
-
-Sometimes the tweets did not have a main emotion of feeling. 
-Therefore the tweets were sometimes emotionless and just giving information
-or stating facts.
-There was not a annotation for those tweets. 
-Furthermore some tweets had the possibility of being sarcasting, there was not a label for this émotion'.
-In this case often happy words were used to describe there feelings. 
+ 
+Some tweets had the possibility of being sarcastic, there was not a label for this 'emotion'.
+In this case often happy words were used to describe feelings, but it was not always sure wheter
+these emotions were true or not, and if they were, it was unclear how to annotate them. 
+Some tweets could also been seen as sarcasm or not, but this would depend on the person writing the tweet. There were
+no guidelines for such cases.
 So it can be possible that these tweets were annotated wrong and did not express joy or happiness at all,
 but rather disgust or anger. 
+
+As a recommendation to solve this issue: if an annotator is able to spot the sarcasm, there could be another tag on top of
+the already existing emotion to show the sarcasm in the tweet. We do not know if this is feasible, but at first thought this could 
+fix the issue we encountered.
