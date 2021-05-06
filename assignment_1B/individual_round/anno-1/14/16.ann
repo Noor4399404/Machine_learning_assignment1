@@ -1,0 +1,8 @@
+T1	Sadness 15 22;28 36	ernstig twijfels
+A1	Confidence T1 Low
+T2	Sadness 87 101	uitzonderingen
+A2	Confidence T2 Low
+T3	Sadness 152 157;165 169	leven spel
+A3	Confidence T3 Low
+T4	Fear 198 203;219 223	griep voor
+A4	Confidence T4 Low

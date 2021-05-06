@@ -1,0 +1,6 @@
+T1	Anger 254 257;258 261;262 265;266 270;271 280	wat dat ook moge betekenen
+A1	Confidence T1 Main
+T2	Anger 194 200;201 205	lekker vaag
+A2	Confidence T2 Main
+T3	Trust 6 15	Eindelijk
+A3	Confidence T3 Low

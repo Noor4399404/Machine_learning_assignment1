@@ -1,0 +1,4 @@
+T1	Disgust 80 86;87 90;91 94;96 100	clowns van het RIVM
+A1	Confidence T1 Main
+T2	Anger 187 191;192 197	zooi onzin
+A2	Confidence T2 High

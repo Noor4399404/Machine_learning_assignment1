@@ -1,0 +1,5 @@
+T1	Anger 35 38;39 43;44 47;48 54	nog niet erg genoeg
+A1	Confidence T1 Main
+T2	Other 124 136;172 180;217 225;263 270;71 79	collaboratie verraden Idijoden Warnung kliklijn
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Irony

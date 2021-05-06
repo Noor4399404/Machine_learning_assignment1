@@ -1,0 +1,6 @@
+T1	Disgust 151 161;161 162;162 163;163 164	riooltweet . . .
+A1	Confidence T1 Main
+T2	Disgust 83 91;92 95;96 102	iedereen nog lachte
+T3	Trust 20 23;24 27;28 30;31 38	één van de eersten
+A2	Confidence T3 High
+A3	Confidence T2 Main

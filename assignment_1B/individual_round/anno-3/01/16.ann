@@ -1,0 +1,10 @@
+T1	Anger 173 181	Allowing
+A1	Confidence T1 Main
+T2	Disgust 196 202;203 209	meekly happen
+A2	Confidence T2 Low
+T3	Disgust 81 85;86 88	shut up
+A3	Confidence T3 High
+T4	Trust 25 34;35 41	seriously listen
+A4	Confidence T4 High
+T5	Anticipation 137 147	interfered
+A5	Confidence T5 High

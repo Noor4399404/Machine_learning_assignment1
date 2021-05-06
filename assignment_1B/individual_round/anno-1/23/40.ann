@@ -1,0 +1,22 @@
+T1	Disgust 60 71	fuck jullie
+A1	Confidence T1 High
+T2	Disgust 72 73	🖕
+A2	Confidence T2 High
+T3	Trust 139 149	waanzinnig
+A3	Confidence T3 Main
+T4	Trust 150 154;155 168	goed georganiseerd
+A4	Confidence T4 High
+T5	Caring 139 168	waanzinnig goed georganiseerd
+A5	Confidence T5 High
+T6	Caring 181 190	geweldige
+A6	Confidence T6 High
+T7	Trust 181 190	geweldige
+A7	Confidence T7 High
+T8	Trust 208 216	serieuze
+A8	Confidence T8 High
+T9	Caring 251 252	💛
+A9	Confidence T9 High
+T10	Disgust 13 23	blaaskaken
+A10	Confidence T10 High
+T11	Disgust 27 41	oproerkraaiers
+A11	Confidence T11 High

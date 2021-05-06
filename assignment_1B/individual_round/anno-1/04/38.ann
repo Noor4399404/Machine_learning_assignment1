@@ -1,0 +1,4 @@
+T1	Fear 66 70;80 86	maar blijkt
+T2	Fear 215 219;226 230;234 239;246 250	niet bang maken hoor
+A1	Confidence T2 Main
+A2	Confidence T1 Main

@@ -1,0 +1,4 @@
+T1	Disgust 40 42;43 46;47 56;57 61;62 67	op het verkeerde been gezet
+A1	Confidence T1 Main
+T2	Anger 147 152	NEXIT
+A2	Confidence T2 High

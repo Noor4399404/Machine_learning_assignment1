@@ -1,0 +1,4 @@
+T1	Fear 79 87;88 94	verboden gebied
+A1	Confidence T1 Main
+T2	Fear 117 126	covid19nl
+A2	Confidence T2 Main

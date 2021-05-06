@@ -1,0 +1,6 @@
+T1	Disgust 71 81	egoistisch
+A1	Confidence T1 Main
+T2	Trust 117 124	respect
+A2	Confidence T2 High
+T3	Trust 183 189;190 193;194 198;199 202;203 207	Zonder hun lukt het niet
+A3	Confidence T3 High

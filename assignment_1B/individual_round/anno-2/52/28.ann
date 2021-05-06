@@ -1,0 +1,9 @@
+T1	Sadness 19 23	nivo
+A1	Confidence T1 Main
+T2	Sadness 24 43	speeltuinvereniging
+A2	Confidence T2 Main
+T3	Surprise 68 75	niemand
+T4	Surprise 76 79	die
+A3	Confidence T4 High
+T5	Surprise 80 86	vraagt
+A4	Confidence T5 High

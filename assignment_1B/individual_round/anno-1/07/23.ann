@@ -1,0 +1,9 @@
+T1	Surprise 75 81	Waarom
+T2	Disgust 129 132;133 137;138 141	Kap daar mee
+A1	Confidence T2 Main
+T3	Disgust 231 234;235 236;237 241	get a life
+A2	Confidence T3 Main
+T4	Joy 175 179;180 188	niet stressen
+A3	Confidence T4 Low
+T5	Trust 192 199;200 202	geloven in
+A4	Confidence T5 High

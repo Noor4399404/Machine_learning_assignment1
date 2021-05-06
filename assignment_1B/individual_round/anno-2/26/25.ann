@@ -1,0 +1,6 @@
+T1	Anticipation 171 185;186 189;190 196	waarschijnlijk wel paniek
+A1	Confidence T1 Main
+T2	Sadness 31 38;39 43	voldoen niet
+A2	Confidence T2 High
+T3	Sadness 88 96	verloren
+A3	Confidence T3 High

@@ -1,0 +1,10 @@
+T1	Trust 40 43;44 50	met elkaar
+A1	Confidence T1 Main
+T2	Fear 119 125;144 149;153 157	speelt leven dood
+A2	Confidence T2 High
+T3	Trust 177 181;182 202	onze verantwoordelijkheid
+A3	Confidence T3 Main
+T4	Trust 218 222;223 228	goed voelt
+A4	Confidence T4 Main
+T5	Trust 238 243;244 248	nooit fout
+A5	Confidence T5 Main

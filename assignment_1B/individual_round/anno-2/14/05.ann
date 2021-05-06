@@ -1,0 +1,11 @@
+T1	Anger 15 21	klagen
+A1	Confidence T1 Main
+T2	Anger 52 55	Pff
+A2	Confidence T2 Main
+T3	Anger 124 130	mensen
+A3	Confidence T3 Main
+T4	Anger 93 100	serieus
+A4	Confidence T4 Main
+T5	Other 233 239	allang
+A5	Confidence T5 Low
+#1	AnnotatorNotes T5	Irony

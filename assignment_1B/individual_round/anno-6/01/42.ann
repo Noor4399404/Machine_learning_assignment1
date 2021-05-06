@@ -1,0 +1,5 @@
+T1	Anger 76 83;84 93	totally incorrect
+A1	Confidence T1 Main
+T2	Sadness 122 130;95 97	optimism no
+T3	Anger 208 214	laxity
+A2	Confidence T3 Main

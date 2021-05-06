@@ -1,0 +1,10 @@
+T1	Surprise 12 16;3 7	niet snap
+A1	Confidence T1 Main
+T2	Anticipation 23 27	gaan
+A2	Confidence T2 High
+T3	Anticipation 127 131;89 93	door gaat
+A3	Confidence T3 High
+T4	Anticipation 164 171;172 177;181 186	hoelaat laten weten
+A4	Confidence T4 High
+T5	Anticipation 214 220;237 243	waarom gezegd
+A5	Confidence T5 High

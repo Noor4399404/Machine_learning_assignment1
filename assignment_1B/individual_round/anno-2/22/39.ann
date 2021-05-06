@@ -1,0 +1,4 @@
+T1	Trust 26 30;31 33	Lets go
+A1	Confidence T1 Main
+T2	Trust 142 149;150 154	normaal doen
+A2	Confidence T2 Low

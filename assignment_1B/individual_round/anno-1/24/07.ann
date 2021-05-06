@@ -1,0 +1,10 @@
+T1	Trust 55 59;66 76	Druk vermindert
+A1	Confidence T1 High
+T2	Fear 78 90	Waarschuwing
+A2	Confidence T2 Main
+T3	Fear 134 138;139 146	niet voorbij
+A3	Confidence T3 Main
+T4	Trust 17 20;21 26	weg terug
+A4	Confidence T4 High
+T5	Sadness 48 53	doden
+A5	Confidence T5 Low

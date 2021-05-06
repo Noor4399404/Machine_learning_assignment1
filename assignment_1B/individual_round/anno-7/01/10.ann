@@ -1,0 +1,8 @@
+T1	Anger 60 68	Nonsense
+A1	Confidence T1 Main
+T2	Anger 79 88	blundered
+A2	Confidence T2 High
+T3	Anger 194 203;204 207	Seriously ill
+A3	Confidence T3 Low
+T4	Trust 159 167;168 176	adequate approach
+A4	Confidence T4 High

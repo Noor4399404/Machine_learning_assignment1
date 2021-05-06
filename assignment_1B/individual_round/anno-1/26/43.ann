@@ -1,0 +1,6 @@
+T1	Sadness 79 85	helaas
+A1	Confidence T1 Main
+T2	Sadness 61 65;69 72;73 78	over 100 doden
+A2	Confidence T2 High
+T3	Anger 103 108	liegt
+A3	Confidence T3 High

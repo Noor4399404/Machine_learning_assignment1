@@ -1,0 +1,5 @@
+T1	Disgust 12 21;22 26	eigenlijk niet
+A1	Confidence T1 Low
+T2	Anger 239 252	uitgescholden
+T3	Anger 224 226;227 229;230 234;235 238	op de koop toe
+A2	Confidence T3 Main

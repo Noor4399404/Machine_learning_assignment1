@@ -1,0 +1,6 @@
+T1	Caring 0 15	#ZorgVoorElkaar
+A1	Confidence T1 Main
+T2	Caring 101 107;108 112;96 100	elkaar zijn voor
+A2	Confidence T2 Main
+T3	Caring 212 218	redden
+A3	Confidence T3 Main

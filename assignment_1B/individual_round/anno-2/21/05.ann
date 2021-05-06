@@ -1,0 +1,8 @@
+T1	Trust 21 25;26 31;32 34;35 39	Hart onder de riem
+A1	Confidence T1 Main
+T2	Trust 0 5;6 10	Goede doel
+A2	Confidence T2 Main
+T3	Trust 122 132	samensterk
+A3	Confidence T3 Main
+T4	Trust 82 84;85 91;92 95	We kunnen dit
+A4	Confidence T4 Main

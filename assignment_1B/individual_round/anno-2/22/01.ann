@@ -1,0 +1,10 @@
+T1	Trust 18 22	snap
+A1	Confidence T1 High
+T3	Anger 149 154;155 163	alles toelaten
+A3	Confidence T3 High
+T4	Anger 165 169;170 175	open laten
+A4	Confidence T4 High
+T5	Anger 179 183;184 191	geen gevaren
+A5	Confidence T5 High
+T6	Disgust 253 260	dreigen
+A6	Confidence T6 Main

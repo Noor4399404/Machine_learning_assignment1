@@ -1,0 +1,10 @@
+T1	Sadness 83 89	crying
+A1	Confidence T1 Main
+T2	Anger 38 45	Stomped
+A2	Confidence T2 High
+T3	Sadness 30 36	crying
+A3	Confidence T3 High
+T4	Anger 2 8;9 14	thrown doors
+A4	Confidence T4 High
+T5	Sadness 104 108	done
+A5	Confidence T5 High

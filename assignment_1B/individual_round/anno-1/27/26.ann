@@ -1,0 +1,6 @@
+T1	Disgust 0 8;14 17;9 13	Absoluut fan geen
+A1	Confidence T1 Low
+T2	Joy 145 151;156 160	snijdt hout
+A2	Confidence T2 Main
+T3	Joy 96 100	goed
+A3	Confidence T3 Main

@@ -1,0 +1,4 @@
+T1	Trust 12 16;17 20	voor ons
+A1	Confidence T1 Main
+T2	Trust 49 53;54 57	voor hen
+A2	Confidence T2 Main

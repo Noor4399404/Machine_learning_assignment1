@@ -1,0 +1,8 @@
+T1	Anger 0 13	Daar ga je al
+A1	Confidence T1 Main
+T2	Anger 20 61	volgens het #RIVM is er niks aan t handje
+A2	Confidence T2 High
+T3	Sadness 64 95	Waarom geen open en eerlijkheid
+A3	Confidence T3 High
+T4	Anger 97 137	Het mysterieuze zorgt juist voor onrust!
+A4	Confidence T4 High

@@ -1,0 +1,6 @@
+T1	Disgust 152 160	laconiek
+A1	Confidence T1 Main
+T2	Disgust 164 168	laks
+A2	Confidence T2 Main
+T3	Anticipation 24 28;29 31;32 35	niet zo gek
+A3	Confidence T3 High

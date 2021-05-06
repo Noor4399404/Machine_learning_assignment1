@@ -1,0 +1,6 @@
+T1	Fear 38 46	‘veilig’
+A1	Confidence T1 Main
+T2	Anticipation 124 140	samentegencorona
+A2	Confidence T2 High
+T3	Trust 103 105;88 91;92 94;95 98;99 102	is Het is wat het
+A3	Confidence T3 High

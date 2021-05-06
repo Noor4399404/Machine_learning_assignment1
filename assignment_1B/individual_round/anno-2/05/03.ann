@@ -1,0 +1,6 @@
+T1	Trust 232 234;236 242;248 251;252 264	De boeren van levensbelang
+A1	Confidence T1 Main
+T2	Disgust 158 169;173 186;207 212	electronica plastic troep China
+A2	Confidence T2 High
+T3	Trust 89 96;97 108	gezonde boerenstand
+A3	Confidence T3 Main

@@ -1,0 +1,6 @@
+T1	Anticipation 0 7;12 14;8 11	Schrijf op het
+A1	Confidence T1 Main
+T2	Anticipation 16 22;23 27;28 33	Binnen 7-10 dagen
+A2	Confidence T2 Main
+T3	Fear 66 69;70 72;73 76;77 83	die nu VOL liggen
+A3	Confidence T3 Low

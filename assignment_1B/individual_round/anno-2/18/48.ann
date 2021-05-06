@@ -1,0 +1,10 @@
+T1	Fear 49 53	loog
+A1	Confidence T1 Main
+T2	Fear 62 69	blijven
+A2	Confidence T2 High
+T3	Fear 70 76	liegen
+A3	Confidence T3 High
+T4	Anger 125 130	vaart
+A4	Confidence T4 High
+T5	Anger 131 136	blind
+A5	Confidence T5 Main

@@ -1,0 +1,4 @@
+T1	Fear 0 7;19 24	Wanneer actie
+A1	Confidence T1 Low
+T2	Fear 142 150;167 169;170 174	gevallen te laat
+A2	Confidence T2 Main

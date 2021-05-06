@@ -1,0 +1,6 @@
+T1	Anger 16 19;29 43	moe paniekzaaierij
+A1	Confidence T1 Main
+T2	Trust 178 183;185 189;200 206	prima Fijn gezond
+A2	Confidence T2 High
+T3	Trust 213 223	verstandig
+A3	Confidence T3 Low

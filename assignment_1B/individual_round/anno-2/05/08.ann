@@ -1,0 +1,6 @@
+T1	Anger 171 175;176 184;245 247;248 256	geen opdracht te screenen
+A1	Confidence T1 High
+T2	Fear 24 27;28 32	een ramp
+A2	Confidence T2 Main
+T3	Surprise 76 82	zieke?
+A3	Confidence T3 High

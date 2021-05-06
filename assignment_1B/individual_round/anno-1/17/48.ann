@@ -1,0 +1,10 @@
+T1	Fear 34 39;47 54;58 59	krijg benauwd .
+A1	Confidence T1 Main
+T2	Surprise 103 104;63 68;82 91;92 94;95 103	? begin symptomen te vertonen
+A2	Confidence T2 Low
+T3	Surprise 103 104;63 68;82 91;92 94;95 103	? begin symptomen te vertonen
+A3	Confidence T3 High
+T4	Surprise 106 114	mindfuck
+A4	Confidence T4 High
+T5	Surprise 63 68;82 91;92 94;95 103	begin symptomen te vertonen
+A5	Confidence T5 High

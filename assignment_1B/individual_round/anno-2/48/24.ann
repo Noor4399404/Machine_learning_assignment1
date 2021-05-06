@@ -1,0 +1,10 @@
+T1	Other 40 47	griepje
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	irony
+T2	Fear 70 73;74 79	bio wapen
+T3	Anger 104 108	lult
+A2	Confidence T3 High
+T4	Fear 228 239;240 250	coronavirus injecteren
+A3	Confidence T4 Main
+T5	Fear 197 201;202 216	long beschadigingen
+A4	Confidence T5 Low

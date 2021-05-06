@@ -1,0 +1,5 @@
+T1	Trust 62 68	juiste
+T2	Disgust 89 95	idioot
+A1	Confidence T2 Main
+T3	Disgust 124 132	dubieuze
+A2	Confidence T3 Main

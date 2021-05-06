@@ -1,0 +1,8 @@
+T1	Other 128 136	vertrouw
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	Distrust
+T2	Anger 36 44	schuldig
+A2	Confidence T2 Main
+T3	Other 101 107;96 100	gewoon kunt
+A3	Confidence T3 Low
+#2	AnnotatorNotes T3	Irony

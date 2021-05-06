@@ -1,0 +1,4 @@
+T1	Disgust 13 17;41 45;46 58;64 71	geen niet besmettelijk geweest
+A1	Confidence T1 Main
+T2	Anger 100 107	negeren
+A2	Confidence T2 Low

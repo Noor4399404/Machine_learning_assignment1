@@ -1,0 +1,8 @@
+T1	Sadness 210 215;216 222	niets gedaan
+A1	Confidence T1 Main
+T2	Sadness 255 269	foutindeoorlog
+A2	Confidence T2 Main
+T3	Anticipation 161 168;169 176	illusie voorbij
+A3	Confidence T3 High
+T4	Sadness 185 189	fout
+A4	Confidence T4 Main

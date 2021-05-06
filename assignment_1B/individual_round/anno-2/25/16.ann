@@ -1,0 +1,6 @@
+T1	Disgust 20 28	schuldig
+A1	Confidence T1 Main
+T2	Anger 46 52;53 56;57 59;60 66	brengt ons in gevaar
+A2	Confidence T2 Main
+T3	Anger 100 110;114 124;88 96	levenslang gevangenis opgepakt
+A3	Confidence T3 Main

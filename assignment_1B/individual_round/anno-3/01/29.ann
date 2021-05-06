@@ -1,0 +1,4 @@
+T1	Disgust 9 17	fakenews
+T2	Fear 52 62	precaution
+A1	Confidence T2 Low
+A2	Confidence T1 Main

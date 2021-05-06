@@ -1,0 +1,6 @@
+T1	Fear 26 33	griepje
+A1	Confidence T1 Main
+T2	Fear 89 100	mortaliteit
+A2	Confidence T2 Main
+T3	Fear 183 189;190 200	gevaar onderschat
+A3	Confidence T3 Main

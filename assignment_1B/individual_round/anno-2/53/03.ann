@@ -1,0 +1,6 @@
+T1	Anger 85 89;90 92;93 101	echt zo moeilijk
+A1	Confidence T1 Main
+T2	Anger 10 14	maar
+A2	Confidence T2 Low
+T3	Anger 56 62	Lekker
+A3	Confidence T3 Main

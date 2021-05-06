@@ -1,0 +1,6 @@
+T1	Trust 66 72;73 83	handen ineenslaan
+A1	Confidence T1 Main
+T2	Trust 160 168	ONEWorld
+A2	Confidence T2 Main
+T3	Trust 38 46;47 52	iedereen nodig
+A3	Confidence T3 Main

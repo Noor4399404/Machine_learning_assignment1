@@ -1,0 +1,8 @@
+T1	Sadness 57 62	naief
+A1	Confidence T1 Main
+T2	Surprise 64 68;69 71;72 76	Denk je echt
+A2	Confidence T2 High
+T3	Sadness 176 182	“goed”
+A3	Confidence T3 Main
+T4	Anticipation 215 218;219 221	Let op
+A4	Confidence T4 High

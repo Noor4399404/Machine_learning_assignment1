@@ -1,0 +1,6 @@
+T1	Disgust 11 23	zelfbenoemde
+A1	Confidence T1 High
+T2	Disgust 42 51;61 68	bestormen website
+T3	Disgust 128 150	samenzweringtheoretici
+A2	Confidence T3 Main
+A3	Confidence T2 High

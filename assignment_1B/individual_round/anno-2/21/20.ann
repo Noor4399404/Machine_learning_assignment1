@@ -1,0 +1,6 @@
+T1	Fear 137 143	schade
+A1	Confidence T1 Main
+T2	Fear 30 34;35 37;38 45	niet te stoppen
+A2	Confidence T2 Main
+T3	Fear 73 85	geïnfecteerd
+A3	Confidence T3 Main

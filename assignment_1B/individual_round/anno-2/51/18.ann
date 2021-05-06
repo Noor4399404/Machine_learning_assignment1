@@ -1,0 +1,8 @@
+T1	Disgust 15 17;18 21	No way
+A1	Confidence T1 Main
+T2	Disgust 43 45;46 49;50 53;54 56;57 63	Om gek van te worden
+A2	Confidence T2 Main
+T3	Disgust 66 80	behangkrabbers
+A3	Confidence T3 Main
+T4	Disgust 101 105;106 109;94 100	niet dus Liever
+A4	Confidence T4 Main

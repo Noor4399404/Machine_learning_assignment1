@@ -1,0 +1,6 @@
+T1	Sadness 34 37;38 42;43 47	zie niet echt
+A1	Confidence T1 Main
+T2	Sadness 0 3;12 15;21 25;26 29;4 8	Hoe ook best doe hard
+A2	Confidence T2 Low
+T3	Trust 63 67	hoop
+A3	Confidence T3 High

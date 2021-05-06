@@ -1,0 +1,8 @@
+T1	Joy 10 18;4 9	voordeel enige
+A1	Confidence T1 Main
+T2	Disgust 145 151	Blugh!
+A2	Confidence T2 High
+T3	Joy 152 156	Blij
+A3	Confidence T3 High
+T4	Fear 38 41;49 51;52 57	zie op tegen
+A4	Confidence T4 High

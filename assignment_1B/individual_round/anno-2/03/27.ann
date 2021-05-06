@@ -1,0 +1,5 @@
+T2	Anger 0 2;15 18;19 22;23 30;3 6;7 14	Al aan het wachten van 7:00uur
+A2	Confidence T2 Main
+T1	Other 134 145	houdafstand
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	distrust

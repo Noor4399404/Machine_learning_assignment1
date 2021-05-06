@@ -1,0 +1,6 @@
+T1	Disgust 17 27;28 35	treuzelige omaatje
+A1	Confidence T1 Main
+T2	Fear 106 114	verloren
+A2	Confidence T2 Low
+T3	Disgust 122 127	Jinek
+A3	Confidence T3 Main

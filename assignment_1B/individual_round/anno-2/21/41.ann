@@ -1,0 +1,7 @@
+T1	Other 240 257;273 276	Geloofwaardigheid NUL
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	distrust
+T2	Surprise 23 27	raar
+A2	Confidence T2 High
+T3	Disgust 224 230	seniel
+A3	Confidence T3 High

@@ -1,0 +1,6 @@
+T1	Joy 30 39;49 56	schouders ophalen
+T2	Sadness 176 180;186 190	niet blij
+A1	Confidence T2 Main
+T3	Sadness 254 263	pijnlijke
+A2	Confidence T3 Main
+A3	Confidence T1 High

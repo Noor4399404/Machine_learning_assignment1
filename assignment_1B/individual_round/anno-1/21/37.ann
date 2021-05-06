@@ -1,0 +1,6 @@
+T1	Trust 116 123;124 127;128 132;133 137	blijven ons best doen
+A1	Confidence T1 Main
+T2	Anticipation 141 178	allesvoordeafgeplattebesmettingscurve
+A2	Confidence T2 High
+T3	Surprise 69 78	blijkbaar
+A3	Confidence T3 Low

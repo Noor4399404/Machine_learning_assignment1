@@ -1,0 +1,6 @@
+T3	Fear 135 145;149 161	paniekerig alarmistisch
+A3	Confidence T3 Main
+T1	Fear 185 189;190 193	héél erg
+A1	Confidence T1 Main
+T2	Fear 230 234;235 238	Heel erg
+A2	Confidence T2 Main

@@ -1,0 +1,4 @@
+T1	Fear 38 52	besmettelijker
+A1	Confidence T1 High
+T2	Fear 81 84;85 87;88 96	net zo dodelijk
+A2	Confidence T2 Main

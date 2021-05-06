@@ -1,0 +1,6 @@
+T1	Fear 72 81;93 101	symptomen Covid_19
+A1	Confidence T1 High
+T2	Trust 122 131	Uitzieken
+A2	Confidence T2 Main
+T3	Trust 109 113;114 120	niet getest
+A3	Confidence T3 Main

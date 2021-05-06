@@ -1,0 +1,5 @@
+T1	Anticipation 61 64;65 67;72 80	Hoe is geregeld
+A1	Confidence T1 Main
+T2	Anger 100 101;99 100	! !
+A2	Confidence T2 High
+#1	AnnotatorNotes T1	Could also be annoyance, because he/she doesn't know what to do now.

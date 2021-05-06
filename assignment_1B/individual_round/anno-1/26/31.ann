@@ -1,0 +1,8 @@
+T1	Anger 15 24	hamsteren
+A1	Confidence T1 Main
+T2	Anger 85 89;90 95	vast gerot
+A2	Confidence T2 Main
+T3	Anger 188 195;196 201	moesten kopen
+A3	Confidence T3 Main
+T4	Anger 246 257	onnozelaars
+A4	Confidence T4 Main

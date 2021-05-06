@@ -1,0 +1,7 @@
+T1	Anger 133 140	sjakies
+A1	Confidence T1 High
+T2	Anger 201 207;208 211;212 215;216 218;219 225	gouden pik uit te hangen
+A2	Confidence T2 Main
+T3	Other 238 252;253 263	luchtkwaliteit verbeteren
+A3	Confidence T3 High
+#1	AnnotatorNotes T3	Sarcasm

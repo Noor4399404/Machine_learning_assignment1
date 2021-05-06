@@ -1,0 +1,4 @@
+T1	Anticipation 196 200;201 205	meer kans
+A1	Confidence T1 Main
+T2	Fear 32 39;57 65	aanslag gepleegd
+A2	Confidence T2 High

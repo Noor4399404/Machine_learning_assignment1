@@ -1,0 +1,10 @@
+T1	Trust 48 56	gelukkig
+A1	Confidence T1 Main
+T2	Anticipation 146 152	risico
+A2	Confidence T2 High
+T3	Trust 104 108	geen
+A3	Confidence T3 Main
+T4	Trust 109 117	klachten
+A4	Confidence T4 Main
+T5	Trust 118 122	meer
+A5	Confidence T5 Main

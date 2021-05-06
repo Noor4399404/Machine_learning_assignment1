@@ -1,0 +1,8 @@
+T1	Trust 123 129;146 155	zonder problemen
+A1	Confidence T1 Main
+T2	Anger 49 52	Gek
+A2	Confidence T2 High
+T3	Trust 157 169	Topprestatie
+A3	Confidence T3 Main
+T4	Trust 239 253	applausvoorICT
+A4	Confidence T4 Main

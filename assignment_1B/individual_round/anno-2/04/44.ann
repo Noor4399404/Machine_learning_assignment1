@@ -1,0 +1,8 @@
+T1	Surprise 10 16;5 9	blijft Waar
+A1	Confidence T1 Main
+T2	Surprise 44 48;49 56	Waar blijven
+A2	Confidence T2 Main
+T3	Surprise 69 75	Waarom
+A3	Confidence T3 Main
+T4	Surprise 102 104;105 108;109 111;112 116;95 98;99 101	er aan de hand Wat is
+A4	Confidence T4 Main

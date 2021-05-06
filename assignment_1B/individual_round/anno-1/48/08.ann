@@ -1,0 +1,8 @@
+T1	Other 132 139;140 147	Grenzen bewaken
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	irony
+T2	Other 151 161	belangrijk
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	irony
+T3	Fear 175 180;182 193;195 207	extra coronavirus verspreiding
+A3	Confidence T3 High

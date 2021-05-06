@@ -1,0 +1,6 @@
+T1	Fear 7 13	warned
+A1	Confidence T1 Main
+T2	Fear 114 118;119 128	more dangerous
+A2	Confidence T2 High
+T3	Fear 182 186;199 205	more damage
+A3	Confidence T3 High

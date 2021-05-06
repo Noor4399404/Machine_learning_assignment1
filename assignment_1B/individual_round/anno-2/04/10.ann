@@ -1,0 +1,9 @@
+T1	Other 270 274;275 277	Goed hé
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	irony
+T2	Other 143 148;149 155;156 163	groot succes geweest
+A2	Confidence T2 Main
+T3	Other 73 79;80 83;84 91	gewoon een griepje
+A3	Confidence T3 Main
+#2	AnnotatorNotes T3	irony
+#3	AnnotatorNotes T2	irony

@@ -1,0 +1,6 @@
+T1	Other 103 110;99 102	verhaal Lul
+A1	Confidence T1 Main
+T2	Other 38 44	leugen
+A2	Confidence T2 Main
+#1	AnnotatorNotes T2	Distrust
+#2	AnnotatorNotes T1	Distrust

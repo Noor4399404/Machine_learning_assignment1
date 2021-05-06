@@ -1,0 +1,6 @@
+T1	Fear 58 62;63 67	niet goed
+A1	Confidence T1 Main
+T2	Fear 91 96	slaat
+A2	Confidence T2 Main
+T3	Fear 171 179;188 197;208 215	Vallende stervende slechte
+A3	Confidence T3 Main

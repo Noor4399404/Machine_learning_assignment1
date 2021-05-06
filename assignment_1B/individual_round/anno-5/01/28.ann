@@ -1,0 +1,10 @@
+T1	Anger 49 52;53 57	too late
+A1	Confidence T1 Main
+T2	Anger 70 73;74 80	too little
+A2	Confidence T2 Main
+T3	Anger 203 206	die
+A3	Confidence T3 Main
+T4	Anger 224 231	blunder
+A4	Confidence T4 Main
+T5	Anger 243 255	incompetence
+A5	Confidence T5 Main

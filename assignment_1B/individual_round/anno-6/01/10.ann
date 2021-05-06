@@ -1,0 +1,6 @@
+T1	Anger 60 68	Nonsense
+A1	Confidence T1 Main
+T2	Disgust 79 88	blundered
+A2	Confidence T2 High
+T3	Fear 194 207	Seriously ill
+A3	Confidence T3 High

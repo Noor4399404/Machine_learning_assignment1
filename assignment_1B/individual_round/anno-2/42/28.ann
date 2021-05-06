@@ -1,0 +1,8 @@
+T1	Sadness 17 23;24 28;6 11	liever druk maakt
+A1	Confidence T1 High
+T2	Sadness 107 113;114 116;117 121	kunnen ze niks
+A2	Confidence T2 High
+T3	Disgust 17 23;24 28;6 11	liever druk maakt
+A3	Confidence T3 Main
+T4	Disgust 107 113;114 115;117 121	kunnen z niks
+A4	Confidence T4 Main

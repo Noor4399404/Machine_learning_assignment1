@@ -1,0 +1,10 @@
+T1	Anger 15 21	klagen
+A1	Confidence T1 Main
+T2	Anger 52 55;93 100	Pff serieus
+A2	Confidence T2 Main
+T3	Anger 106 113	Hamster
+A3	Confidence T3 Main
+T4	Anger 165 169;170 173;213 215	niet ego ..
+A4	Confidence T4 Main
+T5	Anger 233 239	allang
+A5	Confidence T5 Main

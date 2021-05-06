@@ -1,0 +1,8 @@
+T1	Anticipation 92 97	start
+A1	Confidence T1 Main
+T2	Anticipation 98 101	van
+A2	Confidence T2 High
+T3	Anticipation 102 104	de
+A3	Confidence T3 High
+T4	Anticipation 105 110	lente
+A4	Confidence T4 High

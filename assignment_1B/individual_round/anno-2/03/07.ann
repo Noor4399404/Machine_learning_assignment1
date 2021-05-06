@@ -1,0 +1,6 @@
+T2	Other 58 61;62 71	Wie vertrouwt
+A2	Confidence T2 Main
+T3	Other 102 111;127 134	instituut kritiek
+A3	Confidence T3 Main
+#2	AnnotatorNotes T3	distrust
+#1	AnnotatorNotes T2	distrust

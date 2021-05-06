@@ -1,0 +1,8 @@
+T1	Fear 66 72;73 79	loodje legden
+A1	Confidence T1 Main
+T2	Fear 179 185;186 193	zullen sterven
+A2	Confidence T2 Main
+T3	Fear 239 243;254 265;266 275	Help Autistische president
+A3	Confidence T3 Main
+T4	Fear 199 204;206 212;213 219	Rutte slappe beleid
+A4	Confidence T4 Main

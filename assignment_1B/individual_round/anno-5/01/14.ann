@@ -1,0 +1,8 @@
+T1	Fear 7 13	warned
+A1	Confidence T1 Main
+T2	Fear 119 128	dangerous
+A2	Confidence T2 Main
+T3	Fear 175 181;199 205	causes damage
+A3	Confidence T3 Main
+T4	Fear 151 157;159 170	better transmitted
+A4	Confidence T4 Main

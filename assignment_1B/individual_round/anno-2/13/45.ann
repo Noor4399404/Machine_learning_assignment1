@@ -1,0 +1,6 @@
+T1	Anger 8 13	falen
+A1	Confidence T1 Main
+T3	Anger 231 240;241 252;252 253	Verplicht quarantaine !
+A3	Confidence T3 Main
+T4	Disgust 195 203;204 216;217 220;221 224;225 229	grootste feestbeesten van het land
+A4	Confidence T4 High

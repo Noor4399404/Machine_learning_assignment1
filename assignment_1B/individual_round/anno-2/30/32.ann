@@ -1,0 +1,8 @@
+T1	Trust 28 58	Laat je niet in de put praten!
+A1	Confidence T1 Main
+T2	Disgust 140 148	zegt men
+A2	Confidence T2 High
+T3	Disgust 151 156	Want?
+A3	Confidence T3 High
+T4	Trust 230 268	Mensen zijn ongelooflijk veerkrachtig!
+A4	Confidence T4 Main

@@ -1,0 +1,10 @@
+T1	Surprise 17 30	verbijsterend
+A1	Confidence T1 Low
+T2	Fear 38 44;45 49;50 60	totaal niet voorbereid
+A2	Confidence T2 High
+T3	Anger 103 107;111 119	raar 'sussen'
+A3	Confidence T3 Main
+T4	Anger 125 134	verkeerde
+A4	Confidence T4 Main
+T5	Anger 215 219	ofzo
+A5	Confidence T5 Main

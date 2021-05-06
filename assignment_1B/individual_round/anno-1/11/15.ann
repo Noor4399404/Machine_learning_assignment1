@@ -1,0 +1,6 @@
+T1	Sadness 56 65;66 74	blijkbaar langzaam
+T2	Sadness 76 79;80 84	nog maar
+A2	Confidence T2 Main
+T3	Fear 122 128	besmet
+A3	Confidence T3 High
+A1	Confidence T1 Main

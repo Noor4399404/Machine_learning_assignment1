@@ -1,0 +1,8 @@
+T1	Sadness 107 119	keepdreaming
+A1	Confidence T1 Main
+T2	Sadness 204 220	SocialDistancing
+A2	Confidence T2 Main
+T3	Fear 193 202	afwachten
+A3	Confidence T3 High
+T4	Trust 181 189	doorgaan
+A4	Confidence T4 High

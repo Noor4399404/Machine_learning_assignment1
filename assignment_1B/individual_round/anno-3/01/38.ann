@@ -1,0 +1,6 @@
+T1	Fear 29 35	Please
+A1	Confidence T1 Main
+T2	Fear 6 12	please
+A2	Confidence T2 High
+T3	Fear 142 145;146 150;151 155	far from safe
+A3	Confidence T3 High

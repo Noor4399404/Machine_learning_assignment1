@@ -1,0 +1,8 @@
+T1	Anger 61 63	nu
+A1	Confidence T1 Main
+T2	Anger 102 105;128 133;134 138	nog waard zijn
+A2	Confidence T2 Low
+T3	Anger 234 237	ffs
+A3	Confidence T3 Low
+T4	Sadness 238 239	💔
+A4	Confidence T4 High

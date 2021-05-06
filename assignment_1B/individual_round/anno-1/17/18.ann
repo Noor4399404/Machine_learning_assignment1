@@ -1,0 +1,9 @@
+T1	Joy 12 16;28 32;32 33	werd jaar !
+A1	Confidence T1 High
+T2	Other 112 128	waarishetfeestje
+A2	Confidence T2 Low
+#1	AnnotatorNotes T2	ironic
+T3	Sadness 59 65	alleen
+A3	Confidence T3 High
+T4	Fear 75 80;81 85	durft niet
+A4	Confidence T4 Low

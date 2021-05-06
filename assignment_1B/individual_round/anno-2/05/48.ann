@@ -1,0 +1,8 @@
+T1	Trust 174 179;180 186	echte leider
+A1	Confidence T1 Main
+T2	Disgust 188 193;201 213;214 222	Biden dementerende bejaarde
+A2	Confidence T2 High
+T3	Trust 100 105;58 63;76 82;83 92;96 99	Biden Trump betere president dan
+A3	Confidence T3 Main
+T4	Trust 121 126;133 141;146 157;158 163	Trump verstand economische zaken
+A4	Confidence T4 Main

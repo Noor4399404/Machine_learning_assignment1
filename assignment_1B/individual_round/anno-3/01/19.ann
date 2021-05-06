@@ -1,0 +1,8 @@
+T1	Fear 14 21	complex
+A1	Confidence T1 Main
+T2	Fear 100 103;104 107	run out
+A2	Confidence T2 High
+T3	Joy 163 172;173 177	certainly safe
+A3	Confidence T3 High
+T4	Fear 221 226	hoard
+A4	Confidence T4 High

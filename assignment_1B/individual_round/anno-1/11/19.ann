@@ -1,0 +1,7 @@
+T1	Surprise 0 5	Hoezo
+A1	Confidence T1 Low
+T2	Other 153 160	vrolijk
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	irony
+T3	Anger 173 175;176 179;180 182;183 189;190 193;220 225	Ik heb de indruk dat denkt
+A3	Confidence T3 Main

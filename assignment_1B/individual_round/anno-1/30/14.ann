@@ -1,0 +1,6 @@
+T1	Sadness 0 10	Besmetting
+A1	Confidence T1 Main
+T2	Sadness 74 85	voorzichtig
+A2	Confidence T2 High
+T3	Anger 124 136	besmettelijk
+A3	Confidence T3 High

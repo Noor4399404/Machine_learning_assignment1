@@ -1,0 +1,4 @@
+T2	Trust 120 123;129 132;133 136;137 141	kom dag wel door
+A2	Confidence T2 Main
+T1	Joy 0 4;5 9	Mooi weer
+A1	Confidence T1 High

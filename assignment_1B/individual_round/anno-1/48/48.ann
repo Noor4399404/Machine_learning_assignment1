@@ -1,0 +1,6 @@
+T1	Anger 30 38;49 55	kansloos roepen
+A1	Confidence T1 High
+T2	Anger 219 223;224 230;231 236	GEEN GEWONE GRIEP
+A2	Confidence T2 High
+T3	Anticipation 280 285;289 298	komen problemen
+A3	Confidence T3 Main

@@ -1,0 +1,10 @@
+T1	Disgust 0 9	Degoutant
+A1	Confidence T1 High
+T2	Disgust 140 144	walg
+A2	Confidence T2 Main
+T3	Caring 182 189	respect
+A3	Confidence T3 High
+T4	Disgust 200 209	wanbeleid
+A4	Confidence T4 High
+T5	Sadness 229 238;245 258;267 275	zwakkeren minderwaardig geworden
+A5	Confidence T5 High

@@ -1,0 +1,5 @@
+T1	Disgust 154 166;176 180;181 185	interesseert geen moer
+A1	Confidence T1 Main
+T2	Other 209 210	😂
+A2	Confidence T2 Low
+#1	AnnotatorNotes T2	Irony

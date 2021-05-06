@@ -1,0 +1,10 @@
+T1	Anger 68 73;74 77	klaar mee
+A1	Confidence T1 Main
+T2	Anger 103 108;114 120;121 128;97 102	onder nagels vandaan bloed
+A2	Confidence T2 Main
+T3	Anger 223 228	ruzie
+A3	Confidence T3 Main
+T4	Anger 240 244;245 248	geen zin
+A4	Confidence T4 Main
+T5	Anger 255 259;260 267	geen energie
+A5	Confidence T5 High

@@ -1,0 +1,6 @@
+T1	Disgust 41 45;46 55	word misselijk
+A1	Confidence T1 Main
+T2	Fear 211 214;215 220;221 223;224 230	wél angst vr hebben
+A2	Confidence T2 Low
+T3	Anticipation 123 127;128 131;132 135	Denk ook aan
+A3	Confidence T3 Low

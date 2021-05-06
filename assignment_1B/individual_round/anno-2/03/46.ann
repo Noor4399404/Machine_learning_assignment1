@@ -1,0 +1,4 @@
+T1	Fear 75 77;78 82	op orde
+A1	Confidence T1 Main
+T2	Sadness 0 2;4 12	Ai Pijnlijk
+A2	Confidence T2 High

@@ -1,0 +1,5 @@
+T1	Sadness 18 27	eigenlijk
+T2	Sadness 50 58	FakeNews
+A1	Confidence T2 High
+T3	Surprise 106 113;121 125;126 129;130 134	niemand iets aan doet
+A2	Confidence T3 Main

@@ -1,0 +1,8 @@
+T1	Sadness 19 25;26 35	mensen overleden
+A1	Confidence T1 Main
+T2	Sadness 41 53	besmettingen
+A2	Confidence T2 Main
+T3	Joy 81 87;88 95	mensen genezen
+A3	Confidence T3 High
+T4	Sadness 113 128	infectiehaarden
+A4	Confidence T4 Main

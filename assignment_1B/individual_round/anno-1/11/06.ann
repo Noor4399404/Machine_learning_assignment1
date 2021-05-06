@@ -1,0 +1,8 @@
+T1	Anger 207 225	onverantwoordelijk
+T2	Anger 192 196	slap
+A1	Confidence T2 Main
+T3	Anger 0 6;23 27	Waarom niet
+A2	Confidence T3 Main
+T4	Anger 51 55	ALLE
+A3	Confidence T4 Main
+A4	Confidence T1 Main

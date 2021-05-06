@@ -1,0 +1,6 @@
+T1	Disgust 82 84;85 88;89 91	Is dit nu
+A1	Confidence T1 Main
+T2	Disgust 121 125	brrr
+A2	Confidence T2 Main
+T3	Trust 0 8;9 13	Helemaal eens
+A3	Confidence T3 High

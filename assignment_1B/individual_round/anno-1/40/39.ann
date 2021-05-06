@@ -1,0 +1,8 @@
+T1	Fear 72 74	NU
+A1	Confidence T1 Main
+T2	Fear 97 99	NU
+A2	Confidence T2 Main
+T3	Fear 0 3	Nee
+A3	Confidence T3 High
+T4	Fear 119 123	!!!!
+A4	Confidence T4 Main

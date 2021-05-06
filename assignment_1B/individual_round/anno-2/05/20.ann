@@ -1,0 +1,6 @@
+T1	Anger 0 12;18 25;26 32	Nederlanders massaal debiel
+A1	Confidence T1 Main
+T2	Disgust 121 126;127 137	grote roerganger
+A2	Confidence T2 High
+T3	Fear 50 56;57 65	Corona hysterie
+A3	Confidence T3 High

@@ -1,0 +1,6 @@
+T1	Disgust 48 52;53 55;56 60	fout op fout
+A1	Confidence T1 High
+T2	Anger 166 172;173 176	gewoon weg
+A2	Confidence T2 Main
+T3	Disgust 186 202;203 207;223 228	verantwoordelijk voor doden
+A3	Confidence T3 High

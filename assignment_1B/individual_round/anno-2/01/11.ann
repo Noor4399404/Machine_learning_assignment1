@@ -1,0 +1,4 @@
+T1	Fear 30 36	onrust
+A1	Confidence T1 Main
+T2	Fear 84 90;96 98	vragen af
+A2	Confidence T2 High

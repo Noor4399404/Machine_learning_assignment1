@@ -1,0 +1,6 @@
+T1	Anger 20 29	schuldig!
+A1	Confidence T1 Main
+T2	Anger 46 52;57 66	brengt in gevaar
+A2	Confidence T2 High
+T3	Anger 83 96	moet opgepakt
+A3	Confidence T3 High

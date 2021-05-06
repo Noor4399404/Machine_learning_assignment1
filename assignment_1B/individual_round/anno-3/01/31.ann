@@ -1,0 +1,4 @@
+T1	Disgust 180 191	seriousness
+A1	Confidence T1 Main
+T2	Fear 218 226	stayhome
+A2	Confidence T2 High

@@ -1,0 +1,4 @@
+T1	Disgust 102 109	grossly
+A1	Confidence T1 Main
+T2	Fear 22 25;31 39	not credible
+A2	Confidence T2 High

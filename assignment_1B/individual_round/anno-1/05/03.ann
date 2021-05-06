@@ -1,0 +1,6 @@
+T1	Trust 243 247;248 251;252 264	zijn van levensbelang
+A1	Confidence T1 High
+T2	Fear 24 32	cruciaal
+A2	Confidence T2 High
+T3	Disgust 181 186	troep
+A3	Confidence T3 High

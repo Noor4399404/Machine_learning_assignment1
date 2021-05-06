@@ -1,0 +1,7 @@
+T1	Fear 31 34	Hoe
+A1	Confidence T1 Main
+T2	Fear 110 114;115 117;118 122	niet te doen
+A2	Confidence T2 Main
+T3	Anger 147 150	dus
+A3	Confidence T3 Low
+#1	AnnotatorNotes T1	concern

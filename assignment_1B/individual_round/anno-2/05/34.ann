@@ -1,0 +1,7 @@
+T1	Anger 123 137	kartelpartijen
+A1	Confidence T1 Main
+T2	Anger 263 266;267 272;273 278	die weten alles
+A2	Confidence T2 Main
+T3	Other 10 13;14 18;19 23;2 8	kan toch niet Welnee
+A3	Confidence T3 High
+#1	AnnotatorNotes T3	irony

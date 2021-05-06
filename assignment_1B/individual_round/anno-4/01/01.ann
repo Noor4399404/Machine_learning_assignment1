@@ -1,0 +1,6 @@
+T1	Disgust 126 130;143 151;152 154;155 159;160 165	fear starting to lose track
+T2	Disgust 167 171;176 183;184 190;191 193	They getting caught up
+A1	Confidence T2 High
+A2	Confidence T1 Main
+T3	Fear 126 130;155 159;160 165	fear lose track
+A3	Confidence T3 Low

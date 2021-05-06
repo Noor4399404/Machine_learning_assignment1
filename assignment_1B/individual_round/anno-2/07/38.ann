@@ -1,0 +1,4 @@
+T1	Fear 121 127	Oorlog
+A1	Confidence T1 Main
+T2	Fear 170 181;182 188	economische schade
+A2	Confidence T2 Main

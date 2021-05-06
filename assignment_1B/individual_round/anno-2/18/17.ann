@@ -1,0 +1,9 @@
+T1	Anger 92 94	UP
+A1	Confidence T1 Main
+T3	Anticipation 53 61	Volgende
+A3	Confidence T3 Main
+T4	Anticipation 62 67	maand
+A4	Confidence T4 High
+#1	AnnotatorNotes T1	didnt mark '-up' since its meant as 1 word
+T2	Anger 87 91	WAKE
+A2	Confidence T2 High

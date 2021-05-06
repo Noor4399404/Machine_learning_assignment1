@@ -1,0 +1,4 @@
+T1	Fear 86 88;89 100	5% mortaliteit
+A1	Confidence T1 Main
+T2	Fear 183 189;190 200	gevaar onderschat
+A2	Confidence T2 High

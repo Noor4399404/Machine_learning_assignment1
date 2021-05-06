@@ -1,0 +1,6 @@
+T1	Anger 15 25	blijfthuis
+A1	Confidence T1 High
+T2	Anger 39 43;47 55	niet moeilijk
+A2	Confidence T2 Main
+T3	Joy 68 74;86 94	lekker genieten
+A3	Confidence T3 High

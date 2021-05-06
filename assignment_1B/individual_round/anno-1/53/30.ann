@@ -1,0 +1,4 @@
+T1	Fear 42 50;51 60;61 67;68 71;72 83	bedreigt ongeruste ouders met maatregelen
+A1	Confidence T1 Low
+T2	Anger 100 104;119 126;139 146;147 149;93 96;97 99	MOET Terwijl bewezen is ZAL EN
+A2	Confidence T2 Main

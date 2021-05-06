@@ -1,0 +1,6 @@
+T1	Anticipation 119 121;122 124;125 130	in te tomen
+A1	Confidence T1 Main
+T2	Trust 83 91;92 101	maximaal mogelijke
+T3	Trust 21 25;26 28;29 33	niet te laat
+A2	Confidence T2 High
+A3	Confidence T3 High

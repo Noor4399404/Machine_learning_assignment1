@@ -1,0 +1,10 @@
+T1	Anger 216 224;228 239	non-info verspreiden
+A1	Confidence T1 Main
+T2	Anger 172 176;177 180;181 185	eens een keer
+A2	Confidence T2 Main
+T3	Fear 101 104;105 108;131 135;136 143;144 150	één dag geen NL-ders besmet
+A3	Confidence T3 Main
+T4	Fear 24 37	incubatietijd
+A4	Confidence T4 High
+T5	Fear 49 54;66 71	droeg virus
+A5	Confidence T5 High

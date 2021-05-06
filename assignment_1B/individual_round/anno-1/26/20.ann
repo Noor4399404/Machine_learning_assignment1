@@ -1,0 +1,6 @@
+T1	Fear 100 111;112 120;86 90;91 95	besmettings gevallen hoge mate
+A1	Confidence T1 Main
+T2	Fear 183 187;197 202;210 223	geen beeld werkelijkheid
+A2	Confidence T2 Main
+T3	Fear 227 237	Opschaling
+A3	Confidence T3 Main

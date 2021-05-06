@@ -1,0 +1,6 @@
+T1	Anger 49 52;53 57	too late
+A1	Confidence T1 Main
+T2	Anger 70 73;74 80	too little
+A2	Confidence T2 Main
+T3	Sadness 203 206;207 211;212 221	die than necessary
+A3	Confidence T3 High

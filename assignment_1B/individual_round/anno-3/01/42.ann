@@ -1,0 +1,6 @@
+T1	Disgust 76 83;84 93	totally incorrect
+A1	Confidence T1 Main
+T2	Surprise 208 214	laxity
+A2	Confidence T2 Low
+T3	Fear 140 147	extreme
+A3	Confidence T3 High

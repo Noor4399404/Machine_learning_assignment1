@@ -1,0 +1,5 @@
+T1	Other 109 116;90 94;96 107	COVID19 Rara coronavirus
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	irony
+T2	Fear 50 53;54 62	een pandemie
+A2	Confidence T2 Main

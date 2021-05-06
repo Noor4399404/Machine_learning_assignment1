@@ -1,0 +1,8 @@
+T1	Fear 12 19;20 30	hitting everywhere
+A1	Confidence T1 Main
+T2	Trust 193 198	share
+A2	Confidence T2 Low
+T3	Fear 212 220	concerns
+T4	Anticipation 225 237	expectations
+A3	Confidence T4 High
+A4	Confidence T3 High

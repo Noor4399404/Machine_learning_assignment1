@@ -1,0 +1,10 @@
+T1	Anger 37 41	huge
+A1	Confidence T1 Main
+T2	Fear 77 86	undermine
+A2	Confidence T2 High
+T3	Trust 161 170	correctly
+A3	Confidence T3 High
+T4	Disgust 231 240	dismissed
+A4	Confidence T4 High
+T5	Anger 252 263	abandonment
+A5	Confidence T5 High

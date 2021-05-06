@@ -1,0 +1,7 @@
+T1	Fear 53 60;61 66	covid19 heeft
+A1	Confidence T1 Main
+T2	Fear 80 83;91 99	ook klachten
+A2	Confidence T2 Main
+T3	Trust 101 109	Gelukkig
+T4	Fear 191 195	Pfff
+A3	Confidence T4 Main

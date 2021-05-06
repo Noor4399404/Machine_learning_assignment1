@@ -1,0 +1,5 @@
+T1	Anger 105 111;112 116;84 87	gerust over sla
+A1	Confidence T1 Main
+T2	Other 54 62;63 67	correcte info
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Sarcasm

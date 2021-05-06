@@ -1,0 +1,6 @@
+T1	Disgust 46 48;49 52;53 59	GA DAN VOORAL
+A1	Confidence T1 Main
+T2	Fear 213 219;224 226;238 242;243 247	redden nu niet meer
+A2	Confidence T2 Low
+T3	Sadness 262 271;272 275;276 280	verliezen hun baan
+A3	Confidence T3 High

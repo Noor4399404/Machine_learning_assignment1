@@ -1,0 +1,11 @@
+T1	Anger 56 63	stampen
+A1	Confidence T1 Main
+T2	Other 106 120	ThuisOnderwijs
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	desperation
+T3	Sadness 81 87	huilen
+A3	Confidence T3 High
+T4	Sadness 30 36	huilen
+A4	Confidence T4 High
+T5	Anger 11 17;2 10	deuren gesmeten
+A5	Confidence T5 High

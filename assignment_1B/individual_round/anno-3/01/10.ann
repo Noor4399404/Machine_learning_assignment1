@@ -1,0 +1,8 @@
+T1	Anger 79 88	blundered
+A1	Confidence T1 Main
+T2	Sadness 60 68	Nonsense
+A2	Confidence T2 High
+T3	Disgust 48 52;53 57	good work
+A3	Confidence T3 High
+T4	Sadness 159 167	adequate
+A4	Confidence T4 Low

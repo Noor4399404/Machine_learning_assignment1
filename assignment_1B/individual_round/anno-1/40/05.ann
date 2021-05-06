@@ -1,0 +1,16 @@
+T1	Anger 39 46	laatste
+A1	Confidence T1 Main
+T2	Anger 56 60	mond
+A2	Confidence T2 Main
+T3	Anger 61 65	moet
+A3	Confidence T3 Main
+T4	Anger 66 77	opentrekken
+A4	Confidence T4 Main
+T5	Anger 86 93	gefaald
+A5	Confidence T5 Main
+T6	Anger 117 122	liegt
+A6	Confidence T6 Main
+T7	Anger 131 136	niets
+A7	Confidence T7 Main
+T8	Anger 137 144	aantrok
+A8	Confidence T8 Main

@@ -1,0 +1,7 @@
+T1	Fear 60 65	ernst
+A1	Confidence T1 High
+T2	Sadness 205 214	moedeloos
+A2	Confidence T2 Main
+T3	Sadness 264 269;274 278	wordt niks
+A3	Confidence T3 High
+T4	Surprise 14 21;26 30	begrijp niet

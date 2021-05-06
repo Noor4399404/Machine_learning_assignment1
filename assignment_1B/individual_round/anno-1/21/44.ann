@@ -1,0 +1,5 @@
+T1	Anger 91 96;97 107	kapot torpederen
+A1	Confidence T1 Main
+T2	Disgust 109 121	Vuilspuitend
+T3	Anger 219 224;225 238;239 241;242 244;245 248	lopen godsgruwelijk in de weg
+A2	Confidence T3 Main

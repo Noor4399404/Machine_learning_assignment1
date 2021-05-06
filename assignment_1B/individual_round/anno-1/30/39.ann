@@ -1,0 +1,6 @@
+T1	Trust 56 61	Trouw
+A1	Confidence T1 High
+T2	Disgust 96 100	fout
+A2	Confidence T2 High
+T3	Trust 34 49	nieuwsberichten
+A3	Confidence T3 High

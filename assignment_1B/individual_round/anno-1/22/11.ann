@@ -1,0 +1,6 @@
+T1	Disgust 12 14;15 18;8 11	op zeg kom
+A1	Confidence T1 High
+T2	Disgust 40 45;46 51	klote virus
+A2	Confidence T2 Main
+T3	Disgust 73 79	gezeik
+A3	Confidence T3 High

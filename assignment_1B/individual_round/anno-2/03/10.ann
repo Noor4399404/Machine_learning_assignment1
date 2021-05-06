@@ -1,0 +1,6 @@
+T1	Fear 120 126;132 138;139 141	levert vragen op
+A1	Confidence T1 Main
+T2	Fear 213 222;223 234	mogelijke maatregelen
+A2	Confidence T2 Main
+T3	Fear 100 106;107 119	corona risicogebied
+A3	Confidence T3 Main

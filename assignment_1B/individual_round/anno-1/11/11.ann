@@ -1,0 +1,6 @@
+T1	Anger 0 2;3 6	Ja joh
+A1	Confidence T1 Main
+T3	Anger 44 47;48 53;54 57	ten koste van
+A3	Confidence T3 Main
+T4	Anger 92 97	zeker
+A4	Confidence T4 Main

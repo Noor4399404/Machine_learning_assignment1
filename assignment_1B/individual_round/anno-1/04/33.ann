@@ -1,0 +1,6 @@
+T1	Surprise 123 131;132 140	verkeerd begrepen
+A1	Confidence T1 Main
+T2	Sadness 171 182	dasnietlief
+A2	Confidence T2 Low
+T3	Surprise 19 23	echt
+A3	Confidence T3 Main

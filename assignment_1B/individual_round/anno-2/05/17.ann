@@ -1,0 +1,5 @@
+T1	Trust 3 7	hoop
+A1	Confidence T1 Main
+T2	Other 64 70;71 77	loodje leggen
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	irony

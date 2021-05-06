@@ -1,0 +1,6 @@
+T1	Fear 33 39	paniek
+A1	Confidence T1 High
+T2	Disgust 100 109;110 113	terminale lul
+A2	Confidence T2 Main
+T3	Fear 201 209;210 213;223 230	oppompen met leugens
+A3	Confidence T3 High

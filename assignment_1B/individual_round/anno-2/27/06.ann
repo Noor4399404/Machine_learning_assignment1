@@ -1,0 +1,4 @@
+T1	Trust 0 3;4 7	Hou vol
+A1	Confidence T1 Main
+T3	Trust 54 59;60 69	goede voorbeeld
+A3	Confidence T3 High

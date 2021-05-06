@@ -1,0 +1,5 @@
+T1	Joy 110 119	stilstaan
+T2	Joy 136 145;147 156;158 167	kwaliteit stedebouw landschap
+A1	Confidence T2 High
+T3	Joy 233 238;239 249	fijne afsluiting
+A2	Confidence T3 Main

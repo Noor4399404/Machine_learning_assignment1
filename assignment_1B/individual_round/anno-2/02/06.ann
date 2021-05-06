@@ -1,0 +1,4 @@
+T1	Disgust 17 21;22 26;27 32	niet doen alsof
+A1	Confidence T1 Main
+T2	Fear 127 133	besmet
+A2	Confidence T2 High

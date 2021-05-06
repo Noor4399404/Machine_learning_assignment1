@@ -1,0 +1,7 @@
+T1	Surprise 171 176;177 179;180 186	onder de indruk
+T2	Surprise 0 7	Bizarre
+A1	Confidence T2 High
+T3	Trust 106 109;110 112;113 116	aan de top
+A2	Confidence T3 Main
+T4	Trust 138 144	juiste
+A3	Confidence T4 High

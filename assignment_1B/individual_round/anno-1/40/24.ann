@@ -1,0 +1,12 @@
+T1	Anger 24 28	niet
+A1	Confidence T1 Main
+T2	Anger 29 31	zo
+A2	Confidence T2 Main
+T3	Anger 32 35	gek
+A3	Confidence T3 Main
+T4	Anger 114 118	niet
+A4	Confidence T4 High
+T5	Anger 152 160	laconiek
+A5	Confidence T5 Main
+T6	Anger 164 168	laks
+A6	Confidence T6 Main

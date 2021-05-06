@@ -1,0 +1,6 @@
+T1	Trust 30 32	R0
+A1	Confidence T1 High
+T2	Anticipation 107 112	hoger
+A2	Confidence T2 Main
+T3	Fear 177 191	besmettelijker
+A3	Confidence T3 Main

@@ -1,0 +1,8 @@
+T1	Anger 48 50;51 55	te laat
+A1	Confidence T1 High
+T2	Anger 80 82;83 89	te weinig
+A2	Confidence T2 High
+T3	Disgust 251 264	Incompetentie
+A3	Confidence T3 Main
+T4	Disgust 236 243	blunder
+A4	Confidence T4 High

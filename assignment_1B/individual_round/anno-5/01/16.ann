@@ -1,0 +1,6 @@
+T1	Anger 81 85;86 88	shut up
+A1	Confidence T1 Main
+T2	Anger 125 131;132 136	should have
+A2	Confidence T2 Main
+T3	Anger 213 216;217 219;220 223;224 232	out of the question
+A3	Confidence T3 Main

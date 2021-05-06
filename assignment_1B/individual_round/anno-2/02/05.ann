@@ -1,0 +1,6 @@
+T1	Joy 126 134	gelukkig
+A1	Confidence T1 High
+T2	Disgust 202 211	verspreid
+A2	Confidence T2 Main
+T3	Disgust 145 149;150 156	fake nieuws
+A3	Confidence T3 High

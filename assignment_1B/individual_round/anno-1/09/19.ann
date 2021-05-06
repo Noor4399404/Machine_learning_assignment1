@@ -1,0 +1,4 @@
+T1	Disgust 0 9	Pijnlijke
+A1	Confidence T1 Main
+T2	Disgust 101 106;107 115	onzin verkopen
+A2	Confidence T2 High

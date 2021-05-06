@@ -1,0 +1,6 @@
+T1	Other 246 253	Juustum
+#1	AnnotatorNotes T1	ironic
+T2	Other 17 27;27 28;8 9;9 16	informatie ' ' actuele
+A1	Confidence T2 Low
+#2	AnnotatorNotes T2	ironic
+A2	Confidence T1 Main
