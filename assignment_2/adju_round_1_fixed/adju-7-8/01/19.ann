@@ -1,6 +1,0 @@
-T11	Trust 163 172;173 177	certainly safe
-A11	Confidence T11 Low
-T22	Fear 1 10	Hamsteren
-A22	Confidence T22 Low
-T1	Fear 221 236	hoard medicines
-A1	Confidence T1 Main

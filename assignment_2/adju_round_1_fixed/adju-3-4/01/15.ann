@@ -1,8 +1,0 @@
-T21	Fear 77 86	undermine
-A21	Confidence T21 High
-T31	Trust 161 170	correctly
-A31	Confidence T31 High
-T41	Disgust 231 240	dismissed
-A41	Confidence T41 High
-T12	Anger 252 263	abandonment
-A12	Confidence T12 Main

@@ -1,6 +1,0 @@
-T21	Fear 218 226	stayhome
-A21	Confidence T21 High
-T1	Anger 116 119;138 140;141 144;145 150;151 153;154 156	Not by the sound of it
-A1	Confidence T1 Main
-T2	Anger 218 226	stayhome
-A2	Confidence T2 Low

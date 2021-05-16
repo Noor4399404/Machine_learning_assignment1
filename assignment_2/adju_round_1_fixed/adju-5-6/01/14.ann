@@ -1,8 +1,0 @@
-T11	Fear 7 13	warned
-A11	Confidence T11 Main
-T31	Fear 175 181;199 205	causes damage
-A31	Confidence T31 Main
-T41	Fear 151 157;159 170	better transmitted
-A41	Confidence T41 Main
-T22	Fear 114 118;119 128	more dangerous
-A22	Confidence T22 Main

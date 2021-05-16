@@ -1,6 +1,0 @@
-T11	Anger 15 20;21 27	naive policy
-A11	Confidence T11 Main
-T31	Anger 228 239	Consequence
-A31	Confidence T31 Main
-T41	Anger 247 255;256 262	economic damage
-A41	Confidence T41 Main

@@ -1,8 +1,0 @@
-T12	Sadness 83 89	crying
-T22	Anger 38 45	Stomped
-A12	Confidence T22 Main
-T32	Anger 3 14	hrown doors
-A22	Confidence T32 High
-T42	Anger 30 36	crying
-A32	Confidence T42 High
-A1	Confidence T12 Low

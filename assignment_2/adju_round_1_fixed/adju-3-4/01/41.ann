@@ -1,8 +1,0 @@
-T11	Sadness 83 89	crying
-A11	Confidence T11 Main
-T21	Anger 38 45	Stomped
-A21	Confidence T21 High
-T31	Sadness 30 36	crying
-A31	Confidence T31 Main
-T41	Anger 2 8;9 14	thrown doors
-A41	Confidence T41 High
