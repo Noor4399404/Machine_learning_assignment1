@@ -1,0 +1,20 @@
+I agree with the 'one truth' myth. In annotation there is not always one truth, one correct answer or one true interpretation. 
+Some text elements can be ambigious, and the words can mean multiple things or radiate multiple feelings. With annotating the tweets we often came across some tweets that not had an emotion, and sometimes we assigned multiple emotions to the tweets or we assigned no emotion at all. 
+
+I also agree with the 'disagreement is bad' is a myth statement. 
+Because of disagreement it is necessary to talk with the annotators about the difference and the ambigious text elements. 
+We also often disagreed with the annotations and because of the disagreement we looked more in detail to the tweet and found a better label for the text element. 
+
+I think detailed guidelines can help the annotators to prevent a big difference in annotations. It can be beneficial to make the guidelines help more datailed. This way the annotators know when to use a label. For exemple when we annotated the tweets we could only choose from a certain set of emotions, these emotions were well described in detail. This way we knew when to use  'Anger' and when to use 'Disgust'.
+Sometimes we did not find the right emotion for the tweet, when this was the case, we did not assign an emotion at all. 
+
+I do agree with myth five:  'experts are better'. 
+You do not always need experts to annotate certain files, but when the annotions require certain knowledge in a certain field of expertise, it is not always beneficial when experts make the annotations.
+We made annotations for tweets with the topic of Covid-19 in the Netherlands, while  were not experts in this field.
+
+I agree that  'One is Enough' statement is a myth. With the annotations for machine learing, two persons made annotations for the text elements. 
+This had a lot of benefits. one perspective is not always enough, some cases cannot be seen by only one annotator, especially ambigious tweets.
+
+I also think the 'once done, forever valid' statement is a myth. Annotations are not always valid in different points of time. 
+
+ 
