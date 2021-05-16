@@ -1,6 +1,0 @@
-T11	Disgust 15 20;21 27	naive policy
-A11	Confidence T11 Main
-T12	Fear 136 150	empty shelves,
-A12	Confidence T12 Low
-T22	Fear 256 262	damage
-A22	Confidence T22 Low

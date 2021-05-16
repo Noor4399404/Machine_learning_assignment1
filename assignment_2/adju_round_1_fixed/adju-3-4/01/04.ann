@@ -1,6 +1,0 @@
-T11	Disgust 102 109	grossly
-A11	Confidence T11 High
-T21	Sadness 110 124	underestimated
-A21	Confidence T21 High
-T12	Other 22 25;31 39	not credible
-A12	Confidence T12 Main

@@ -1,6 +1,0 @@
-T11	Fear 20 29	emergency
-A11	Confidence T11 High
-T21	Surprise 86 91;92 96	don't even
-A21	Confidence T21 High
-T22	Anger 113 117;118 124;130 135	more deaths occur
-A22	Confidence T22 Main
