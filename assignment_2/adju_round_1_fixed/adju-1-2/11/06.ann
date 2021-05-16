@@ -1,0 +1,8 @@
+T11	Anger 207 225	onverantwoordelijk
+T21	Anger 192 196	slap
+A11	Confidence T21 Main
+T31	Anger 0 6;23 27	Waarom niet
+A21	Confidence T31 Main
+T41	Anger 51 55	ALLE
+A31	Confidence T41 Main
+A41	Confidence T11 Main

@@ -1,0 +1,6 @@
+T1	Trust 66 74	overleef
+A1	Confidence T1 Main
+T2	Trust 90 93	97%
+A2	Confidence T2 Main
+T3	Trust 26 31;32 36;37 40	Maakt niet uit
+A3	Confidence T3 Main

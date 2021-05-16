@@ -1,0 +1,7 @@
+T11	Sadness 181 190	overleden
+A11	Confidence T11 High
+T22	Anger 263 266;267 272;273 278	die weten alles
+A22	Confidence T22 Main
+T32	Other 10 13;14 18;19 23;2 8	kan toch niet Welnee
+A32	Confidence T32 High
+#12	AnnotatorNotes T32	irony

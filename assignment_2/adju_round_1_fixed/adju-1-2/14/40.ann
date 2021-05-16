@@ -1,0 +1,8 @@
+T21	Trust 178 183;185 189;200 206	prima Fijn gezond
+A21	Confidence T21 Main
+T31	Trust 213 223	verstandig
+A31	Confidence T31 Main
+T12	Disgust 29 43	paniekzaaierij
+A12	Confidence T12 High
+T32	Trust 85 92;93 101	gezonde verstand
+A32	Confidence T32 Main

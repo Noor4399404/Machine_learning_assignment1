@@ -1,0 +1,10 @@
+T11	Anger 60 68	Nonsense
+A11	Confidence T11 Main
+T31	Anger 93 99	should
+A31	Confidence T31 Main
+T41	Anger 100 104	have
+A41	Confidence T41 Main
+T22	Disgust 79 88	blundered
+A22	Confidence T22 High
+T1	Fear 194 203;204 207	Seriously ill
+A1	Confidence T1 High

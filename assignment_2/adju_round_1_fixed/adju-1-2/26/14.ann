@@ -1,0 +1,9 @@
+T11	Anticipation 46 55	hamsteren
+A11	Confidence T11 Main
+T21	Anticipation 8 19	coronavirus
+A21	Confidence T21 Main
+T31	Anticipation 144 153	kommaarop
+A31	Confidence T31 Main
+T12	Other 117 128;46 55	albertheijn hamsteren
+A12	Confidence T12 Low
+#12	AnnotatorNotes T12	irony

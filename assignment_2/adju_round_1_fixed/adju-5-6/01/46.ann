@@ -1,0 +1,10 @@
+T11	Anger 13 16;4 12	out dropping
+A11	Confidence T11 Main
+T21	Anger 80 88	bullshit
+A21	Confidence T21 Main
+T31	Surprise 53 59	Muddle
+A31	Confidence T31 High
+T41	Anger 91 97;98 102	little wool
+A41	Confidence T41 Main
+T32	Anger 21 26;27 33	Can't listen
+A32	Confidence T32 Main

@@ -1,0 +1,18 @@
+T1	Surprise 28 31	gek
+A1	Confidence T1 Main
+T2	Surprise 129 131	23
+A2	Confidence T2 Main
+T3	Surprise 153 156	zou
+A3	Confidence T3 Main
+T4	Surprise 157 161	toch
+A4	Confidence T4 Main
+T5	Surprise 162 168	denken
+A5	Confidence T5 Main
+T6	Trust 227 237	voorbereid
+A6	Confidence T6 High
+T7	Trust 212 214	én
+A7	Confidence T7 High
+T8	Trust 192 196	valt
+T9	Trust 208 211	mee
+A8	Confidence T9 High
+T10	Trust 201 207	altijd

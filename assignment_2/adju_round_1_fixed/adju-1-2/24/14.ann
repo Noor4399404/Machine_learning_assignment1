@@ -1,0 +1,30 @@
+T11	Anger 37 46;47 52	bedrijven dicht
+A11	Confidence T11 Main
+T21	Anger 54 58;59 66	geen inkomen
+A21	Confidence T21 Main
+T31	Anger 68 73	armoe
+A31	Confidence T31 Main
+T41	Anger 75 82	dakloos
+A41	Confidence T41 Main
+T12	Fear 24 35	quarantaine
+A12	Confidence T12 High
+T22	Fear 37 46;47 52	bedrijven dicht
+A22	Confidence T22 High
+T32	Fear 54 58;59 66	geen inkomen
+A32	Confidence T32 High
+T42	Fear 68 73	armoe
+A42	Confidence T42 High
+T52	Fear 75 82	dakloos
+A52	Confidence T52 High
+T1	Anger 24 35	quarantaine
+A1	Confidence T1 Main
+T2	Sadness 24 35	quarantaine
+A2	Confidence T2 High
+T3	Sadness 37 46;47 52	bedrijven dicht
+A3	Confidence T3 High
+T4	Sadness 54 58;59 66	geen inkomen
+A4	Confidence T4 High
+T5	Sadness 68 73	armoe
+A5	Confidence T5 High
+T6	Sadness 75 82	dakloos
+A6	Confidence T6 High

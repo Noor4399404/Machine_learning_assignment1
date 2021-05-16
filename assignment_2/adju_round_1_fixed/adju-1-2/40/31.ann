@@ -1,0 +1,9 @@
+T11	Other 21 25;26 40	zeer geruststellend
+A11	Confidence T11 Main
+T31	Other 71 81	veiligheid
+T41	Other 141 151	veiligheid
+A31	Confidence T41 High
+A1	Confidence T31 High
+#1	AnnotatorNotes T11	Irony
+#2	AnnotatorNotes T31	Irony
+#3	AnnotatorNotes T41	Irony

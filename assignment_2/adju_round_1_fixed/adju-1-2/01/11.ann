@@ -1,0 +1,4 @@
+T12	Fear 30 36	onrust
+A12	Confidence T12 Main
+T22	Fear 84 90;96 98	vragen af
+A22	Confidence T22 High

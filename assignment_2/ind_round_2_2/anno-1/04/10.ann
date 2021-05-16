@@ -1,0 +1,6 @@
+T1	Anger 39 49	waardeloos
+A1	Confidence T1 High
+T2	Disgust 64 68;69 82	Uren voorbereiding
+A2	Confidence T2 Main
+T3	Disgust 86 90;91 93;94 99	niet in staat
+A3	Confidence T3 Main

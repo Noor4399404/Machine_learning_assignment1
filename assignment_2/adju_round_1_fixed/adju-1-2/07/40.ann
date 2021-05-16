@@ -1,0 +1,10 @@
+T11	Surprise 38 44;45 48	blijkt dat
+A11	Confidence T11 High
+T21	Trust 178 180;181 185;193 196	Ik hoor wel
+A21	Confidence T21 Main
+T31	Joy 225 226	😁
+A31	Confidence T31 High
+T41	Surprise 101 105;96 100	over Iets
+A41	Confidence T41 Low
+T12	Anticipation 181 185;186 192;193 196	hoor morgen wel
+A12	Confidence T12 High

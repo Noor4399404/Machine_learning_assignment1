@@ -1,0 +1,6 @@
+T1	Surprise 0 4;5 8;9 13	What the hell
+A1	Confidence T1 High
+T2	Anger 0 4;5 8;9 13	What the hell
+A2	Confidence T2 Main
+T3	Anger 99 103	STOP
+A3	Confidence T3 Main

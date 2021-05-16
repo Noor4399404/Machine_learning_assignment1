@@ -1,0 +1,16 @@
+T31	Caring 182 189	respect
+A31	Confidence T31 Low
+T51	Sadness 229 238;245 258;267 275	zwakkeren minderwaardig geworden
+A51	Confidence T51 Low
+T12	Anger 276 277	😡
+A12	Confidence T12 High
+T22	Disgust 0 9	Degoutant
+A22	Confidence T22 Main
+T32	Anger 100 105;76 80;92 99	boven komt nazisme
+A32	Confidence T32 High
+T42	Disgust 92 99	nazisme
+A42	Confidence T42 Main
+T52	Disgust 140 144	walg
+A52	Confidence T52 Main
+T62	Disgust 200 209	wanbeleid
+A62	Confidence T62 Main

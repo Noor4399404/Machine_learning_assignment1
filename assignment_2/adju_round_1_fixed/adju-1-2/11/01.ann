@@ -1,0 +1,8 @@
+T11	Fear 4 16	corona-alarm
+A11	Confidence T11 Low
+T12	Surprise 26 32	Moeten
+A12	Confidence T12 High
+T22	Surprise 33 35	we
+A22	Confidence T22 High
+T32	Anger 26 32	Moeten
+A32	Confidence T32 Main

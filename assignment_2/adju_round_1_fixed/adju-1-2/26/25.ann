@@ -1,0 +1,6 @@
+T12	Anticipation 171 185;186 189;190 196	waarschijnlijk wel paniek
+A12	Confidence T12 Main
+T22	Sadness 31 38;39 43	voldoen niet
+A22	Confidence T22 High
+T32	Sadness 88 96	verloren
+A32	Confidence T32 High

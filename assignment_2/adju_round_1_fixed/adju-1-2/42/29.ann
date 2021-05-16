@@ -1,0 +1,4 @@
+T11	Fear 128 130;131 135	te laat
+A11	Confidence T11 Main
+T12	Sadness 128 130;131 135	te laat
+A12	Confidence T12 Low

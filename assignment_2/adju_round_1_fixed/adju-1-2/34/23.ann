@@ -1,0 +1,5 @@
+T11	Surprise 43 52	blijkbaar
+A11	Confidence T11 High
+T12	Disgust 53 59;60 73	anders interpreteert
+#12	AnnotatorNotes T12	Sarcasm
+A12	Confidence T12 Main

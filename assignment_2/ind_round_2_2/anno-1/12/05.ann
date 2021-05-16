@@ -1,0 +1,6 @@
+T1	Disgust 40 51;52 60	allochtonen ruïneren
+A1	Confidence T1 Main
+T2	Surprise 122 128;158 162;163 167	Waarom echt niet
+A2	Confidence T2 High
+T3	Fear 172 176	HELP
+A3	Confidence T3 High

@@ -1,0 +1,8 @@
+T11	Disgust 0 12	Ongelooflijk
+A11	Confidence T11 Main
+T12	Surprise 0 12	Ongelooflijk
+A12	Confidence T12 High
+T22	Disgust 13 16;17 30;39 45;53 57	hoe onverschillig mensen zijn
+A22	Confidence T22 Main
+T1	Surprise 13 16	hoe
+A1	Confidence T1 High

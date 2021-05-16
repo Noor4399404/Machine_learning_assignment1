@@ -1,0 +1,8 @@
+T21	Trust 55 60;61 65	Mooie kans
+A21	Confidence T21 Main
+T12	Joy 20 24;25 29	mooi weer
+A12	Confidence T12 High
+T22	Joy 74 80	lekker
+A22	Confidence T22 High
+T32	Trust 208 216;217 227	duurzame verzorging
+A32	Confidence T32 Main

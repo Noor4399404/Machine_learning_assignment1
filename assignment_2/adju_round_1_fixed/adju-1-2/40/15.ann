@@ -1,0 +1,8 @@
+T11	Joy 1 11	blijfthuis
+A11	Confidence T11 Low
+T12	Sadness 15 18;19 23;31 34	mag niet weg
+A12	Confidence T12 High
+T22	Fear 43 52	uitkijken
+A22	Confidence T22 Main
+T32	Joy 206 210	blij
+A32	Confidence T32 High

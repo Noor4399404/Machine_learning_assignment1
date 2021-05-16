@@ -1,0 +1,7 @@
+T1	Anger 24 26;27 30;34 39;40 50	is tot basis afgebroken
+A1	Confidence T1 High
+T2	Other 81 82;82 87;87 88	" goede "
+A2	Confidence T2 Low
+#1	AnnotatorNotes T2	sarcasm
+T3	Fear 280 284;288 294	maak zorgen
+A3	Confidence T3 Main

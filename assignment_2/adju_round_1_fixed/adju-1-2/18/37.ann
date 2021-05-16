@@ -1,0 +1,12 @@
+T11	Anticipation 72 74;75 78;79 85	ga nou gewoon
+A11	Confidence T11 Main
+T12	Anger 108 113	!!!!!
+A12	Confidence T12 High
+T42	Anger 40 48	gebeuren
+A42	Confidence T42 High
+T52	Anger 55 67	aanscherping
+A52	Confidence T52 High
+T1	Anticipation 40 48	gebeuren
+A1	Confidence T1 High
+T2	Anticipation 55 67	aanscherping
+A2	Confidence T2 High

@@ -1,0 +1,8 @@
+T1	Caring 125 135	blijfthuis
+A1	Confidence T1 High
+T2	Caring 115 123	stayhome
+A2	Confidence T2 High
+T3	Trust 44 46;47 51	op peil
+A3	Confidence T3 High
+T4	Fear 66 69;70 75;76 79;98 104	hoe staat het geduld
+A4	Confidence T4 Main

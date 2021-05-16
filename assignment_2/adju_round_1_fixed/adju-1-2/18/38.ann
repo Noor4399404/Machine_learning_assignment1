@@ -1,0 +1,7 @@
+T32	Anger 36 41	zoals
+A32	Confidence T32 Low
+T42	Anger 42 52	gewoonlijk
+A42	Confidence T42 Low
+T1	Other 108 120	"Sterf maar"
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	sarcasm

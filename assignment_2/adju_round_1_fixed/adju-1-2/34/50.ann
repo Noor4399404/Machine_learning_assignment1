@@ -1,0 +1,7 @@
+T11	Anger 121 130	dolletjes
+A11	Confidence T11 High
+T22	Anticipation 113 120	schijnt
+A22	Confidence T22 Main
+T42	Fear 78 88;89 93;98 104	beschermen voor ergste
+A42	Confidence T42 Low
+#1	AnnotatorNotes T22	In correlation with annoyance.

@@ -1,0 +1,12 @@
+T11	Sadness 49 60	genoodzaakt
+A11	Confidence T11 High
+T21	Sadness 98 101	uit
+A21	Confidence T21 Main
+T31	Sadness 102 104	te
+A31	Confidence T31 Main
+T41	Sadness 105 112	stellen
+A41	Confidence T41 Main
+T51	Sadness 165 169	niet
+A51	Confidence T51 High
+T12	Fear 29 35	crisis
+A12	Confidence T12 Main

@@ -1,0 +1,14 @@
+T11	Anger 12 17;18 20;47 51	weten ze niet
+A11	Confidence T11 Main
+T21	Surprise 76 78	Of
+A21	Confidence T21 High
+T32	Anger 52 56	waar
+A32	Confidence T32 Main
+T42	Anger 57 59	ze
+A42	Confidence T42 Main
+T52	Anger 64 69	bezig
+A52	Confidence T52 Main
+T62	Anger 60 63	mee
+A62	Confidence T62 Main
+T72	Anger 70 74	zijn
+A72	Confidence T72 Main

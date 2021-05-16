@@ -1,0 +1,6 @@
+T12	Trust 68 85	super voorzichtig
+A12	Confidence T12 High
+T22	Disgust 105 136;96 103	rivm toen nog niet besmettelijk volgens
+A22	Confidence T22 Main
+T1	Sadness 0 20	Besmetting opgelopen
+A1	Confidence T1 High

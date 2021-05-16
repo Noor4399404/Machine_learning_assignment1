@@ -1,0 +1,6 @@
+T1	Trust 0 7	Chapeau
+A1	Confidence T1 High
+T2	Anger 105 112;113 115;116 122	verreke ze gewoon
+A2	Confidence T2 Main
+T3	Anger 157 159;165 173;174 177	is schuldig aan
+A3	Confidence T3 High

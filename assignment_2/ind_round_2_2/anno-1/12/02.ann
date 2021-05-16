@@ -1,0 +1,8 @@
+T1	Surprise 0 3	Hoe
+A1	Confidence T1 Main
+T2	Sadness 111 116;117 131;133 139;143 152	zware longontsteking koorts hoofdpijn
+A2	Confidence T2 High
+T3	Surprise 154 157	Pas
+A3	Confidence T3 Main
+T4	Surprise 218 221;222 226;227 234	Wel zelf betalen
+A4	Confidence T4 Main

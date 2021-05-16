@@ -1,0 +1,6 @@
+T12	Surprise 40 43;66 67	wat ?
+A12	Confidence T12 High
+T22	Surprise 68 71;88 89	Wie ?
+A22	Confidence T22 High
+T32	Caring 100 104;90 94;95 99	blog Lees onze
+A32	Confidence T32 Main

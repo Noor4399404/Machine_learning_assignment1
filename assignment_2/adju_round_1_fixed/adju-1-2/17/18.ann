@@ -1,0 +1,9 @@
+T11	Joy 12 16;28 32;32 33	werd jaar !
+A11	Confidence T11 Low
+T22	Sadness 59 65;66 71	alleen thuis
+A22	Confidence T22 Main
+T32	Other 112 128	waarishetfeestje
+#12	AnnotatorNotes T32	irony
+T42	Fear 75 80;81 85	durft niet
+A32	Confidence T42 High
+A1	Confidence T32 Low

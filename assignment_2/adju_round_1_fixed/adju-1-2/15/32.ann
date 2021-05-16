@@ -1,0 +1,4 @@
+T11	Fear 123 127;128 135	lage opkomst
+A11	Confidence T11 Main
+T12	Anticipation 18 21;29 37;52 62;63 70	Wat epidemie hoogtepunt bereikt
+A12	Confidence T12 High

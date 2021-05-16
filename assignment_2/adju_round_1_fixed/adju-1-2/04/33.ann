@@ -1,0 +1,12 @@
+T11	Surprise 123 131;132 140	verkeerd begrepen
+A11	Confidence T11 Main
+T21	Anger 171 182	dasnietlief
+A21	Confidence T21 High
+T31	Surprise 19 23	echt
+A31	Confidence T31 Main
+T12	Sadness 171 182	dasnietlief
+A12	Confidence T12 High
+T22	Disgust 184 199	blijvennadenken
+A22	Confidence T22 Low
+T1	Anger 19 23	echt
+A1	Confidence T1 High

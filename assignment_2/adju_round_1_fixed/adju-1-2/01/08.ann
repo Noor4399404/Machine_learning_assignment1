@@ -1,0 +1,6 @@
+T12	Other 0 3;4 8;9 13	Zou fijn zijn
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	sarcasm
+T1	Other 178 182	pfff
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	Sarcasm

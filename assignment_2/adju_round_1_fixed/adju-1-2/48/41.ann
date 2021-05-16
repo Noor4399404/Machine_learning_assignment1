@@ -1,0 +1,4 @@
+T11	Fear 167 169;170 174	te laat
+A11	Confidence T11 Main
+T21	Sadness 0 7;19 24	Wanneer actie
+A21	Confidence T21 High

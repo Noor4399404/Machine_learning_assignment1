@@ -1,0 +1,6 @@
+T21	Disgust 47 53;54 63	bewust verzwegen
+A21	Confidence T21 High
+T22	Anger 0 3	GVD
+A22	Confidence T22 Main
+T32	Anger 70 80	Schandalig
+A32	Confidence T32 Main

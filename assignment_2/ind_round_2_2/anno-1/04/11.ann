@@ -1,0 +1,9 @@
+T1	Other 67 76	‘tactiek’
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	distrust
+T2	Other 28 33;34 37	hoger dan
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	distrust
+T3	Other 155 161;166 175	paniek voorkomen
+A3	Confidence T3 Main
+#3	AnnotatorNotes T3	distrust

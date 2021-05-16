@@ -1,0 +1,8 @@
+T11	Surprise 82 91;92 94	gebaseerd op
+A11	Confidence T11 Low
+T12	Anger 0 6;10 16;7 9	Alleen daarom al
+A12	Confidence T12 Low
+T22	Surprise 29 32	gek
+A22	Confidence T22 Main
+T32	Surprise 250 255;263 273;274 277	nemen klakkeloos aan
+A32	Confidence T32 Main

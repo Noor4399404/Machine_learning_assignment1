@@ -1,0 +1,8 @@
+T11	Anger 114 121	Failure
+A11	Confidence T11 Main
+T21	Fear 136 152	life threatening
+A21	Confidence T21 High
+T12	Sadness 31 36;41 47;48 52;56 63	until 3000th calf drowned
+A12	Confidence T12 High
+T32	Disgust 114 121;122 134;136 140;141 152	Failure organization life threatening
+A32	Confidence T32 Low

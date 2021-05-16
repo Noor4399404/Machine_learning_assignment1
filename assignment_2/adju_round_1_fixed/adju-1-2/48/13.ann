@@ -1,0 +1,8 @@
+T11	Sadness 122 126;127 132;133 137	toch nooit goed
+A11	Confidence T11 Main
+T21	Anger 100 109;69 74	afgemaakt wordt
+A21	Confidence T21 High
+T12	Disgust 11 15;23 26	geen fan
+A12	Confidence T12 Low
+T22	Anger 159 168;193 195;199 204;250 252;260 271	lafbekken en foute en hysterische
+A22	Confidence T22 Main

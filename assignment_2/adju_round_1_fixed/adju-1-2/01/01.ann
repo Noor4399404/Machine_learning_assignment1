@@ -1,0 +1,6 @@
+T11	Fear 142 147	vrees
+A11	Confidence T11 Main
+T21	Fear 164 173;184 193	overzicht verliezen
+A21	Confidence T21 High
+T22	Fear 198 203;204 213	raken verstrikt
+A22	Confidence T22 Low

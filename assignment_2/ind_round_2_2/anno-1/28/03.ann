@@ -1,0 +1,10 @@
+T1	Caring 59 62;67 74	wel schelen
+A1	Confidence T1 Main
+T2	Caring 191 198	sterkte
+A2	Confidence T2 Main
+T3	Sadness 258 260	☹️
+A3	Confidence T3 High
+T4	Trust 260 262	🙏🏻
+A4	Confidence T4 High
+T5	Sadness 244 253;254 256	overleden is
+A5	Confidence T5 High

@@ -1,0 +1,6 @@
+T21	Surprise 46 49;50 55;56 58;59 61;62 66	hoe groot is de kans
+A21	Confidence T21 Low
+T12	Surprise 46 49	hoe
+A12	Confidence T12 Main
+T22	Surprise 50 55	groot
+A22	Confidence T22 Main

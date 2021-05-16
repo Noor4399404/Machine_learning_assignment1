@@ -1,0 +1,6 @@
+T11	Surprise 75 78	Wat
+A11	Confidence T11 Low
+T12	Disgust 80 87;88 94	Debiele vraag?
+A12	Confidence T12 Main
+T1	Disgust 129 134;135 140	drama vraag
+A1	Confidence T1 High

@@ -1,0 +1,10 @@
+T11	Trust 224 232	hopelijk
+A11	Confidence T11 High
+T21	Trust 36 40;41 51	gaat veranderen
+A21	Confidence T21 High
+T1	Surprise 0 10	Bijzondere
+A1	Confidence T1 High
+T2	Anger 148 151	(!)
+A2	Confidence T2 Main
+T3	Anger 249 254	NEXIT
+A3	Confidence T3 Main

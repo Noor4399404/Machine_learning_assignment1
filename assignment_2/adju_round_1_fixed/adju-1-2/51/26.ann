@@ -1,0 +1,6 @@
+T12	Anger 0 3;13 15;16 20;4 12	Wat je niet begrijpt
+A12	Confidence T12 High
+T22	Anger 53 56;57 64;65 67;68 72	Wat begrijp je niet
+A22	Confidence T22 High
+T32	Anger 120 124;125 127	Denk na
+A32	Confidence T32 Main

@@ -1,0 +1,8 @@
+T21	Other 80 92	belangrijker
+#11	AnnotatorNotes T21	Irony
+T31	Other 113 124	vervangbaar
+A21	Confidence T31 High
+#21	AnnotatorNotes T31	Irony
+T12	Anger 13 17	grap
+A12	Confidence T12 Main
+A1	Confidence T21 High

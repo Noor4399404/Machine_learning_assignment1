@@ -1,0 +1,11 @@
+T21	Anger 224 230	seniel
+A21	Confidence T21 Main
+T31	Anger 63 67	oude
+A31	Confidence T31 Main
+T12	Other 240 257;273 276	Geloofwaardigheid NUL
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	distrust
+T22	Surprise 23 27	raar
+A22	Confidence T22 High
+T1	Anger 71 78	seniele
+A1	Confidence T1 Main

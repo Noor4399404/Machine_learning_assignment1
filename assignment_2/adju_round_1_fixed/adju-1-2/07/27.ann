@@ -1,0 +1,6 @@
+T11	Trust 171 177;187 190;191 195;196 198	lossen wel even op
+A11	Confidence T11 Main
+T12	Anger 20 23;24 28;29 38	wil niet luisteren
+A12	Confidence T12 High
+T22	Anger 43 49;50 54;55 59;60 63	houden zich niet aan
+A22	Confidence T22 High

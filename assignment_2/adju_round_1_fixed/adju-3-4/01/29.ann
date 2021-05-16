@@ -1,0 +1,6 @@
+T11	Disgust 9 17	fakenews
+A21	Confidence T11 Main
+T12	Anger 9 17	fakenews
+A12	Confidence T12 High
+T22	Anger 147 150;151 158;170 177	Why doesn't mention
+A22	Confidence T22 High

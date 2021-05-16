@@ -1,0 +1,6 @@
+T21	Surprise 82 89	Bizarre
+A21	Confidence T21 High
+T1	Fear 116 127;128 137	coronavirus infection
+A1	Confidence T1 Main
+T2	Disgust 82 89	Bizarre
+A2	Confidence T2 Low

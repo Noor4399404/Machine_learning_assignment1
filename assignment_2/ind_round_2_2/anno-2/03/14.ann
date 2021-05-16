@@ -1,0 +1,6 @@
+T1	Fear 228 231;237 241;242 246	Hou hart vast
+A1	Confidence T1 Main
+T2	Anger 148 163	geluidsoverlast
+A2	Confidence T2 High
+T3	Anger 172 176;181 189	niet solidair
+A3	Confidence T3 High

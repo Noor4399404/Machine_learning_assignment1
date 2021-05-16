@@ -1,0 +1,5 @@
+T1	Other 19 21;43 47;77 79;85 92;93 99	OS niet NL records breken
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	irony
+T2	Sadness 102 105	:-(
+A2	Confidence T2 Low

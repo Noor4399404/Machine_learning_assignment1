@@ -1,0 +1,10 @@
+T11	Sadness 79 90	schrijnende
+A11	Confidence T11 Main
+T21	Sadness 91 101	toestanden
+A21	Confidence T21 Main
+T31	Sadness 145 152;157 161	begrijp niet
+A31	Confidence T31 Main
+T12	Fear 9 17	Probleem
+A12	Confidence T12 High
+T22	Anger 145 152;157 161	begrijp niet
+A22	Confidence T22 High

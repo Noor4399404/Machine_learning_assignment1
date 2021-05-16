@@ -1,0 +1,5 @@
+T1	Trust 0 4;5 9	Goed punt
+A1	Confidence T1 Main
+T2	Other 137 141;142 148	niet heilig
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	distrust

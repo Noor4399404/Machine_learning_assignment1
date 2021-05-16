@@ -1,0 +1,6 @@
+T21	Sadness 158 164;169 177;179 186;188 193;195 199;203 207	wereld verdriet verlies angst rouw pijn
+A21	Confidence T21 Main
+T12	Sadness 56 65	overleden
+A12	Confidence T12 Main
+T32	Sadness 210 214;215 219;220 225	Mijn hart huilt
+A32	Confidence T32 Main

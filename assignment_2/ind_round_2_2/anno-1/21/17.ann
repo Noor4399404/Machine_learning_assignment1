@@ -1,0 +1,14 @@
+T1	Disgust 87 99	roeptoeteren
+A1	Confidence T1 Main
+T2	Other 131 134;135 138;143 151;152 156	Dat kan helemaal niet
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Distrust
+T3	Other 174 180;181 183;184 191	script in werking
+A3	Confidence T3 Main
+#2	AnnotatorNotes T3	Distrust
+T4	Other 202 206;207 214	doen geloven
+A4	Confidence T4 Main
+#3	AnnotatorNotes T4	Distrust
+T5	Other 22 27	onzin
+A5	Confidence T5 Main
+#4	AnnotatorNotes T5	Distrust

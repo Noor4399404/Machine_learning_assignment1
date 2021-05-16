@@ -1,0 +1,10 @@
+T1	Joy 28 33;34 36;37 39;40 45;46 51	blijf in je eigen buurt
+A1	Confidence T1 Main
+T2	Joy 53 57;58 65	houd afstand
+A2	Confidence T2 Main
+T3	Joy 69 74;82 87	blijf thuis
+A3	Confidence T3 Main
+T4	Joy 116 132	samentegencorona
+A4	Confidence T4 Main
+T5	Joy 134 145	alleensamen
+A5	Confidence T5 Main

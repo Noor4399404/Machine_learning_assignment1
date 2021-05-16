@@ -1,0 +1,14 @@
+T21	Anger 250 256	godver
+A21	Confidence T21 Main
+T31	Surprise 110 124	Waarschijnlijk
+A31	Confidence T31 High
+T41	Fear 89 97;98 108	kompleet machteloos
+A41	Confidence T41 High
+T12	Anger 7 15	verdomme
+A12	Confidence T12 Main
+T22	Disgust 209 211	al
+A22	Confidence T22 High
+T42	Disgust 212 215	die
+A42	Confidence T42 High
+T52	Disgust 216 226	allogtonen
+A52	Confidence T52 High

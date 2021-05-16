@@ -1,0 +1,5 @@
+T11	Surprise 0 3;4 9	Ook apart
+A11	Confidence T11 Main
+T21	Other 248 251;252 256;257 260	Hoe komt dat
+A21	Confidence T21 Main
+#1	AnnotatorNotes T21	distrust

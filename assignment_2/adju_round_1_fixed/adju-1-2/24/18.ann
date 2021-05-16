@@ -1,0 +1,6 @@
+T12	Other 0 3;4 8;9 12	Hoe gaat het
+A12	Confidence T12 Main
+#1	AnnotatorNotes T12	irony
+T1	Other 118 120	hè
+A1	Confidence T1 Main
+#2	AnnotatorNotes T1	irony

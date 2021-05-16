@@ -1,0 +1,6 @@
+T11	Surprise 254 257;258 261;262 265;266 270;271 280	wat dat ook moge betekenen
+A11	Confidence T11 High
+T21	Anger 194 200;201 205	lekker vaag
+A21	Confidence T21 Main
+T22	Anger 6 15	Eindelijk
+A22	Confidence T22 Main

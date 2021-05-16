@@ -1,0 +1,7 @@
+T11	Trust 77 81;86 90	doen best
+A11	Confidence T11 High
+T21	Anger 16 20;21 27;9 15	maar vragen blijft
+A21	Confidence T21 Main
+#11	AnnotatorNotes T21	annoyance
+T12	Anger 62 66;67 72	niet weten
+A12	Confidence T12 Main

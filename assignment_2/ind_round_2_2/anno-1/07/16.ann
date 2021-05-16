@@ -1,0 +1,4 @@
+T1	Trust 200 203;204 208;209 215;216 219;220 231;232 236	kan niet anders dan onduidelijk zijn
+A1	Confidence T1 Low
+T2	Anger 65 68;69 77	een schamele
+A2	Confidence T2 Main

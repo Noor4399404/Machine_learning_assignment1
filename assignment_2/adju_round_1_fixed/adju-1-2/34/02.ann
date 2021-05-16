@@ -1,0 +1,8 @@
+T11	Disgust 0 7	Bizarre
+A11	Confidence T11 Low
+T21	Surprise 167 170;171 176;177 179;180 186	Ben onder de indruk
+A21	Confidence T21 Main
+T32	Trust 106 109;110 112;113 116	aan de top
+A22	Confidence T32 High
+T42	Trust 138 144	juiste
+A32	Confidence T42 High

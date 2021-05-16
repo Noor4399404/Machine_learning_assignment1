@@ -1,0 +1,8 @@
+T11	Trust 0 9	Duidelijk
+A11	Confidence T11 Main
+T21	Trust 47 56	duidelijk
+A21	Confidence T21 Main
+T31	Surprise 73 80	onzeker
+A31	Confidence T31 High
+T41	Trust 131 136;137 139;140 142;143 145;146 152	niets op af te dingen
+A41	Confidence T41 Main

@@ -1,0 +1,6 @@
+T11	Fear 262 273	gevarenzone
+A11	Confidence T11 Main
+T21	Fear 178 183;189 196	thuis blijven
+A21	Confidence T21 High
+T12	Anger 275 278	Dus
+A12	Confidence T12 Low

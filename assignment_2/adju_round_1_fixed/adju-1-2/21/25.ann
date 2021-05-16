@@ -1,0 +1,6 @@
+T21	Anger 96 103	Idioten
+A21	Confidence T21 Main
+T31	Disgust 118 121;122 125;126 133	wel erg relaxed
+A31	Confidence T31 Low
+T22	Disgust 24 29	stout
+A22	Confidence T22 High

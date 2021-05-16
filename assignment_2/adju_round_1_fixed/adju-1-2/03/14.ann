@@ -1,0 +1,6 @@
+T21	Anger 73 78;79 85;89 95	loopt achter feiten
+A21	Confidence T21 Main
+T31	Fear 227 235;237 242;248 259	klachten nooit traceerbaar
+A31	Confidence T31 High
+T12	Anger 42 49;50 63	Slechte voorbereiding
+A12	Confidence T12 Main

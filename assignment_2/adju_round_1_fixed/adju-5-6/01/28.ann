@@ -1,0 +1,10 @@
+T11	Anger 49 52;53 57	too late
+A11	Confidence T11 Main
+T21	Anger 70 73;74 80	too little
+A21	Confidence T21 Main
+T31	Anger 203 206	die
+A31	Confidence T31 Main
+T41	Anger 224 231	blunder
+A41	Confidence T41 Main
+T51	Anger 243 255	incompetence
+A51	Confidence T51 Main

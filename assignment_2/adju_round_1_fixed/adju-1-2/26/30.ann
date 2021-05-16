@@ -1,0 +1,8 @@
+T21	Disgust 154 156	?!
+A21	Confidence T21 High
+T12	Sadness 157 160	nee
+A12	Confidence T12 High
+T22	Fear 18 21	hoe
+A22	Confidence T22 Main
+T32	Fear 133 141;142 145;146 154	rekening mee gehouden
+A32	Confidence T32 Main

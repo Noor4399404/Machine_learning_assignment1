@@ -1,0 +1,6 @@
+T21	Fear 102 109;110 122;126 136;146 159	massale ondervoeding inadequate voorzieningen
+T12	Fear 220 224;225 229	Heel link
+A12	Confidence T12 Main
+T1	Fear 66 77	catastrophe
+A1	Confidence T1 High
+A2	Confidence T21 High

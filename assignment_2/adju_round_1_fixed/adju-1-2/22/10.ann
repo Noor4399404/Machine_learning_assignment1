@@ -1,0 +1,7 @@
+T11	Disgust 0 3;4 7;8 12	Wat een volk
+A11	Confidence T11 High
+T12	Anger 157 163;190 193;198 203	lappen aan laars
+A12	Confidence T12 Main
+T22	Other 19 27;28 33;37 44;45 49	gelukkig dingt niemand voor
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	Irony

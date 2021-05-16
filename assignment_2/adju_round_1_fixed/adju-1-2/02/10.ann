@@ -1,0 +1,6 @@
+T12	Fear 41 53	besmettingen
+A12	Confidence T12 Main
+T22	Fear 85 89;90 101	zijn vastgesteld
+A22	Confidence T22 High
+T32	Trust 181 190	voorkomen
+A32	Confidence T32 High

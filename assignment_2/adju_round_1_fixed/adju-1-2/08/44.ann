@@ -1,0 +1,6 @@
+T11	Sadness 136 142;143 148;149 152;153 157	weinig tegen kan doen
+A11	Confidence T11 Main
+T21	Sadness 159 165	Gebrek
+A21	Confidence T21 Low
+T12	Sadness 85 104	gaat al snel genoeg
+A12	Confidence T12 Low

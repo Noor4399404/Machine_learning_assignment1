@@ -1,0 +1,8 @@
+T11	Anger 20 29	schuldig!
+A11	Confidence T11 Main
+T22	Fear 46 52;57 59;60 66	brengt in gevaar
+A22	Confidence T22 High
+T1	Anger 83 87	moet
+A1	Confidence T1 Main
+T2	Anger 88 96	opgepakt
+A2	Confidence T2 Main

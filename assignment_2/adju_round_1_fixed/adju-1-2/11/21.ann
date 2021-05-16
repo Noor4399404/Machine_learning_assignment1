@@ -1,0 +1,6 @@
+T11	Trust 14 17;18 21	nog kan
+A11	Confidence T11 Main
+T21	Anticipation 189 197;198 201	rekening mee
+A21	Confidence T21 High
+T12	Anticipation 23 32	uiteraard
+A12	Confidence T12 High

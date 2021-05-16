@@ -1,0 +1,1 @@
+#COVID19NL Met een (n=24,7) (bron:WHO) en bevestigd 321 positief geteste gevallen (RIVM), uitgaande van een gemiddelde incubatie+test+resultaat tijd van 9 dagen (WHO), is het aantal dragers vandaag +/- 2300. Dat geeft NL slecht DAGEN om te proberen dit te remmen voor ICs crashen.

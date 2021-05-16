@@ -1,0 +1,6 @@
+T11	Anger 16 22;9 15	beleid naïeve
+A11	Confidence T11 Main
+T22	Anger 102 110;111 116;76 82;95 98	gebakken peren zitten met
+A22	Confidence T22 Low
+T32	Anger 207 218;219 225	economische schade
+A32	Confidence T32 High

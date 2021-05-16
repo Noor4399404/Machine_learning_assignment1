@@ -1,0 +1,6 @@
+T11	Anticipation 0 7;12 14	Schrijf op
+A11	Confidence T11 Main
+T21	Anticipation 16 22;28 33	Binnen dagen
+A21	Confidence T21 Main
+T32	Fear 66 69;73 76;77 83	die VOL liggen
+A32	Confidence T32 High

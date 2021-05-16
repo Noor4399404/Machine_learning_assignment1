@@ -1,0 +1,10 @@
+T21	Fear 175 179;180 185;186 189	geen vrije wil
+A21	Confidence T21 Main
+T31	Fear 205 209;210 217	geen geweten
+A31	Confidence T31 Main
+T41	Fear 40 49	opgelopen
+A41	Confidence T41 Main
+T51	Fear 112 123;70 78	vastgesteld Covid19n
+A51	Confidence T51 Main
+T12	Sadness 11 23	slachtoffers
+A12	Confidence T12 High

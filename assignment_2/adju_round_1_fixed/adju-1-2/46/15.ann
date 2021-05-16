@@ -1,0 +1,8 @@
+T21	Trust 20 25;26 28;35 38	sluit me aan
+A21	Confidence T21 Main
+T31	Disgust 62 72	hysterisch
+A31	Confidence T31 High
+T41	Trust 94 98	niet
+A41	Confidence T41 Low
+T12	Joy 1 6	Leuke
+A12	Confidence T12 High

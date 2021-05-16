@@ -1,0 +1,14 @@
+T1	Joy 0 9	Positieve
+A1	Confidence T1 Main
+T2	Joy 102 106	fijn
+A2	Confidence T2 High
+T3	Joy 128 139	meegenieten
+A3	Confidence T3 High
+T4	Joy 166 175	gezellige
+A4	Confidence T4 High
+T5	Joy 231 236	goede
+A5	Confidence T5 Low
+T6	Joy 246 258	teampositief
+A6	Confidence T6 High
+T7	Joy 260 270	kleingeluk
+A7	Confidence T7 High

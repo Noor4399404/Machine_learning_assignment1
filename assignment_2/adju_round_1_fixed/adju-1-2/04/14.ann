@@ -1,0 +1,6 @@
+T21	Other 105 109;92 97;98 104	zout grote korrel
+A21	Confidence T21 Main
+#11	AnnotatorNotes T21	distrust
+T22	Surprise 249 255;256 260	Beetje vaag
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	distrust

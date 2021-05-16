@@ -1,0 +1,8 @@
+T11	Trust 12 20	voordeel
+A11	Confidence T11 Main
+T12	Joy 70 75;76 82;83 87	beter kunnen zien
+A12	Confidence T12 High
+T22	Trust 148 153;154 162;163 176	goede medische voorzieningen
+A22	Confidence T22 Main
+T32	Trust 178 188;209 222;223 226;227 232	Zuid-Korea transparanter dan China
+A32	Confidence T32 Main

@@ -1,0 +1,10 @@
+T11	Joy 71 76	Lieve
+A11	Confidence T11 Low
+T21	Caring 85 95	blijfthuis
+A21	Confidence T21 Main
+T31	Anger 116 128	ganaarbuiten
+A31	Confidence T31 Low
+T12	Surprise 14 24;25 32;9 13	ziekenhuis opnames veel
+A12	Confidence T12 High
+T32	Disgust 108 114;97 107	mensen vervelende
+A32	Confidence T32 High

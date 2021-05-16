@@ -1,0 +1,7 @@
+T1	Other 0 8;13 17;18 24;65 73;74 79;80 85	Vertrouw maar lekker compleet naast zaten
+A1	Confidence T1 Low
+#1	AnnotatorNotes T1	sarcasm
+T2	Anger 98 107	gerotzooi
+T3	Anger 132 138;139 157;158 163	totaal overzicht/controle kwijt
+A2	Confidence T3 High
+A3	Confidence T2 Main

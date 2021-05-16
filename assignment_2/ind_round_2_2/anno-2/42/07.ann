@@ -1,0 +1,6 @@
+T1	Trust 25 35	voorbereid
+A1	Confidence T1 Main
+T2	Trust 163 172	voorkomen
+A2	Confidence T2 Main
+T3	Disgust 61 66	gekte
+A3	Confidence T3 High

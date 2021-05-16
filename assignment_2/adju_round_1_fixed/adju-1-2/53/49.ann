@@ -1,0 +1,6 @@
+T11	Anger 18 27;28 36;50 58	eigenlijk verkoopt FakeNews
+A11	Confidence T11 Main
+T32	Anger 106 113;121 125;126 129;130 134	niemand iets aan doet
+A22	Confidence T32 Main
+T1	Anger 88 92;93 100	niet kloppen
+A1	Confidence T1 Main

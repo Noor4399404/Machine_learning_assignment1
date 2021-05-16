@@ -1,0 +1,4 @@
+T12	Anger 55 63	opgerekt
+T22	Disgust 100 106	kosten
+A12	Confidence T22 High
+A22	Confidence T12 Main

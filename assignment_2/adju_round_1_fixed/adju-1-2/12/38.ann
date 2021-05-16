@@ -1,0 +1,6 @@
+T11	Anger 15 25	blijfthuis
+A11	Confidence T11 Main
+T12	Anger 39 43;44 46;47 55	niet zo moeilijk
+A12	Confidence T12 Main
+T22	Joy 68 74;86 94	lekker genieten
+A22	Confidence T22 High

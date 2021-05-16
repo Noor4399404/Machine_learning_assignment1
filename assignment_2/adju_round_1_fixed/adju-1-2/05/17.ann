@@ -1,0 +1,5 @@
+T12	Trust 3 7	hoop
+A12	Confidence T12 Main
+T22	Other 64 70;71 77	loodje leggen
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	irony

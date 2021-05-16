@@ -1,0 +1,12 @@
+T11	Fear 104 110	moeten
+A11	Confidence T11 Main
+T21	Trust 82 87;88 99	Zeker terugkijken
+A21	Confidence T21 High
+T12	Fear 114 117	aan
+A12	Confidence T12 Main
+T22	Fear 118 120	de
+A22	Confidence T22 Main
+T32	Fear 121 128	noodrem
+A32	Confidence T32 Main
+T42	Fear 129 136	trekken
+A42	Confidence T42 Main

@@ -1,0 +1,8 @@
+T1	Sadness 109 112;113 119;120 123;128 138	zij moeten ons informeren
+A1	Confidence T1 Main
+T2	Sadness 139 140	😢
+A2	Confidence T2 Main
+T3	Surprise 101 104;84 92;93 95;96 100	wel Luistert de pers
+A3	Confidence T3 High
+T4	Anger 0 9;10 16;17 19	Misschien moeten ze
+A4	Confidence T4 Low

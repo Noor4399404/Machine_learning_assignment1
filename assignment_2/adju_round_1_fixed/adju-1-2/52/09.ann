@@ -1,0 +1,10 @@
+T11	Anger 0 6	Waarom
+A11	Confidence T11 Main
+T21	Fear 68 75;79 85;86 92	blijven mensen denken
+A21	Confidence T21 High
+T22	Anger 7 13	blijft
+A22	Confidence T22 Main
+T32	Anger 24 28	maar
+A32	Confidence T32 Main
+T42	Anger 156 162	genoeg
+A42	Confidence T42 Main

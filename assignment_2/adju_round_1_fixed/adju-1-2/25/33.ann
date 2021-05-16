@@ -1,0 +1,10 @@
+T21	Anticipation 23 27;77 79;80 84	gaan of niet
+A21	Confidence T21 High
+T31	Anticipation 127 131;89 93	door gaat
+A31	Confidence T31 High
+T41	Anticipation 164 171;172 177;181 186	hoelaat laten weten
+A41	Confidence T41 High
+T51	Anticipation 214 220;232 236;237 243	waarom niet gezegd
+A51	Confidence T51 High
+T12	Surprise 12 16;3 7	niet snap
+A12	Confidence T12 Main

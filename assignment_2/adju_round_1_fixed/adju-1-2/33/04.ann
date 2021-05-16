@@ -1,0 +1,8 @@
+T21	Disgust 151 168	slappe ambtenaren
+A21	Confidence T21 Main
+T11	Trust 0 5;6 12	Groot gelijk
+A11	Confidence T11 High
+T41	Fear 28 34	zorgen
+A41	Confidence T41 High
+T12	Fear 28 34	zorgen
+A12	Confidence T12 High

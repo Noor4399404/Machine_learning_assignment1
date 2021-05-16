@@ -1,0 +1,12 @@
+T1	Disgust 16 20;21 28	echt verraad
+A1	Confidence T1 High
+T2	Anger 54 64;65 74	Doelbewust verbergen
+A2	Confidence T2 High
+T3	Anger 76 86;87 92	onmogelijk maken
+A3	Confidence T3 High
+T4	Anger 94 104	verbloemen
+A4	Confidence T4 High
+T5	Anger 106 110;111 114;115 119	Wees een vent
+T6	Trust 136 141;151 154;155 158;159 162	weten hoe het zit
+A5	Confidence T6 High
+A6	Confidence T5 Main

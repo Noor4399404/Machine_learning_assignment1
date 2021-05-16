@@ -1,0 +1,9 @@
+T12	Other 270 274;275 277	Goed hé
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	irony
+T22	Other 143 148;149 155;156 163	groot succes geweest
+A22	Confidence T22 Main
+T32	Other 73 79;80 83;84 91	gewoon een griepje
+A32	Confidence T32 Main
+#22	AnnotatorNotes T32	irony
+#32	AnnotatorNotes T22	irony

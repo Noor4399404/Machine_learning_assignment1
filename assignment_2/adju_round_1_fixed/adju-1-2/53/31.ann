@@ -1,0 +1,6 @@
+T11	Anticipation 81 83;84 88;89 95;96 100	is daar uitleg voor
+A11	Confidence T11 Main
+T22	Fear 157 168	geschrokken
+A22	Confidence T22 Low
+T32	Disgust 218 222;223 227	écht ziek
+A32	Confidence T32 High

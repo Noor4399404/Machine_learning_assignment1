@@ -1,0 +1,12 @@
+T1	Surprise 90 97	curieus
+A1	Confidence T1 High
+T2	Anger 129 133;134 143	niet objectief
+A2	Confidence T2 High
+T3	Anger 152 160	lacherig
+A3	Confidence T3 High
+T4	Anger 169 173;174 180	niet urgent
+A4	Confidence T4 High
+T5	Anger 189 193;194 205	niet informatief
+A5	Confidence T5 High
+T6	Anger 227 233;234 237;238 241;242 251;252 262	indruk van een versleten dinosaurus
+A6	Confidence T6 Main

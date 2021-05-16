@@ -1,0 +1,15 @@
+T11	Disgust 61 82	downplay communicatie
+A11	Confidence T11 Main
+T21	Surprise 158 172	staat haaks op
+A21	Confidence T21 Low
+T12	Other 91 120	"het is niet zo besmettelijk"
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	Irony
+T22	Other 121 143	"lijkt op een griepje"
+A22	Confidence T22 High
+#22	AnnotatorNotes T22	Irony
+T32	Other 202 206;207 210;216 220;221 226	wist het toch beter
+A32	Confidence T32 High
+#32	AnnotatorNotes T32	Irony
+T42	Disgust 20 25;35 38	joris weg
+A42	Confidence T42 Main

@@ -1,0 +1,6 @@
+T11	Fear 199 202;203 211	dan voorheen
+A11	Confidence T11 Low
+T12	Disgust 226 234;235 244;245 250	compleet vertekend beeld
+A12	Confidence T12 Main
+T22	Surprise 143 146;147 150;151 155	Kan ook zijn
+A22	Confidence T22 High

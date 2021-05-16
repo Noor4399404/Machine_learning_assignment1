@@ -1,0 +1,12 @@
+T31	Disgust 160 170	maling aan
+A31	Confidence T31 Main
+T12	Disgust 32 40	proleten
+T22	Disgust 54 62	heilloze
+A12	Confidence T22 Main
+T32	Disgust 63 70	ideoten
+A22	Confidence T32 Main
+T42	Disgust 17 20	hel
+A32	Confidence T42 Main
+A42	Confidence T12 Main
+T1	Anger 17 20	hel
+A1	Confidence T1 High

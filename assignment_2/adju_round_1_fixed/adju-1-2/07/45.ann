@@ -1,0 +1,4 @@
+T12	Fear 117 122;127 135	wordt bepalend
+A12	Confidence T12 Main
+T22	Fear 150 155;156 158;159 163	alles op slot
+A22	Confidence T22 Main

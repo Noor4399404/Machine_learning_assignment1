@@ -1,0 +1,8 @@
+T11	Disgust 23 34	nalatigheid
+A11	Confidence T11 High
+T21	Disgust 46 53	negeren
+A21	Confidence T21 Main
+T1	Fear 118 119;119 120;120 121	😯 😲 😱
+A1	Confidence T1 Main
+T2	Fear 91 100	slapeloze
+A2	Confidence T2 High

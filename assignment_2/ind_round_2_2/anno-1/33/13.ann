@@ -1,0 +1,6 @@
+T1	Trust 29 34	goede
+A1	Confidence T1 High
+T2	Disgust 105 109;110 117;98 104	niet capabel (echt)
+A2	Confidence T2 Main
+T3	Disgust 165 171	#mexit
+A3	Confidence T3 Main

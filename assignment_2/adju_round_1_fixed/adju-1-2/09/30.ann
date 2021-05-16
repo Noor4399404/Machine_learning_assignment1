@@ -1,0 +1,6 @@
+T11	Anger 22 28	zeuren
+A11	Confidence T11 Main
+T21	Disgust 60 64;65 69	niet eens
+A21	Confidence T21 Low
+T22	Sadness 199 202;203 208	900 doden
+A22	Confidence T22 Main

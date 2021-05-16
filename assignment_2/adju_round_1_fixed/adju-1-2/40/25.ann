@@ -1,0 +1,6 @@
+T31	Joy 175 176	!
+A31	Confidence T31 Main
+T12	Joy 102 105;106 114;88 95;96 101	mbt Infected dalende trend
+A12	Confidence T12 Main
+T22	Joy 166 174	hersteld
+A22	Confidence T22 High

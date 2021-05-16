@@ -1,0 +1,10 @@
+T21	Anger 40 45;46 51	klote virus
+A21	Confidence T21 Main
+T31	Disgust 73 79	gezeik
+A31	Confidence T31 High
+T12	Anger 12 14;15 18;8 11	op zeg kom
+A12	Confidence T12 High
+T22	Disgust 40 45;46 51	klote virus
+A22	Confidence T22 High
+T32	Disgust 68 72;73 79	geen gezeik
+A32	Confidence T32 High

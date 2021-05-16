@@ -1,0 +1,5 @@
+T11	Fear 250 255;264 267;268 270;271 275	loopt uit de hand
+A11	Confidence T11 Main
+T12	Anger 3 11	vrolijke
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	sarcasme

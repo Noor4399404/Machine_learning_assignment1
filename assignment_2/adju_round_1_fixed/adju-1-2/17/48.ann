@@ -1,0 +1,10 @@
+T21	Surprise 103 104;63 68;82 91;92 94;95 103	? begin symptomen te vertonen
+A21	Confidence T21 Low
+T31	Surprise 103 104;63 68;82 91;92 94;95 103	? begin symptomen te vertonen
+A31	Confidence T31 High
+T41	Surprise 106 114	mindfuck
+A41	Confidence T41 Low
+T12	Fear 34 39;40 43;44 46;47 54;55 58	krijg het er benauwd van
+A12	Confidence T12 Main
+T22	Fear 63 68;72 81;82 91;92 94;95 103	begin effectief symptomen te vertonen
+A22	Confidence T22 High

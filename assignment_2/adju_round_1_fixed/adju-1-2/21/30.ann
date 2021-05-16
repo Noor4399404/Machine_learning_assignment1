@@ -1,0 +1,12 @@
+T11	Joy 39 44	HOERA
+A11	Confidence T11 High
+T21	Trust 50 54;55 62	WIJS BESLUIT
+T31	Anticipation 79 81;82 88	al wakker
+T41	Fear 104 106;107 109;97 103	nu 38 Corona
+A21	Confidence T41 High
+T51	Anger 111 115;116 120	MAAR WAAR
+A31	Confidence T51 Low
+A1	Confidence T21 High
+T1	Anger 120 127	!!!????
+A2	Confidence T1 Low
+A3	Confidence T31 Main

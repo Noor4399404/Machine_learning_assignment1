@@ -1,0 +1,6 @@
+T11	Anger 210 217;218 223;224 227	Niemand helpt ons
+A11	Confidence T11 Main
+T12	Disgust 87 97	arrogantie
+A12	Confidence T12 High
+T22	Disgust 104 113	wanbeleid
+A22	Confidence T22 High

@@ -1,0 +1,10 @@
+T1	Disgust 12 20;8 11	geneuzel dom
+A1	Confidence T1 High
+T2	Anger 36 42	Alwéér
+A2	Confidence T2 Main
+T3	Anger 45 48;49 53	Die gast
+A3	Confidence T3 Main
+T4	Anger 116 127	geïrriteerd
+A4	Confidence T4 Main
+T5	Anger 139 149	wantrouwen
+A5	Confidence T5 Main

@@ -1,0 +1,6 @@
+T31	Anger 228 229	!
+A31	Confidence T31 Main
+T12	Anger 0 6	Waarom
+A12	Confidence T12 Main
+T1	Anger 125 128	Hoe
+A1	Confidence T1 Main

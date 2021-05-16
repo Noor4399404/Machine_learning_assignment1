@@ -1,0 +1,6 @@
+T21	Anger 114 120;121 123;124 130;131 134	achter de feiten aan
+A21	Confidence T21 High
+T12	Anger 0 6;12 19;20 27	Lekker blijven vliegen
+A12	Confidence T12 Main
+T22	Sadness 43 47;48 52	niet eens
+A22	Confidence T22 Low

@@ -1,0 +1,10 @@
+T1	Trust 64 74	doorpakken
+A1	Confidence T1 Main
+T2	Anticipation 85 89;90 95	meer nodig
+A2	Confidence T2 High
+T3	Trust 0 4	Mooi
+A3	Confidence T3 Main
+T4	Trust 173 178	prima
+A4	Confidence T4 Main
+T5	Trust 201 205	Doen
+A5	Confidence T5 Main

@@ -1,0 +1,8 @@
+T11	Trust 24 32;33 40	helemaal terecht
+A11	Confidence T11 High
+T21	Sadness 159 167	mislukte
+A21	Confidence T21 High
+T12	Fear 117 122;140 146;147 153	drama zonder weerga
+A12	Confidence T12 Main
+T22	Fear 159 167	mislukte
+A22	Confidence T22 Main

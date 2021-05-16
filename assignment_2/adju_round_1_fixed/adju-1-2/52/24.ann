@@ -1,0 +1,8 @@
+T11	Joy 48 56	gelukkig
+A11	Confidence T11 Main
+T21	Joy 104 108;109 117	geen klachten
+A21	Confidence T21 Main
+T31	Joy 169 179	zorghelden
+A31	Confidence T31 Main
+T22	Anticipation 146 152	risico
+A22	Confidence T22 High

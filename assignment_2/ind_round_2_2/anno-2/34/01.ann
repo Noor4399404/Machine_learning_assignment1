@@ -1,0 +1,6 @@
+T1	Fear 228 231;232 234;235 239;240 246	Dat is geen grapje
+A1	Confidence T1 Main
+T2	Fear 160 170;171 178	biological warfare
+A2	Confidence T2 High
+T3	Fear 207 209;210 216;217 220;221 226	in oorlog met China
+A3	Confidence T3 High

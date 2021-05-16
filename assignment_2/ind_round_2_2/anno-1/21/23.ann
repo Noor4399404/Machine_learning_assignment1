@@ -1,0 +1,5 @@
+T1	Anger 21 26;27 31	halve gare
+A1	Confidence T1 Main
+T2	Disgust 85 90;91 93;94 100	niets te melden
+A2	Confidence T2 High
+T3	Disgust 107 110;111 114	die man

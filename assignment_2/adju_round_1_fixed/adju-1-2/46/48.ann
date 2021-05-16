@@ -1,0 +1,8 @@
+T11	Joy 39 43	blij
+A11	Confidence T11 Low
+T21	Surprise 105 111;112 114;115 118;163 167;168 171;98 104	kunnen ze wel maar als waarom
+A21	Confidence T21 Main
+T32	Fear 196 204	vermoord
+A32	Confidence T32 High
+T1	Fear 176 184	gestalkt
+A1	Confidence T1 High

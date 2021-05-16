@@ -1,0 +1,6 @@
+T11	Sadness 155 165;166 173;175 189;191 197;201 205;206 213	vreselijke moeheid kortademigheid niezen rare kuchjes
+A11	Confidence T11 Main
+T12	Anger 231 240	irritatie
+A12	Confidence T12 High
+T1	Fear 275 279	zorg
+A1	Confidence T1 High

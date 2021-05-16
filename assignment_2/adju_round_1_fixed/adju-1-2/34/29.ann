@@ -1,0 +1,9 @@
+T11	Anger 10 15;37 40;4 9	pluim not dikke
+A11	Confidence T11 Main
+#11	AnnotatorNotes T11	Sarcasm
+T21	Anger 173 175	👍🏽
+A21	Confidence T21 High
+#21	AnnotatorNotes T21	sarcasm
+T22	Anger 176 181	Sorry
+A22	Confidence T22 Low
+#1	AnnotatorNotes T22	Relief

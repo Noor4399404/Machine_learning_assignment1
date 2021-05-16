@@ -1,0 +1,13 @@
+T11	Fear 70 73;74 79	bio wapen
+A11	Confidence T11 Low
+T31	Anger 182 186;187 191	zegt niks
+A31	Confidence T31 Low
+T12	Other 40 47	griepje
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	irony
+T32	Anger 104 108;109 112;113 117;118 121	lult uit zijn nek
+A22	Confidence T32 High
+T42	Fear 228 239;240 250	coronavirus injecteren
+A32	Confidence T42 Main
+T52	Fear 197 201;202 216	long beschadigingen
+A42	Confidence T52 Low

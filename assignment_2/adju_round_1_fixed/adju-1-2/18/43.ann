@@ -1,0 +1,6 @@
+T11	Anger 0 5;6 8	Stoor me
+T21	Anticipation 258 262;263 266;267 273	Kijk ajb verder
+A11	Confidence T21 Main
+T12	Disgust 0 5;6 8	Stoor me
+A12	Confidence T12 High
+A1	Confidence T11 High

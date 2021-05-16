@@ -1,0 +1,6 @@
+T12	Trust 64 67	fan
+A12	Confidence T12 Main
+T22	Trust 4 7;8 16	een eindbaas
+A22	Confidence T22 Main
+T32	Trust 21 26;27 32	enige echte
+A32	Confidence T32 Main

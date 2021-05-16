@@ -1,0 +1,6 @@
+T21	Anger 261 265;269 275	Kost centen
+A21	Confidence T21 Main
+T12	Anger 18 25	onnozel
+A12	Confidence T12 Main
+T22	Anger 153 159	Waarom
+A22	Confidence T22 Low

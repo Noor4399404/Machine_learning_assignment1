@@ -1,0 +1,6 @@
+T11	Anger 25 30;82 92;93 96	wordt behoorlijk zat
+A11	Confidence T11 Main
+T21	Disgust 152 159	argwaan
+A21	Confidence T21 High
+T22	Disgust 109 114;122 125;126 137;138 146	niets dat bewondering verdient
+A22	Confidence T22 High

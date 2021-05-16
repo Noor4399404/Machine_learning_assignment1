@@ -1,0 +1,6 @@
+T12	Anger 18 25;26 32	massaal debiel
+A12	Confidence T12 Main
+T22	Disgust 121 126;127 137	grote roerganger
+A22	Confidence T22 High
+T32	Fear 50 56;57 65	Corona hysterie
+A32	Confidence T32 High

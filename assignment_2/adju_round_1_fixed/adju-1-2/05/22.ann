@@ -1,0 +1,5 @@
+T11	Trust 29 33;34 38	geen last
+A11	Confidence T11 Main
+T12	Other 107 111;84 88;90 92;98 102	COOP geen AH maar
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	irony

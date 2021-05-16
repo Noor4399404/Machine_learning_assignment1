@@ -1,0 +1,6 @@
+T1	Disgust 48 51;52 55;56 59;60 62;63 67	dan hoe het nu gaat
+A1	Confidence T1 Main
+T2	Joy 36 47	effectiever
+A2	Confidence T2 High
+T3	Joy 76 83;89 93	scheelt geld
+A3	Confidence T3 High

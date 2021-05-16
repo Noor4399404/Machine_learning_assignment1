@@ -1,0 +1,6 @@
+T11	Anger 100 110	achterlijk
+A11	Confidence T11 Main
+T21	Anger 268 271;272 279	Doe normaal
+A21	Confidence T21 Main
+T1	Sadness 124 128;129 137	geen feestjes
+A1	Confidence T1 Low

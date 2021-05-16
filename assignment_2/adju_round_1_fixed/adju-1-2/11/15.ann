@@ -1,0 +1,8 @@
+T11	Sadness 56 65;66 74	blijkbaar langzaam
+T21	Sadness 76 79;80 84	nog maar
+A21	Confidence T21 Main
+T31	Fear 122 128	besmet
+A31	Confidence T31 High
+A11	Confidence T11 Main
+T12	Surprise 56 65	blijkbaar
+A12	Confidence T12 High

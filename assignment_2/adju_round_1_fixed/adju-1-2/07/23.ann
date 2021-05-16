@@ -1,0 +1,14 @@
+T31	Disgust 231 234;235 236;237 241	get a life
+A21	Confidence T31 Main
+T41	Joy 175 179;180 188	niet stressen
+A31	Confidence T41 Low
+T51	Trust 192 199;200 202	geloven in
+A41	Confidence T51 High
+T12	Surprise 75 81	Waarom
+A12	Confidence T12 High
+T22	Anger 129 132;133 137;138 141	Kap daar mee
+A22	Confidence T22 High
+T52	Trust 208 212	ziel
+A52	Confidence T52 High
+T62	Trust 216 222	kracht
+A62	Confidence T62 High

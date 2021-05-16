@@ -1,0 +1,6 @@
+T11	Surprise 0 4;12 23	Kunt voorstellen
+A11	Confidence T11 High
+T12	Trust 236 240;241 251	goed voorbereid
+A12	Confidence T12 High
+T22	Sadness 29 36;48 52;53 56;57 61	COVID19 gang kan gaan
+A22	Confidence T22 Main

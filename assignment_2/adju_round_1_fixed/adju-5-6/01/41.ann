@@ -1,0 +1,10 @@
+T11	Anger 2 8;9 14	thrown doors
+A11	Confidence T11 Main
+T21	Anger 30 36	crying
+A21	Confidence T21 Main
+T31	Anger 38 45	Stomped
+A31	Confidence T31 Main
+T41	Anger 83 89	crying
+A41	Confidence T41 Main
+T12	Joy 100 103;104 108;98 99	sum done 1
+A12	Confidence T12 High

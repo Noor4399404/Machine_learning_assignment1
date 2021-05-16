@@ -1,0 +1,8 @@
+T11	Fear 127 132;136 138;139 141	vraag me af
+A11	Confidence T11 Main
+T12	Joy 20 27;7 19	plannen enthousiaste
+A12	Confidence T12 High
+T22	Joy 31 39	voorpret
+A22	Confidence T22 High
+T32	Anticipation 127 132;136 138;139 141	vraag me af
+A32	Confidence T32 High

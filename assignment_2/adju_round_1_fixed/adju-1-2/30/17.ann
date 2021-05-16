@@ -1,0 +1,10 @@
+T1	Anticipation 0 23	Mogen we nog knuffelen?
+A1	Confidence T1 High
+T2	Anger 81 94	ADVISEER MIJ!
+A2	Confidence T2 Main
+T3	Anticipation 24 44	Mogen we nog tongen?
+A3	Confidence T3 High
+T4	Anticipation 45 65	Mogen we nog neuken?
+A4	Confidence T4 High
+T5	Surprise 66 79	Zoveel vragen
+A5	Confidence T5 High

@@ -1,0 +1,7 @@
+T11	Caring 125 135	blijfthuis
+A11	Confidence T11 High
+T21	Disgust 110 111	🤮
+A21	Confidence T21 High
+T12	Other 100 106;107 110;88 93;94 96	zoveel van leren er
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	sarcasme

@@ -1,0 +1,6 @@
+Mijn vragen zonder antwoorden:
+a) Wat is, bij benadering, het aantal #Covid_19 infecties in België ?
+b) Wat is de incubatietijd (mediaan + stddev)?
+c) Wanneer is een geïnfecteerd persoon die geen of slechts milde symptomen gehad heeft, niet langer besmettelijk?
+
+2/

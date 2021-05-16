@@ -1,0 +1,12 @@
+T21	Fear 181 187	paniek
+A21	Confidence T21 High
+T31	Sadness 189 197	verdriet
+A31	Confidence T31 High
+T41	Anger 201 206	woede
+A41	Confidence T41 High
+T12	Fear 63 78	paniek gebracht
+A12	Confidence T12 High
+T22	Sadness 113 129	doet het me zeer
+A22	Confidence T22 Main
+T32	Sadness 149 168	Had ik het maar mis
+A32	Confidence T32 Main

@@ -1,0 +1,10 @@
+T11	Anger 56 62;63 68;69 71;72 78	Lekker dicht op elkaar
+A11	Confidence T11 Main
+T12	Anger 85 89;90 92;93 101	echt zo moeilijk
+A12	Confidence T12 Main
+T22	Anger 10 14	maar
+A22	Confidence T22 Main
+T1	Anger 104 114	blijfthuis
+A1	Confidence T1 Main
+T2	Anger 116 124	stayhome
+A2	Confidence T2 Main

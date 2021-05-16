@@ -1,0 +1,4 @@
+T11	Fear 120 126;130 139	proces vertragen
+A11	Confidence T11 Main
+T21	Fear 0 6;59 71;7 19	Aantal voorspelbaar besmettingen
+A21	Confidence T21 High

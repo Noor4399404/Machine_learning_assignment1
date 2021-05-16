@@ -1,0 +1,8 @@
+T11	Fear 100 111;112 120;86 90;91 95	besmettings gevallen hoge mate
+A11	Confidence T11 Main
+T31	Fear 227 237	Opschaling
+A31	Confidence T31 Main
+T12	Sadness 183 187;188 196;197 202	geen concreet beeld
+A12	Confidence T12 High
+T22	Anticipation 20 26	TOTAAL
+A22	Confidence T22 High

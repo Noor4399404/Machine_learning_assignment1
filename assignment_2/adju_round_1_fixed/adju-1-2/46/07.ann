@@ -1,0 +1,5 @@
+T11	Anger 72 75;76 80;81 83	Wat denk je
+A11	Confidence T11 Main
+T12	Other 169 173;174 180	geen paniek
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	irony

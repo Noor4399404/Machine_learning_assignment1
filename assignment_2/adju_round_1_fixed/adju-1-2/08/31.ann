@@ -1,0 +1,9 @@
+T11	Sadness 114 122;123 130	dodental oplopen
+A11	Confidence T11 High
+T21	Sadness 157 167;168 174;175 187	besmetting stijgt astronomisch
+A21	Confidence T21 High
+T31	Sadness 191 199;200 209	sterfte% opgelopen
+A31	Confidence T31 High
+T12	Other 0 27	Zijn jullie ook zo benieuwd
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	Curiosity

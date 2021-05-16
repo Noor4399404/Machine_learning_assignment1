@@ -1,0 +1,4 @@
+T11	Anticipation 120 126;132 138	levert vragen
+A11	Confidence T11 Main
+T32	Fear 100 106;107 119	corona risicogebied
+A32	Confidence T32 Low

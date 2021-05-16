@@ -1,0 +1,12 @@
+T1	Caring 69 74;82 87	blijf thuis
+A1	Confidence T1 Main
+T2	Caring 89 99	blijfthuis
+A2	Confidence T2 Main
+T3	Caring 116 132	samentegencorona
+A3	Confidence T3 Main
+T4	Caring 134 145	alleensamen
+A4	Confidence T4 Main
+T5	Caring 28 33;34 36;37 39;40 45;46 51	blijf in je eigen buurt
+A5	Confidence T5 Main
+T6	Caring 53 57;58 65	houd afstand
+A6	Confidence T6 Main

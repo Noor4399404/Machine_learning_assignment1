@@ -1,0 +1,6 @@
+T11	Joy 201 205;206 212;216 220	geen beroep doen
+A11	Confidence T11 Main
+T12	Anticipation 138 143;144 146;150 158;159 166	Mocht ik klachten krijgen
+A12	Confidence T12 High
+T1	Joy 253 268	zelfvoorziening
+A1	Confidence T1 High

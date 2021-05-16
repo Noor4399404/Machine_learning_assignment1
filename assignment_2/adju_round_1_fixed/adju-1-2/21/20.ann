@@ -1,0 +1,8 @@
+T12	Fear 137 143	schade
+A12	Confidence T12 Main
+T22	Fear 30 34;35 37;38 45	niet te stoppen
+A22	Confidence T22 Main
+T32	Fear 73 85	geïnfecteerd
+A32	Confidence T32 Main
+T1	Anticipation 165 169;188 194	niet bewust
+A1	Confidence T1 Low

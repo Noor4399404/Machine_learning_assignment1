@@ -1,0 +1,12 @@
+T12	Trust 87 103	samentegencorona
+A12	Confidence T12 Main
+T22	Trust 105 112	voorjou
+A22	Confidence T22 High
+T32	Caring 5 8	You
+A32	Confidence T32 Low
+T42	Caring 9 14	never
+A42	Confidence T42 Low
+T52	Caring 15 19	walk
+A52	Confidence T52 Low
+T72	Caring 20 25	alone
+A72	Confidence T72 Low

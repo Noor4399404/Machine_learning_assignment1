@@ -1,0 +1,4 @@
+T11	Disgust 136 142	stupid
+A11	Confidence T11 Main
+T21	Fear 50 58;59 65;66 69	infected people die
+A21	Confidence T21 High

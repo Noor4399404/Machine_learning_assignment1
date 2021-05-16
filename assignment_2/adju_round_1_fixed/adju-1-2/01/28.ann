@@ -1,0 +1,10 @@
+T11	Disgust 13 24	verwarring!
+A11	Confidence T11 Low
+T21	Disgust 236 243	blunder
+A21	Confidence T21 High
+T31	Disgust 251 264	Incompetentie
+A31	Confidence T31 Main
+T12	Anger 48 50;51 55	te laat
+A12	Confidence T12 High
+T22	Anger 80 82;83 89	te weinig
+A22	Confidence T22 High

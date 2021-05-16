@@ -1,0 +1,8 @@
+T1	Disgust 14 21	serieus
+A1	Confidence T1 Main
+T2	Anger 48 53;54 61	niets serieus
+A2	Confidence T2 High
+T3	Surprise 69 75	Waarom
+A3	Confidence T3 High
+T4	Caring 235 245	Beterschap
+A4	Confidence T4 High

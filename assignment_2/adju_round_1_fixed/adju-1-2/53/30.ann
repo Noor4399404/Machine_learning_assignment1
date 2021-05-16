@@ -1,0 +1,6 @@
+T11	Fear 42 50;51 60;61 67;68 71;72 83	bedreigt ongeruste ouders met maatregelen
+A11	Confidence T11 Low
+T21	Anger 100 104;93 96;97 99	MOET ZAL EN
+A21	Confidence T21 Main
+T32	Anger 119 126;127 129;139 146;147 149	Terwijl al bewezen is
+A32	Confidence T32 Main

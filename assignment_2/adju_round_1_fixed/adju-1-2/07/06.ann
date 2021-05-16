@@ -1,0 +1,6 @@
+T11	Trust 71 75;76 80	niet raar
+A11	Confidence T11 Low
+T12	Anger 15 23	of niet,
+A12	Confidence T12 Main
+T22	Anger 82 86;87 95	zo’n bierkeel
+A22	Confidence T22 Main

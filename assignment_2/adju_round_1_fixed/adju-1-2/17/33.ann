@@ -1,0 +1,6 @@
+T11	Disgust 41 45;46 55	word misselijk
+A11	Confidence T11 Main
+T31	Fear 211 214;215 220;224 230	wél angst hebben
+A31	Confidence T31 Low
+T32	Anticipation 123 127;128 131;132 135	Denk ook aan
+A32	Confidence T32 Low

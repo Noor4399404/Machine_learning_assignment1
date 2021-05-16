@@ -1,0 +1,8 @@
+T1	Anticipation 160 168	Opdoeken
+A1	Confidence T1 Main
+T2	Anticipation 0 10	Koppigheid
+A2	Confidence T2 Main
+T3	Anticipation 12 22	arrogantie
+A3	Confidence T3 Main
+T4	Anger 26 30	geld
+A4	Confidence T4 Main

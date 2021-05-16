@@ -1,0 +1,10 @@
+T41	Sadness 60 64	niet
+A41	Confidence T41 Main
+T51	Sadness 65 69	meer
+A51	Confidence T51 Main
+T61	Sadness 70 78	gebeuren
+A61	Confidence T61 Main
+T12	Sadness 22 25;26 32;33 37	nog steeds niet
+A12	Confidence T12 Main
+T22	Fear 80 85	vrees
+A22	Confidence T22 High

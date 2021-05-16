@@ -1,0 +1,10 @@
+T1	Anger 93 97	DRUK
+A1	Confidence T1 Main
+T2	Anger 106 109	nee
+A2	Confidence T2 Main
+T3	Disgust 110 117	zooitje
+A3	Confidence T3 High
+T4	Disgust 118 123;124 130	super smerig
+A4	Confidence T4 High
+T5	Disgust 132 137;138 144	dweil erdoor
+A5	Confidence T5 High

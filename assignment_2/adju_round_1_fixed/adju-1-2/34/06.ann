@@ -1,0 +1,5 @@
+T11	Disgust 112 116;84 87	over sla
+A11	Confidence T11 Main
+T22	Anger 54 62;63 67	correcte info
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	Sarcasm

@@ -1,0 +1,12 @@
+T11	Caring 42 46;54 59	geef steun
+A11	Confidence T11 Main
+T21	Anger 234 237	ffs
+A21	Confidence T21 High
+T31	Anger 102 105;128 133;134 138	nog waard zijn
+A31	Confidence T31 High
+T12	Anger 61 63	nu
+A12	Confidence T12 High
+T42	Sadness 238 239	💔
+A42	Confidence T42 High
+T1	Caring 212 216;217 221	geef zorg
+A1	Confidence T1 Main

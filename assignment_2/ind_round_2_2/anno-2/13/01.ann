@@ -1,0 +1,6 @@
+T1	Fear 173 179	gevaar
+A1	Confidence T1 Main
+T2	Fear 188 197	zelfmoord
+A2	Confidence T2 Main
+T3	Trust 216 221	actie
+A3	Confidence T3 High

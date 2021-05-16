@@ -1,0 +1,8 @@
+T11	Sadness 106 110;98 105	ziek ernstig
+A11	Confidence T11 Main
+T21	Anticipation 125 133;134 146	cruciale (eind)strijd
+A21	Confidence T21 High
+T12	Fear 234 248	waarschijnlijk
+A12	Confidence T12 Low
+T22	Fear 249 255	fataal
+A22	Confidence T22 Low

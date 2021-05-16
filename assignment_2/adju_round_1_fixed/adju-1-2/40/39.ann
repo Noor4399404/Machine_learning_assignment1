@@ -1,0 +1,8 @@
+T11	Fear 72 74	NU
+A11	Confidence T11 Main
+T21	Fear 97 99	NU
+A21	Confidence T21 Main
+T31	Fear 0 3	Nee
+A31	Confidence T31 High
+T41	Fear 119 123	!!!!
+A41	Confidence T41 Main

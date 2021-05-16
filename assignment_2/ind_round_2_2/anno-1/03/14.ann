@@ -1,0 +1,7 @@
+T1	Other 105 111;112 120	lekker scheuren
+A1	Confidence T1 Low
+#1	AnnotatorNotes T1	irony
+T2	Sadness 172 176;181 189	niet solidair
+A2	Confidence T2 Main
+T3	Fear 228 231;237 241;242 246	Hou hart vast
+A3	Confidence T3 High

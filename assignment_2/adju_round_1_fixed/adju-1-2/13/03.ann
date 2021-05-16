@@ -1,0 +1,8 @@
+T11	Disgust 186 193;206 212	sterven slappe
+A11	Confidence T11 Main
+T21	Trust 100 104;105 110	mega goede
+A21	Confidence T21 High
+T12	Fear 66 72;73 79	loodje legden
+A12	Confidence T12 High
+T32	Fear 239 243;254 265;266 275	Help Autistische president
+A32	Confidence T32 High

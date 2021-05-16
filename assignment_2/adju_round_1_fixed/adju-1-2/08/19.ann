@@ -1,0 +1,8 @@
+T21	Anger 246 249;262 266;267 270	KAN NIET AAN
+A21	Confidence T21 High
+T11	Joy 30 36	lekker
+A11	Confidence T11 High
+T31	Joy 0 9	Voordelen
+A31	Confidence T31 High
+T22	Sadness 169 176	Nadelen
+A22	Confidence T22 Low

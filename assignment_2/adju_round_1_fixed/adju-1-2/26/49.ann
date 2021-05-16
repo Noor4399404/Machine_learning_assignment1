@@ -1,0 +1,6 @@
+T11	Trust 44 53;54 60;87 95;99 105	kwetsbare mensen economie redden
+A11	Confidence T11 Main
+T21	Trust 113 123	blijfthuis
+A21	Confidence T21 Main
+T12	Anticipation 16 21	motto
+A12	Confidence T12 Low

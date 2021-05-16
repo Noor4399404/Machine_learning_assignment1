@@ -1,0 +1,12 @@
+T21	Trust 147 151;162 172	idee bestrijden
+A21	Confidence T21 Low
+T41	Trust 256 264	Hopelijk
+A41	Confidence T41 Low
+T12	Trust 177 181	weet
+A12	Confidence T12 High
+T22	Caring 85 91	helpen
+A22	Confidence T22 Main
+T32	Caring 194 200	helpen
+A32	Confidence T32 High
+T42	Anticipation 205 208	wil
+A42	Confidence T42 Low

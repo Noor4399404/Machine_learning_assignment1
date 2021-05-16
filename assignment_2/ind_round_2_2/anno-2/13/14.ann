@@ -1,0 +1,6 @@
+T1	Anger 265 269;270 274;275 281	Echt niet handig
+A1	Confidence T1 Main
+T2	Anger 245 249;250 256	Niet handig
+A2	Confidence T2 Main
+T3	Surprise 46 50;58 60;61 64;65 68	Gaan er van uit
+A3	Confidence T3 High

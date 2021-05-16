@@ -1,0 +1,4 @@
+T11	Trust 12 15;16 20;21 29;5 11	heb zijn voordeel nadeel
+A11	Confidence T11 Main
+T12	Anticipation 34 37	Als
+A12	Confidence T12 Low

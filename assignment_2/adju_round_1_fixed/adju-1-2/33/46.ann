@@ -1,0 +1,9 @@
+T1	Surprise 0 4;5 7;8 20	Niet zo besmettelijk
+A1	Confidence T1 High
+T2	Surprise 29 35	toeval
+T3	Other 44 50	‘paar’
+A2	Confidence T3 Main
+#1	AnnotatorNotes T3	sarcasm
+T4	Other 91 95;96 100	Vast maar
+A3	Confidence T4 Main
+#2	AnnotatorNotes T4	sarcasm

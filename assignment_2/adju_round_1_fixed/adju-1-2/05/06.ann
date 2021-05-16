@@ -1,0 +1,6 @@
+T11	Fear 121 134	verwoestender
+A11	Confidence T11 High
+T21	Disgust 147 149;150 154;155 161	Ik word zieker
+A21	Confidence T21 Main
+T22	Surprise 0 4;13 16;5 8;9 12	Ligt mij het aan
+A22	Confidence T22 High

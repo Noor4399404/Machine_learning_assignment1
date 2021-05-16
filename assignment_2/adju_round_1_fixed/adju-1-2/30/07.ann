@@ -1,0 +1,8 @@
+T12	Disgust 148 157	zo smerig
+A12	Confidence T12 Main
+T1	Disgust 99 108	geen zeep
+A1	Confidence T1 Main
+T2	Disgust 63 97	1/2 seconden handen onder de krant
+A2	Confidence T2 Main
+T3	Disgust 123 144	onder de droogmachine
+A3	Confidence T3 Main

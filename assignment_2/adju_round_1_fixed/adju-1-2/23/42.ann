@@ -1,0 +1,18 @@
+T11	Anger 179 180	😡
+A11	Confidence T11 Main
+T21	Anger 219 220	😡
+A21	Confidence T21 Main
+T31	Anger 251 252	😡
+A31	Confidence T31 Main
+T41	Anger 141 155	NOOIT vergeten
+A41	Confidence T41 High
+T1	Anger 28 45	zieke organisatie
+A1	Confidence T1 Main
+T2	Disgust 66 72	fouten
+A2	Confidence T2 High
+T3	Disgust 93 118	mensen levens op het spel
+A3	Confidence T3 High
+T4	Disgust 125 131	fouten
+A4	Confidence T4 High
+T5	Disgust 263 283	slaat ook nergens op
+A5	Confidence T5 High

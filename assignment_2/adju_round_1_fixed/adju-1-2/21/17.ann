@@ -1,0 +1,10 @@
+T11	Fear 182 190;191 197	zwartste kanten
+T21	Fear 117 129	confronteert
+A11	Confidence T21 Main
+A21	Confidence T11 Main
+T31	Fear 20 32	ondragelijke
+A31	Confidence T31 Main
+T41	Anticipation 75 85	blijfthuis
+A41	Confidence T41 Low
+T22	Fear 137 149	kwetsbaarste
+A22	Confidence T22 Main

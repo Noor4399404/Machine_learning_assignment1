@@ -1,0 +1,8 @@
+T11	Anger 104 124;125 127;128 133;93 98	verantwoordelijkheid te nemen dient
+A11	Confidence T11 Main
+T51	Anger 182 183	!
+A51	Confidence T51 High
+T61	Anger 20 23;24 26;27 31;32 38;39 43	zou op zijn plaats zijn
+A61	Confidence T61 Main
+T1	Sadness 1 9	Lockdown
+A1	Confidence T1 Low

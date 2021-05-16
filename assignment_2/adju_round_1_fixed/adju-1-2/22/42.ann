@@ -1,0 +1,10 @@
+T11	Disgust 51 61	verplichte
+A11	Confidence T11 High
+T12	Anger 34 37;38 42	tig keer
+A12	Confidence T12 Low
+T22	Anger 93 95;96 101	al weken
+A22	Confidence T22 High
+T32	Anger 139 141;142 147;148 152	al weken niet
+A32	Confidence T32 Main
+T42	Anger 201 209	aanhoren
+A42	Confidence T42 Low

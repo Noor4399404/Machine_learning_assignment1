@@ -1,0 +1,8 @@
+T11	Surprise 0 2;3 7;8 11	Oh mijn god
+A11	Confidence T11 High
+T12	Disgust 17 27;28 35	treuzelige omaatje
+A12	Confidence T12 Main
+T22	Fear 106 114	verloren
+A22	Confidence T22 Low
+T32	Disgust 122 127	Jinek
+A32	Confidence T32 Main

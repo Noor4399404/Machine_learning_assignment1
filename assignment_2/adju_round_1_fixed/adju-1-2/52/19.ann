@@ -1,0 +1,8 @@
+T11	Disgust 192 200	gepeupel
+A11	Confidence T11 Main
+T21	Fear 26 31	wapen
+A21	Confidence T21 High
+T22	Disgust 170 176	Clubje
+A22	Confidence T22 Main
+T32	Disgust 177 183	rijken
+A32	Confidence T32 Main

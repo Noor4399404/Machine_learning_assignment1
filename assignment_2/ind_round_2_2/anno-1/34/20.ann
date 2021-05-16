@@ -1,0 +1,8 @@
+T1	Disgust 87 93;94 100	volgen slaafs
+A1	Confidence T1 High
+T2	Fear 50 55;56 62;63 65;66 72;73 76	loopt achter de feiten aan
+A2	Confidence T2 High
+T3	Disgust 139 147	gewillig
+A3	Confidence T3 High
+T4	Anticipation 167 171;172 178	ramp leiden
+A4	Confidence T4 Main

@@ -1,0 +1,6 @@
+T11	Anticipation 77 81;94 99	fijn weten
+A11	Confidence T11 Main
+T12	Sadness 108 111;112 115;116 120	aan toe zijn
+A12	Confidence T12 High
+T22	Sadness 204 208;212 221	niet herleiden
+A22	Confidence T22 High

@@ -1,0 +1,8 @@
+T11	Trust 31 43;47 58;59 63	solidariteit wederzijdse hulp
+A11	Confidence T11 High
+T12	Caring 31 43	solidariteit
+A12	Confidence T12 Main
+T22	Caring 47 58;59 63	wederzijdse hulp
+A22	Confidence T22 Main
+T32	Trust 143 151	geweldig
+A32	Confidence T32 High

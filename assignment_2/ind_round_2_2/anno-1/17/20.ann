@@ -1,0 +1,9 @@
+T1	Anger 16 20;21 28;4 8	echt verraad vind
+A1	Confidence T1 Main
+T2	Anger 54 64;65 74;76 86;87 92;94 104	Doelbewust verbergen onmogelijk maken verbloemen
+A2	Confidence T2 High
+T3	Disgust 106 110;111 114;115 119	Wees een vent
+A3	Confidence T3 Low
+T4	Trust 136 141;142 146;151 154;155 158;159 162	weten heus hoe het zit
+A4	Confidence T4 High
+#1	AnnotatorNotes T4	distrust

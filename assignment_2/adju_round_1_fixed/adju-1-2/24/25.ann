@@ -1,0 +1,11 @@
+T11	Caring 16 20	Dank
+A11	Confidence T11 High
+T21	Other 39 42;43 49	wel jammer
+A21	Confidence T21 Main
+T31	Other 200 201	😉
+A31	Confidence T31 Main
+#11	AnnotatorNotes T31	Irony
+T1	Other 101 105;106 112;113 118	veel kunnen leren
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	irony
+#2	AnnotatorNotes T21	Irony

@@ -1,0 +1,10 @@
+T1	Disgust 17 23;32 38	lekker vieren
+A1	Confidence T1 Main
+T2	Disgust 115 122;142 145	stromen vol
+A2	Confidence T2 Main
+T3	Disgust 226 235	overvolle
+A3	Confidence T3 Main
+T4	Disgust 245 249;250 256	Niet handig
+A4	Confidence T4 Main
+T5	Disgust 270 274;275 281	niet handig
+A5	Confidence T5 Main

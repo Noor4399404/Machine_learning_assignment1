@@ -1,0 +1,8 @@
+T11	Surprise 0 6	Waarom
+A11	Confidence T11 Main
+T21	Joy 110 114;115 124	best hoopvolle
+A21	Confidence T21 High
+T31	Joy 204 209	beter
+A31	Confidence T31 Low
+T41	Joy 58 65	genezen
+A41	Confidence T41 Low

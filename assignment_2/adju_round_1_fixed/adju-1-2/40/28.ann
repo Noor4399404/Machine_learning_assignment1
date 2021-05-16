@@ -1,0 +1,8 @@
+T81	Anger 13 14;9 13	! laat
+A71	Confidence T81 Main
+T91	Anger 93 96	...
+A81	Confidence T91 High
+T12	Anger 22 25;26 28;29 30;31 35;44 50	kop in t zand steken
+A12	Confidence T12 Main
+T1	Anger 13 14;6 8;9 13	! Te laat
+A1	Confidence T1 High

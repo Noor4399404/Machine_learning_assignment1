@@ -1,0 +1,10 @@
+T11	Caring 189 197	meeleven
+A11	Confidence T11 Main
+T21	Caring 210 214;215 220	geen kwaad
+A21	Confidence T21 Low
+T12	Fear 46 52	vrezen
+A12	Confidence T12 High
+T22	Caring 108 117;118 124	kwetsbare mensen
+A22	Confidence T22 Low
+T32	Fear 161 166	angst
+A32	Confidence T32 High

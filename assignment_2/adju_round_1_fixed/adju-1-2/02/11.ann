@@ -1,0 +1,4 @@
+T12	Fear 38 52	besmettelijker
+A12	Confidence T12 High
+T22	Fear 81 84;85 87;88 96	net zo dodelijk
+A22	Confidence T22 Main

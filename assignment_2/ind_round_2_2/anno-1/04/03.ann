@@ -1,0 +1,4 @@
+T1	Disgust 101 103;76 80;93 100	ze Toen moesten
+A1	Confidence T1 Main
+T2	Disgust 0 2	Ze
+A2	Confidence T2 Main

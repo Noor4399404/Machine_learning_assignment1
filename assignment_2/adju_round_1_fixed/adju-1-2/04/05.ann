@@ -1,0 +1,6 @@
+T11	Sadness 19 25;26 35	mensen overleden
+A11	Confidence T11 Main
+T21	Sadness 41 53	besmettingen
+A21	Confidence T21 Main
+T31	Joy 81 87;88 95	mensen genezen
+A31	Confidence T31 High

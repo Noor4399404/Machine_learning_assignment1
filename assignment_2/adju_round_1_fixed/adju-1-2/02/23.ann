@@ -1,0 +1,6 @@
+T11	Anticipation 28 32;33 37;38 41;42 45	alle hens aan dek
+A11	Confidence T11 High
+T12	Trust 58 60;61 71	te bestrijden
+A12	Confidence T12 Main
+T22	Trust 171 181;182 189	bijzondere machten
+A22	Confidence T22 Low

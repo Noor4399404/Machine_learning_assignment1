@@ -1,0 +1,12 @@
+T11	Trust 15 19;20 24	fijn zijn
+A11	Confidence T11 Low
+T21	Trust 71 80	inderdaad
+A21	Confidence T21 Low
+T31	Joy 262 268	lekker
+A31	Confidence T31 High
+T12	Disgust 15 24	fijn zijn
+A12	Confidence T12 Main
+T22	Disgust 99 109	vervelende
+A22	Confidence T22 Main
+T32	Disgust 192 213	soortgelijke griezels
+A32	Confidence T32 Main

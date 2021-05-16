@@ -1,0 +1,8 @@
+T11	Anger 36 44;70 75	schuldig drama
+A11	Confidence T11 Main
+T12	Other 128 136	vertrouw
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	Distrust
+T32	Other 101 107;96 100	gewoon kunt
+A32	Confidence T32 Low
+#22	AnnotatorNotes T32	Irony

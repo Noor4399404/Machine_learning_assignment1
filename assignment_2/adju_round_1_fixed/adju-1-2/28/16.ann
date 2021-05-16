@@ -1,0 +1,4 @@
+T12	Trust 85 93;94 99	openheid geven
+A12	Confidence T12 Main
+T22	Fear 122 124;125 132;133 138	te wachten staat
+A1	Confidence T22 High

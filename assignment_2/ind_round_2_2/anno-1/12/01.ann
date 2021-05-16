@@ -1,0 +1,6 @@
+T1	Disgust 19 31	incompetente
+A1	Confidence T1 Main
+T2	Disgust 74 80;81 87	andere mening
+A2	Confidence T2 Main
+T3	Disgust 134 138;139 147;148 153;154 159	onze regering volgt trouw
+A3	Confidence T3 Low

@@ -1,0 +1,10 @@
+T12	Disgust 0 2;3 5	Ja ja
+A12	Confidence T12 Low
+T22	Disgust 30 33;34 39;40 42;43 46;47 50	Nou weten we het wel
+A22	Confidence T22 Main
+T32	Disgust 67 80	massahysterie
+A32	Confidence T32 High
+T42	Anger 52 55;56 58	Hou op
+A42	Confidence T42 High
+T52	Anger 10 14;15 23;24 28	gaan allemaal dood
+A52	Confidence T52 Low

@@ -1,0 +1,8 @@
+T11	Anger 19 23;24 43	nivo speeltuinvereniging
+A11	Confidence T11 Main
+T32	Surprise 68 75	niemand
+T42	Surprise 76 79	die
+A32	Confidence T42 High
+T52	Surprise 80 86	vraagt
+A42	Confidence T52 High
+A1	Confidence T32 High

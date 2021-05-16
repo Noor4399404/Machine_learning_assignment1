@@ -1,0 +1,8 @@
+T11	Anger 60 68	Nonsense
+A11	Confidence T11 Main
+T21	Anger 79 88	blundered
+A21	Confidence T21 High
+T31	Anger 194 203;204 207	Seriously ill
+A31	Confidence T31 Low
+T41	Trust 159 167;168 176	adequate approach
+A41	Confidence T41 High

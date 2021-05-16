@@ -1,0 +1,8 @@
+T11	Surprise 12 15	Huh
+A11	Confidence T11 Main
+T21	Surprise 43 52;62 67	hetzelfde virus
+A21	Confidence T21 Main
+T22	Surprise 119 121;122 128	NL anders
+A22	Confidence T22 Main
+T32	Sadness 201 205;210 214;215 222	kind niet gehaald
+A32	Confidence T32 High

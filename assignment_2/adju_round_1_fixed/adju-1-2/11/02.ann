@@ -1,0 +1,8 @@
+T11	Anger 213 217;225 235	Over gesproken.
+A11	Confidence T11 Main
+T21	Anger 116 119	pas
+A21	Confidence T21 Main
+T12	Disgust 218 224	framen
+A12	Confidence T12 Low
+T22	Anger 218 224	framen
+A22	Confidence T22 Main

@@ -1,0 +1,6 @@
+T1	Anger 49 55;56 62	Gewoon slecht
+A1	Confidence T1 High
+T2	Sadness 103 106;110 112;113 123;67 72;73 77;78 89;91 95;96 102	wat is opgedragen nemen geen maatregelen maar volgen
+A2	Confidence T2 Main
+T3	Sadness 125 129;130 135;136 145;146 150	Geen eigen reflectie meer
+A3	Confidence T3 Main

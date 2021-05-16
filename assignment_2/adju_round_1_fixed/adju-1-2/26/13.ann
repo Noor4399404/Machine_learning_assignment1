@@ -1,0 +1,10 @@
+T11	Anger 216 224;228 239	non-info verspreiden
+A11	Confidence T11 High
+T22	Anger 172 176;177 180;181 185	eens een keer
+A22	Confidence T22 High
+T32	Fear 101 104;105 108;131 135;136 143;144 150	één dag geen NL-ders besmet
+A32	Confidence T32 Main
+T42	Fear 24 37	incubatietijd
+A42	Confidence T42 Main
+T52	Fear 49 54;66 71	droeg virus
+A52	Confidence T52 Main

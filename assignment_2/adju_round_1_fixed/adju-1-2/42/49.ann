@@ -1,0 +1,9 @@
+T11	Other 143 148;149 155;156 159	echte expert idd
+A11	Confidence T11 High
+T21	Disgust 91 95;96 107	niet overdrijven
+A21	Confidence T21 Main
+T12	Fear 65 71;72 77	zorgen maken
+A12	Confidence T12 Low
+T1	Other 26 38	"Deskundig"?
+#1	AnnotatorNotes T1	Irony
+#2	AnnotatorNotes T11	Irony

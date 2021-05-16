@@ -1,0 +1,4 @@
+T11	Fear 90 96;97 105	paniek toeslaat
+A11	Confidence T11 High
+T21	Disgust 143 146;147 152;153 159	een reden vinden
+A21	Confidence T21 Main

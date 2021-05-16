@@ -1,0 +1,6 @@
+T12	Disgust 151 161;161 162;162 163;163 164	riooltweet . . .
+A12	Confidence T12 High
+T22	Disgust 83 91;92 95;96 102	iedereen nog lachte
+T32	Trust 20 23;24 27;28 30;31 38	één van de eersten
+A22	Confidence T32 High
+A32	Confidence T22 Main

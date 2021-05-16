@@ -1,0 +1,6 @@
+T11	Anger 38 42;43 46;47 52	geen zin heeft
+A11	Confidence T11 Main
+T12	Anger 76 87;88 97	structureel wanbeleid
+A12	Confidence T12 Main
+T22	Anger 56 65;66 71	politieke falen
+A1	Confidence T22 Main

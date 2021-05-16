@@ -1,0 +1,8 @@
+T12	Caring 28 58	Laat je niet in de put praten!
+A12	Confidence T12 Main
+T22	Disgust 140 148	zegt men
+A22	Confidence T22 High
+T32	Disgust 151 156	Want?
+A32	Confidence T32 High
+T42	Trust 230 268	Mensen zijn ongelooflijk veerkrachtig!
+A42	Confidence T42 High

@@ -1,0 +1,4 @@
+T11	Trust 250 261	respecteren
+A11	Confidence T11 Main
+T21	Trust 28 32;33 44	Volg maatregelen
+A21	Confidence T21 High

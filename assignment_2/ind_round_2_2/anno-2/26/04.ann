@@ -1,0 +1,6 @@
+T1	Anger 64 76	randdebielen
+A1	Confidence T1 Main
+T2	Anger 124 129;130 136;137 144;145 150	tyfus tering pleurus slaan
+T3	Anger 151 154	😡😡😡
+A2	Confidence T3 Main
+A3	Confidence T2 Main

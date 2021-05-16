@@ -1,0 +1,10 @@
+T11	Sadness 100 109	niet eens
+A11	Confidence T11 High
+T21	Anger 220 232	veel en veel
+A21	Confidence T21 Main
+T31	Anger 34 43	niet eens
+A31	Confidence T31 Main
+T1	Fear 233 238;239 242;243 249	hoger dan gemeld
+A1	Confidence T1 High
+T2	Fear 169 179;180 187;208 219	werkelijke cijfers Coronavirus
+A2	Confidence T2 High

@@ -1,0 +1,7 @@
+T1	Anger 95 106	Denkserieus
+A1	Confidence T1 Main
+T2	Anger 107 110;111 113;114 117	ben je mal
+A2	Confidence T2 Main
+T3	Other 24 27;28 33	Ach heden
+A3	Confidence T3 High
+#1	AnnotatorNotes T3	irony

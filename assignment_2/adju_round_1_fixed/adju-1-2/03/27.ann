@@ -1,0 +1,7 @@
+T11	Anger 0 2;23 30;7 14	Al wachten 7:00uur
+A11	Confidence T11 Main
+T21	Joy 108 115;119 126;49 57	NIEMAND wachten voordeel
+A21	Confidence T21 Low
+T12	Other 134 145	houdafstand
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	distrust

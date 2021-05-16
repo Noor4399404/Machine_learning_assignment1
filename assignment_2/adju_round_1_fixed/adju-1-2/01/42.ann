@@ -1,0 +1,6 @@
+T12	Fear 82 86;87 94	niet kloppen
+A12	Confidence T12 High
+T22	Trust 130 139	optimisme
+A22	Confidence T22 Low
+T32	Disgust 225 233	laksheid
+A32	Confidence T32 Main

@@ -1,0 +1,4 @@
+T21	Fear 225 233	dreiging
+A21	Confidence T21 Main
+T12	Fear 240 242;243 251;252 254;255 267	De regering is gevaarlijker
+A12	Confidence T12 Main

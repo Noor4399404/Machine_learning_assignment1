@@ -1,0 +1,6 @@
+T1	Sadness 23 32;47 58	cognitief gelimiteerd
+A1	Confidence T1 Main
+T2	Sadness 143 149;150 152;153 156;173 179	hebben we het lastig
+A2	Confidence T2 Main
+T3	Sadness 189 191;192 198;199 209	te weinig capaciteit
+A3	Confidence T3 Main

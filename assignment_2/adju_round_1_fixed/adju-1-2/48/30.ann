@@ -1,0 +1,4 @@
+T21	Anger 111 115;125 127;131 135;136 141;99 106	MEER IN HAND HEEFT NIEMAND
+A21	Confidence T21 Main
+T12	Disgust 0 6;17 19;28 35;36 40	Zullen ff eerlijk zijn
+A12	Confidence T12 High

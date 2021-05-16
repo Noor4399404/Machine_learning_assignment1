@@ -1,0 +1,7 @@
+T1	Surprise 0 12;22 27	Hahahhahaaha onzin
+A1	Confidence T1 High
+T2	Anger 135 138;143 151;152 156	kan helemaal niet
+A2	Confidence T2 High
+T3	Other 195 198;202 206;207 214	ons doen geloven
+A3	Confidence T3 Main
+#1	AnnotatorNotes T3	distrust

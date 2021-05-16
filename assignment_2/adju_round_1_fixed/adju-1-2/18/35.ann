@@ -1,0 +1,8 @@
+T11	Anger 100 109	wanbeleid
+A11	Confidence T11 Main
+T21	Disgust 90 92;93 97	te laat
+A21	Confidence T21 High
+T22	Anger 93 97	laat
+A22	Confidence T22 High
+T1	Anger 90 92	te
+A1	Confidence T1 High

@@ -1,0 +1,5 @@
+T11	Anticipation 0 3;13 16;4 8;63 67;67 68;9 12	Hoe het hoog zijn ? zal
+A11	Confidence T11 Main
+T12	Other 72 79;80 86;87 90;91 98	winnaar krijgt een knuffel
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	irony

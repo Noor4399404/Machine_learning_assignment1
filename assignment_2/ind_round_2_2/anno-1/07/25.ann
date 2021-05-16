@@ -1,0 +1,9 @@
+T1	Trust 50 53	Dus
+T2	Trust 62 66;67 71	vast niet
+A1	Confidence T2 High
+T3	Joy 0 8	Gelukkig
+A2	Confidence T3 High
+T4	Fear 98 102	Toch
+A3	Confidence T4 Low
+T5	Sadness 232 238	Helaas
+A4	Confidence T5 Main

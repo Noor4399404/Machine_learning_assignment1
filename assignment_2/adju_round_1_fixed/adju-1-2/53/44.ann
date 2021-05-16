@@ -1,0 +1,10 @@
+T11	Surprise 122 125;130 133;134 140	kan dit gewoon
+A11	Confidence T11 Main
+T12	Surprise 19 22;23 26	dus als
+A12	Confidence T12 Main
+T22	Surprise 100 103;97 99	als en
+A22	Confidence T22 Main
+T32	Surprise 195 197;198 201	zo maf
+A32	Confidence T32 Main
+T42	Surprise 163 168	alsof
+A42	Confidence T42 Main

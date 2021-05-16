@@ -1,0 +1,6 @@
+T1	Anger 50 53;54 57;58 61;62 64;65 69	Hoe dom kun je zijn
+A1	Confidence T1 Main
+T2	Anger 77 83;84 88;89 91	donder toch op
+A2	Confidence T2 High
+T3	Surprise 19 28;29 33;47 49	verschilt niet ?!
+A3	Confidence T3 High

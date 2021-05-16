@@ -1,0 +1,8 @@
+T11	Anger 0 2	Ah
+A11	Confidence T11 High
+T21	Anger 38 41;42 46;47 51	nog niet eens
+A21	Confidence T21 High
+T12	Disgust 78 84;85 95	totale paardenlul
+A12	Confidence T12 Main
+T22	Disgust 119 124	onzin
+A22	Confidence T22 High

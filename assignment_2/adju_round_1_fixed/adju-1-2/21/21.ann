@@ -1,0 +1,10 @@
+T11	Surprise 17 30	verbijsterend
+A11	Confidence T11 High
+T21	Fear 38 44;45 49;50 60	totaal niet voorbereid
+A21	Confidence T21 High
+T31	Anger 103 107;111 119	raar 'sussen'
+A31	Confidence T31 Main
+T41	Anger 125 134	verkeerde
+A41	Confidence T41 Main
+T51	Anger 215 219	ofzo
+A51	Confidence T51 Main

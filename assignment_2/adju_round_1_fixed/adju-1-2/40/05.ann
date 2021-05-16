@@ -1,0 +1,8 @@
+T11	Anger 39 46;56 60;61 65;66 77	laatste mond moet opentrekken
+A11	Confidence T11 Main
+T71	Anger 131 136;137 144	niets aantrok
+A71	Confidence T71 Main
+T12	Sadness 86 93	gefaald
+A12	Confidence T12 High
+T22	Anger 117 122	liegt
+A22	Confidence T22 High

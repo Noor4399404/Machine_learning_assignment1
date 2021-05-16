@@ -1,0 +1,6 @@
+T12	Anger 101 106;107 115	onzin verkopen
+A12	Confidence T12 Main
+T22	Disgust 0 9;10 26	Pijnlijke Twitter-tijdlijn
+A22	Confidence T22 Low
+T32	Anger 58 62;63 67;68 74	geen idee hebben
+A32	Confidence T32 High

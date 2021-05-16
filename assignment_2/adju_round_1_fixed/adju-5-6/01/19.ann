@@ -1,0 +1,6 @@
+T11	Surprise 14 21	complex
+A11	Confidence T11 Main
+T21	Fear 100 103;104 107	run out
+A21	Confidence T21 High
+T31	Joy 173 177	safe
+A31	Confidence T31 High

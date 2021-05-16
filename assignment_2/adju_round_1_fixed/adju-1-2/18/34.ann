@@ -1,0 +1,8 @@
+T11	Surprise 4 12	twijfels
+A11	Confidence T11 High
+T21	Anticipation 70 75;79 86	Teken petitie
+A21	Confidence T21 Main
+T12	Anger 4 12	twijfels
+A12	Confidence T12 Low
+T22	Other 144 151	serieus
+A22	Confidence T22 Low

@@ -1,0 +1,10 @@
+T21	Fear 52 57;81 83;84 90	breng in gevaar
+A21	Confidence T21 Low
+T12	Joy 27 32;37 45	zeker genieten
+A12	Confidence T12 High
+T22	Caring 76 80;84 90	niet gevaar
+A22	Confidence T22 Main
+T32	Caring 95 106	HoudAfstand
+A32	Confidence T32 Main
+T42	Caring 108 124	SocialDistancing
+A42	Confidence T42 Main

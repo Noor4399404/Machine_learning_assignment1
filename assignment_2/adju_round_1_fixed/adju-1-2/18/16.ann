@@ -1,0 +1,6 @@
+T11	Trust 19 30;31 33;34 45	duidelijker en duidelijker
+A11	Confidence T11 Main
+T22	Trust 50 55;83 85;86 95	groei is langzamer
+A22	Confidence T22 High
+T2	Anticipation 113 116;117 121	nog niet
+A2	Confidence T2 High

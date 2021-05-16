@@ -1,0 +1,6 @@
+T11	Disgust 10 17;19 23	typisch rivm
+A11	Confidence T11 Main
+T12	Disgust 46 50;51 53;54 58	niet zo wijs
+A12	Confidence T12 Main
+T22	Disgust 151 154;163 169	Zeg genoeg
+A22	Confidence T22 Main

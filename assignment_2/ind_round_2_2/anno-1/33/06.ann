@@ -1,0 +1,7 @@
+T1	Anger 17 23	gezeur
+#1	AnnotatorNotes T1	frustration
+T2	Disgust 102 106;107 112	geen visie
+A1	Confidence T2 High
+T3	Anger 169 176;177 181	regeert niet
+A2	Confidence T3 Main
+A3	Confidence T1 Main

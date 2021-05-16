@@ -1,0 +1,16 @@
+T11	Anger 52 61	idioterie
+A11	Confidence T11 Main
+T21	Anger 64 73;85 91	Vloekende mensen
+A21	Confidence T21 Main
+T41	Anger 116 129	paniekzaaiers
+A41	Confidence T41 Main
+T51	Trust 148 158	Kompliment
+A51	Confidence T51 High
+T12	Disgust 52 61	idioterie
+A12	Confidence T12 High
+T22	Disgust 94 104	beschamend
+A22	Confidence T22 High
+T32	Disgust 116 129	paniekzaaiers
+A32	Confidence T32 High
+T52	Trust 176 182	keurig
+A52	Confidence T52 High

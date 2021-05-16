@@ -1,0 +1,4 @@
+T12	Fear 121 127	Oorlog
+A12	Confidence T12 Main
+T22	Fear 170 181;182 188	economische schade
+A22	Confidence T22 Main

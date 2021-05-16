@@ -1,0 +1,9 @@
+T11	Caring 0 15	#ZorgVoorElkaar
+A11	Confidence T11 Main
+T21	Caring 101 107;108 112;96 100	elkaar zijn voor
+A21	Confidence T21 Main
+T31	Caring 212 218	redden
+A31	Confidence T31 Main
+T1	Trust 212 218	redden
+A1	Confidence T1 High
+#1	AnnotatorNotes T1	hopefulness

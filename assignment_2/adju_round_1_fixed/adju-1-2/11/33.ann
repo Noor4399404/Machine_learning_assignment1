@@ -1,0 +1,6 @@
+T11	Trust 40 43;44 48;49 59	nog even doorbijten
+A11	Confidence T11 Main
+T21	Joy 10 16;17 19;20 26	effect te hebben
+A21	Confidence T21 Low
+T12	Trust 4 9	lijkt
+A12	Confidence T12 Low

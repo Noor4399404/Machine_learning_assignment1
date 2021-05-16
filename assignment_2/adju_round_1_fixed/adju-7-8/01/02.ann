@@ -1,0 +1,6 @@
+T21	Fear 136 140;141 152	life threatening
+A21	Confidence T21 High
+T31	Sadness 153 157	:-((
+A31	Confidence T31 High
+T12	Disgust 114 121	Failure
+A12	Confidence T12 Main

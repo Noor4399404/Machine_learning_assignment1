@@ -1,0 +1,6 @@
+T21	Disgust 34 40;8 12	jargon hoop
+A21	Confidence T21 High
+T12	Sadness 236 245	doodzonde
+A12	Confidence T12 Main
+T1	Surprise 0 3;4 7	Wat een
+A1	Confidence T1 High

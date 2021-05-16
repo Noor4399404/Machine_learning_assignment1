@@ -1,0 +1,8 @@
+T1	Fear 23 27	hard
+A1	Confidence T1 Main
+T2	Trust 11 17	Honest
+A2	Confidence T2 High
+T3	Fear 100 108;82 88;89 99	infected 30-70% population
+A3	Confidence T3 Main
+T4	Fear 110 119;120 126;127 131	mortality around 2.5%
+A4	Confidence T4 Main

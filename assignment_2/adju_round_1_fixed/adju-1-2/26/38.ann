@@ -1,0 +1,11 @@
+T11	Trust 20 25;26 32	goede nieuws
+A11	Confidence T11 Main
+T21	Trust 108 110;111 113;114 121	af te vlakken
+A21	Confidence T21 Main
+T31	Sadness 134 137;138 141;147 152	wel wat nodig
+T41	Trust 222 232	blijfthuis
+A31	Confidence T41 Main
+T51	Trust 234 245	blijfgezond
+A41	Confidence T51 Main
+T22	Anticipation 157 161;162 166	Waar zijn
+A22	Confidence T22 High

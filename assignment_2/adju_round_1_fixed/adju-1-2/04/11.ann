@@ -1,0 +1,6 @@
+T12	Disgust 82 84;85 88;89 91	Is dit nu
+A12	Confidence T12 Main
+T22	Disgust 121 125	brrr
+A22	Confidence T22 Main
+T32	Trust 0 8;9 13	Helemaal eens
+A32	Confidence T32 High

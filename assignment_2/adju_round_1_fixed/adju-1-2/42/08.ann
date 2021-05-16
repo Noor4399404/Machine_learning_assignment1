@@ -1,0 +1,6 @@
+T21	Disgust 89 95	idioot
+A21	Confidence T21 Main
+T12	Trust 62 68	juiste
+T32	Disgust 124 132	dubieuze
+A22	Confidence T32 Main
+A1	Confidence T12 High

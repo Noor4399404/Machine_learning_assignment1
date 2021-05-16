@@ -1,0 +1,10 @@
+T21	Fear 97 109	besmettingen
+A21	Confidence T21 Main
+T31	Caring 158 166	genieten
+A31	Confidence T31 High
+T12	Fear 7 11	enge
+A12	Confidence T12 Main
+T1	Fear 111 128	ziekenhuisopnames
+A1	Confidence T1 Main
+T2	Fear 133 146	sterfgevallen
+A2	Confidence T2 Main

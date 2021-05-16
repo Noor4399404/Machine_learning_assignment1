@@ -1,0 +1,4 @@
+T11	Fear 66 70;78 86;95 103	lont kruitvat pandemie
+A11	Confidence T11 Main
+T12	Fear 15 23;3 14	uitbraak wereldwijde
+A12	Confidence T12 Low

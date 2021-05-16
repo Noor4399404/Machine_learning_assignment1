@@ -1,0 +1,11 @@
+T21	Other 153 160	vrolijk
+A21	Confidence T21 High
+#11	AnnotatorNotes T21	irony
+T31	Anger 173 175;176 179;180 182;183 189;190 193;220 225	Ik heb de indruk dat denkt
+A31	Confidence T31 Main
+T12	Surprise 0 5	Hoezo
+A12	Confidence T12 High
+T22	Surprise 31 35	toch
+A22	Confidence T22 High
+T32	Anticipation 183 189	indruk
+A32	Confidence T32 High

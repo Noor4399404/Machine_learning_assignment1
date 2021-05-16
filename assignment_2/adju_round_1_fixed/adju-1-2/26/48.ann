@@ -1,0 +1,8 @@
+T31	Anger 28 33;34 42;51 61	hulle geensins regulasies
+A31	Confidence T31 Main
+T12	Anger 111 121	selfsugtig
+A12	Confidence T12 Main
+T22	Anger 216 226	selfsugtig
+A22	Confidence T22 Main
+T1	Sadness 186 192;196 204	lewens ingevaar
+A1	Confidence T1 High

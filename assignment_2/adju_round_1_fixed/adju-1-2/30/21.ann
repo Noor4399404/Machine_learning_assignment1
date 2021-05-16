@@ -1,0 +1,10 @@
+T12	Anger 0 13	Krijgen we nu
+A12	Confidence T12 Main
+T22	Anger 121 128	Alle(!)
+A22	Confidence T22 Main
+T32	Anger 152 173	Iedereen is gedupeerd
+A32	Confidence T32 Main
+T42	Fear 175 200	We zijn allemaal de sjaak
+A42	Confidence T42 High
+T52	Caring 259 267	takecare
+A52	Confidence T52 High

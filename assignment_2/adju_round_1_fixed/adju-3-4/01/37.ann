@@ -1,0 +1,8 @@
+T31	Trust 9 13	hope
+A31	Confidence T31 High
+T12	Fear 78 86;90 102	disaster incalculable
+A12	Confidence T12 Main
+T1	Anger 78 86	disaster
+A1	Confidence T1 High
+T2	Disgust 78 86	disaster
+A2	Confidence T2 High

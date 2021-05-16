@@ -1,0 +1,9 @@
+T11	Disgust 188 191;192 199	HOE STUPIDE
+A11	Confidence T11 Main
+T21	Other 19 30;6 18	informatie" "betrouwbare
+A21	Confidence T21 High
+#11	AnnotatorNotes T21	Sarcasm
+T12	Anger 188 191	HOE
+A12	Confidence T12 High
+T22	Anger 192 199	STUPIDE
+A22	Confidence T22 High

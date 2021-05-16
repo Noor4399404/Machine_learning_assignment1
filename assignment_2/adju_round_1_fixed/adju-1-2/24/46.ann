@@ -1,0 +1,6 @@
+T11	Caring 0 5;6 11	Blijf thuis
+A11	Confidence T11 Main
+T21	Caring 71 73;78 84	ga alleen
+A21	Confidence T21 Main
+T31	Caring 118 130	Ikblijfthuis
+A31	Confidence T31 Main

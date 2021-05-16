@@ -1,0 +1,16 @@
+T1	Fear 73 78	NIETS
+A1	Confidence T1 Main
+T2	Fear 97 106	misschien
+A2	Confidence T2 Main
+T3	Fear 111 119	tweemaal
+A3	Confidence T3 Main
+T4	Fear 123 127	hoog
+A4	Confidence T4 Main
+T5	Fear 120 122	zo
+A5	Confidence T5 Main
+T6	Fear 221 225	niet
+A6	Confidence T6 Main
+T7	Fear 226 232	getest
+A7	Confidence T7 Main
+T8	Fear 233 243	overlijden
+A8	Confidence T8 Main

@@ -1,0 +1,4 @@
+T21	Anticipation 153 157;162 166;167 171	find real news
+A21	Confidence T21 High
+T12	Disgust 0 5;6 8;9 13	Would be nice
+A12	Confidence T12 Main

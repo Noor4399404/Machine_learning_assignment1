@@ -1,0 +1,6 @@
+T11	Disgust 76 83;84 93	totally incorrect
+A11	Confidence T11 Main
+T31	Fear 140 147	extreme
+A31	Confidence T31 Low
+T12	Sadness 111 117;118 121;122 130;95 97	reason for optimism no
+A12	Confidence T12 High

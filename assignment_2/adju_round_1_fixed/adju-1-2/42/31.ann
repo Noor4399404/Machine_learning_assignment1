@@ -1,0 +1,8 @@
+T11	Disgust 19 23;24 26;27 31	véél te veel
+A11	Confidence T11 Main
+T21	Disgust 100 102;103 107;95 99	te veel veel
+A21	Confidence T21 Main
+T12	Sadness 19 23;24 26;27 31	véél te veel
+A12	Confidence T12 High
+T22	Sadness 100 102;103 107;95 99	te veel veel
+A22	Confidence T22 High

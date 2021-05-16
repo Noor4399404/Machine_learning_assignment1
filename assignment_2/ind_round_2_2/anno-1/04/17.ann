@@ -1,0 +1,8 @@
+T1	Anger 12 19	NIEMAND
+A1	Confidence T1 Main
+T2	Anger 29 36	NIEMAND
+A2	Confidence T2 Main
+T3	Anger 171 176;186 190	wordt tijd
+A3	Confidence T3 Main
+T4	Anger 216 224;225 233	nalatige optreden
+A4	Confidence T4 Main

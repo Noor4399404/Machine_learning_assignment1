@@ -1,0 +1,10 @@
+T31	Anger 118 121;122 127	ten koste
+A31	Confidence T31 High
+T41	Anger 141 145	Stop
+A41	Confidence T41 High
+T12	Anger 32 35	KUT
+A12	Confidence T12 Main
+T22	Anger 45 50	onzin
+A22	Confidence T22 High
+T32	Anger 163 172	flauwekul
+A32	Confidence T32 High

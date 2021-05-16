@@ -1,0 +1,8 @@
+T11	Trust 213 217;230 234	doen goed
+A11	Confidence T11 Main
+T21	Trust 200 204;205 208	voor ons
+A21	Confidence T21 Main
+T22	Caring 166 171;172 177	grote bonus
+A22	Confidence T22 High
+T32	Trust 122 127;128 135	harde werkers
+A32	Confidence T32 Main

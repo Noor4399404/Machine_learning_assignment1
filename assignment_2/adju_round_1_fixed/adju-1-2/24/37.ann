@@ -1,0 +1,9 @@
+T11	Disgust 154 166;176 180;181 185	interesseert geen moer
+A11	Confidence T11 High
+T21	Other 209 210	😂
+A21	Confidence T21 Main
+#11	AnnotatorNotes T21	Irony
+T1	Disgust 101 105;97 100	niet wil
+A1	Confidence T1 High
+T2	Trust 58 61	wil
+A2	Confidence T2 High

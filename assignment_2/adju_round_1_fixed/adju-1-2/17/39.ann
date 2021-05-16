@@ -1,0 +1,6 @@
+T11	Other 246 253	Juustum
+#11	AnnotatorNotes T11	sarcasm
+A21	Confidence T11 Main
+T22	Other 17 27;27 28;8 9;9 16	informatie ' ' actuele
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	sarcasm

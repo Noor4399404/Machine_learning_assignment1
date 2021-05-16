@@ -1,0 +1,6 @@
+T11	Anger 120 126;143 151;152 156;157 165	steeds kostbare tijd verloren
+A11	Confidence T11 Main
+T21	Fear 175 179;180 184;185 189	geen keus meer
+A21	Confidence T21 Low
+T31	Anger 194 198	MOET
+A31	Confidence T31 Low

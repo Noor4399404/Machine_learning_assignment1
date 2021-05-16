@@ -1,0 +1,6 @@
+T11	Fear 101 105;106 110	géén hoop
+A11	Confidence T11 Main
+T21	Sadness 125 129;130 134;135 139	glas half leeg
+A21	Confidence T21 High
+T31	Surprise 22 28	waarom
+A31	Confidence T31 High

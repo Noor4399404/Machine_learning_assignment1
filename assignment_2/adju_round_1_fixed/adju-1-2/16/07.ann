@@ -1,0 +1,8 @@
+T11	Sadness 205 214	moedeloos
+A11	Confidence T11 Main
+T21	Surprise 14 21;26 30	begrijp niet
+A21	Confidence T21 High
+T31	Anger 39 47;66 70	begrijpt niet
+A31	Confidence T31 High
+T32	Sadness 264 269;274 278	wordt niks
+A32	Confidence T32 Main

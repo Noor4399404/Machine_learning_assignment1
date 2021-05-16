@@ -1,0 +1,6 @@
+T1	Anger 0 3;11 15;16 23;4 6;7 10	Wat voor nonsens is dit
+A1	Confidence T1 Main
+T2	Anger 79 88	prominent
+A2	Confidence T2 Low
+T3	Anger 161 163;164 168;169 173;174 180	Je moet maar durven
+A3	Confidence T3 Main

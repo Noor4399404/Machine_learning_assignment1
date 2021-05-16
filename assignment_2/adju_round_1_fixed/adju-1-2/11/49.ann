@@ -1,0 +1,4 @@
+T11	Fear 140 146;147 151	gevaar loop
+A11	Confidence T11 Low
+T21	Surprise 14 19;20 22;23 25	vroeg me af
+A21	Confidence T21 Main

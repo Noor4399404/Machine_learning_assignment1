@@ -1,0 +1,10 @@
+T11	Anger 253 260	dreigen
+A11	Confidence T11 Main
+T12	Trust 18 22	snap
+A12	Confidence T12 High
+T32	Anger 149 154;155 163	alles toelaten
+A32	Confidence T32 High
+T42	Anger 165 169;170 175	open laten
+A42	Confidence T42 High
+T52	Anger 179 183;184 191	geen gevaren
+A52	Confidence T52 High

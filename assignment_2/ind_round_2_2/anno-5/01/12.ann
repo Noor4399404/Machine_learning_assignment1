@@ -1,0 +1,6 @@
+T1	Anger 34 39;40 46	can't handle
+A1	Confidence T1 Main
+T2	Anger 74 77;78 82;83 89;90 92;93 95	How hard should it be
+A2	Confidence T2 Main
+T3	Anger 130 133;134 139;140 144	for god's sake
+A3	Confidence T3 Main

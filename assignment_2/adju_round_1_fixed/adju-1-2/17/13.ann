@@ -1,0 +1,6 @@
+T21	Anger 78 84;85 89;90 96;97 103	boeren geen schuld hebben
+A21	Confidence T21 Main
+T22	Joy 144 148;149 156;156 157	stuk schoner !
+A22	Confidence T22 Low
+T32	Trust 187 205	zonderboergeenvoer
+A32	Confidence T32 High

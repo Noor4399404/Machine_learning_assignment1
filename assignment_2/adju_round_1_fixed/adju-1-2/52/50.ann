@@ -1,0 +1,10 @@
+T11	Fear 90 96	PANIEK
+A11	Confidence T11 Main
+T21	Fear 121 125;142 147	word erger
+A21	Confidence T21 Main
+T31	Fear 56 64;65 71	vrijheid kosten
+A31	Confidence T31 Main
+T41	Joy 29 33;37 40	niet erg
+A41	Confidence T41 High
+T51	Fear 186 190;191 199	geen vrijheid
+A51	Confidence T51 Main

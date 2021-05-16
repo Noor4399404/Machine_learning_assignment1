@@ -1,0 +1,8 @@
+T1	Anger 0 10;12 22;26 30	Koppigheid arrogantie geld
+A1	Confidence T1 Main
+T2	Anger 106 115;116 126	politieke rugdekking
+A2	Confidence T2 Main
+T3	Anger 160 168	Opdoeken
+A3	Confidence T3 Main
+T4	Anger 183 192	vervolgen
+A4	Confidence T4 Main

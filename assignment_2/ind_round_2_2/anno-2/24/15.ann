@@ -1,0 +1,8 @@
+T1	Anger 135 141;142 146;147 151	alleen maar bang
+A1	Confidence T1 Main
+T2	Anger 196 198;199 206	is normaal
+A2	Confidence T2 Main
+T3	Anger 218 223;242 248;249 252	hoort gewoon bij
+A3	Confidence T3 Main
+T4	Anger 0 11	Overdrijven
+A4	Confidence T4 Main

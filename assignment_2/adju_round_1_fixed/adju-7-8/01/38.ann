@@ -1,0 +1,4 @@
+T11	Fear 142 145;146 150;151 155	far from safe
+A11	Confidence T11 Main
+T22	Fear 29 35	Please
+A22	Confidence T22 High

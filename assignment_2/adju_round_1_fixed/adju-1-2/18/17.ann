@@ -1,0 +1,7 @@
+T11	Other 0 6	Joepie
+A11	Confidence T11 High
+T21	Anger 87 94	WAKE-UP
+A21	Confidence T21 Main
+#11	AnnotatorNotes T11	Sarcasm
+T32	Anticipation 53 61;62 67	Volgende maand
+A32	Confidence T32 High

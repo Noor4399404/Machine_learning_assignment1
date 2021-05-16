@@ -1,0 +1,11 @@
+T1	Caring 21 28	gezorgd
+A1	Confidence T1 Main
+T2	Caring 42 48	zorgen
+A2	Confidence T2 Main
+T3	Joy 133 139	nieuwe
+A3	Confidence T3 High
+T4	Joy 140 146	lading
+A4	Confidence T4 High
+T5	Caring 155 161	liefde
+A5	Confidence T5 Main
+T6	Fear 165 170	angst

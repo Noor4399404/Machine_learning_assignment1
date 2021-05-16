@@ -1,0 +1,12 @@
+T11	Disgust 18 21;22 26;27 31;32 38;39 46	met lede ogen moeten aanzien
+A11	Confidence T11 Main
+T21	Sadness 61 63;64 68	te laat
+A21	Confidence T21 High
+T31	Anger 146 148	al
+A31	Confidence T31 Low
+T41	Surprise 179 185;195 199	waarom niet
+A41	Confidence T41 Low
+T22	Disgust 64 68	laat
+A22	Confidence T22 Main
+T12	Surprise 206 213	hoeveel
+A12	Confidence T12 Low

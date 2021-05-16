@@ -1,0 +1,9 @@
+T11	Disgust 71 79	kliklijn
+A11	Confidence T11 High
+T21	Disgust 172 180	verraden
+A21	Confidence T21 High
+T12	Anger 35 38;39 43;44 47;48 54	nog niet erg genoeg
+A12	Confidence T12 Main
+T22	Other 124 136;172 180;217 225;263 270;71 79	collaboratie verraden Idijoden Warnung kliklijn
+A22	Confidence T22 High
+#12	AnnotatorNotes T22	Irony

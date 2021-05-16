@@ -1,0 +1,6 @@
+T1	Disgust 12 18	lastig
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	dislike
+T2	Disgust 99 107	#dilemma
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	dislike

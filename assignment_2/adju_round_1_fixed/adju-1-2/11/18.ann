@@ -1,0 +1,6 @@
+T11	Sadness 38 42;43 48	niet raken
+A11	Confidence T11 Low
+T21	Sadness 140 144;145 154	Maar blijkbaar
+A21	Confidence T21 High
+T12	Disgust 174 184	collateral
+A12	Confidence T12 Main

@@ -1,0 +1,12 @@
+T11	Anger 15 23;24 29;30 33	helemaal klaar mee
+A11	Confidence T11 Main
+T41	Anger 91 96;97 101	deugt niet
+A41	Confidence T41 Main
+T12	Anger 65 67;68 74	op rotten
+A12	Confidence T12 Main
+T32	Anger 115 122	domheid
+A32	Confidence T32 Main
+T42	Disgust 198 209;223 227	betrouwbaar Niet
+A42	Confidence T42 High
+T52	Anger 75 78;79 84	weg wezen
+A52	Confidence T52 Main

@@ -1,0 +1,8 @@
+T1	Anticipation 237 244;252 256	bereidt voor
+A1	Confidence T1 High
+T2	Sadness 69 79;88 90	capaciteit op
+A2	Confidence T2 Main
+T3	Sadness 132 136;137 145	niet haalbaar
+A3	Confidence T3 Main
+T4	Sadness 212 225	overbelasting
+A4	Confidence T4 Main

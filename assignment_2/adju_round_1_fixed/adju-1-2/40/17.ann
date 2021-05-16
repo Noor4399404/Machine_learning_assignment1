@@ -1,0 +1,16 @@
+T21	Joy 75 79	goed
+A21	Confidence T21 Main
+T31	Joy 28 37	duidelijk
+A31	Confidence T31 Main
+T61	Joy 209 219	blijfthuis
+A61	Confidence T61 Low
+T71	Joy 222 233	blijfgezond
+A71	Confidence T71 Low
+T81	Joy 236 242	houvol
+A81	Confidence T81 Low
+T12	Trust 48 52	dank
+A12	Confidence T12 High
+T32	Trust 187 196	duidelijk
+A32	Confidence T32 Low
+T42	Trust 200 206	netjes
+A42	Confidence T42 Low

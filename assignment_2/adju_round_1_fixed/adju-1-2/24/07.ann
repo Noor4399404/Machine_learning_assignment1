@@ -1,0 +1,10 @@
+T11	Trust 55 59;66 76	Druk vermindert
+A11	Confidence T11 High
+T21	Fear 78 90	Waarschuwing
+A21	Confidence T21 Main
+T31	Fear 125 133;134 138;139 146	absoluut niet voorbij
+A31	Confidence T31 Main
+T51	Sadness 48 53	doden
+A51	Confidence T51 Low
+T1	Caring 103 108;109 116	thuis blijven
+A1	Confidence T1 Low

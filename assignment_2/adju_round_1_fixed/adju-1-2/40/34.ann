@@ -1,0 +1,6 @@
+T11	Anticipation 271 275	toch
+A11	Confidence T11 Main
+T12	Fear 7 11	ramp
+A12	Confidence T12 Main
+T22	Caring 177 187	beschermen
+A22	Confidence T22 High

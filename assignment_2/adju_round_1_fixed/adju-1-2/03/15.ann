@@ -1,0 +1,6 @@
+T12	Fear 26 33	griepje
+A12	Confidence T12 Main
+T22	Fear 89 100	mortaliteit
+A22	Confidence T22 Main
+T32	Fear 183 189;190 200	gevaar onderschat
+A32	Confidence T32 Main

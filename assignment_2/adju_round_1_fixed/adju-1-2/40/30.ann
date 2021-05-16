@@ -1,0 +1,8 @@
+T11	Anticipation 270 274	toch
+A11	Confidence T11 Main
+T21	Anticipation 15 18	zou
+A21	Confidence T21 High
+T31	Anticipation 49 55	kunnen
+A31	Confidence T31 High
+T12	Anger 238 247	problemen
+A12	Confidence T12 Main

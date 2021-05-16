@@ -1,0 +1,8 @@
+T21	Disgust 109 121	Vuilspuitend
+T31	Anger 219 224;225 238;239 241;242 244;245 248	lopen godsgruwelijk in de weg
+A21	Confidence T31 Main
+T12	Fear 91 96;97 107	kapot torpederen
+A12	Confidence T12 High
+T32	Fear 205 210	chaos
+A32	Confidence T32 High
+A1	Confidence T21 High

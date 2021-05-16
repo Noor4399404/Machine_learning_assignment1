@@ -1,0 +1,6 @@
+T11	Sadness 97 106	overleden
+A11	Confidence T11 Main
+T21	Fear 159 172	sterfgevallen
+T12	Trust 112 120	stijging
+A12	Confidence T12 High
+A1	Confidence T21 Low

@@ -1,0 +1,4 @@
+T11	Disgust 158 161;163 174	erg onhygienisc
+A11	Confidence T11 Main
+T12	Fear 10 19	bedoeling
+A12	Confidence T12 Low

@@ -1,0 +1,6 @@
+T1	Anger 63 67	NEEN
+A1	Confidence T1 Main
+T2	Disgust 41 50	enkelband
+A2	Confidence T2 High
+T3	Disgust 116 128;129 132;142 143	succesfactor van 0
+A3	Confidence T3 High

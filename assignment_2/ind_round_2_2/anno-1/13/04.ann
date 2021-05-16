@@ -1,0 +1,10 @@
+T1	Trust 42 47	zegen
+A1	Confidence T1 High
+T2	Fear 52 64	ongelijkheid
+T3	Fear 103 112;113 121	kwetsbare beperkte
+A3	Confidence T3 Main
+T4	Fear 188 191	dip
+A4	Confidence T4 Main
+T5	Fear 251 262	onzekerheid
+A5	Confidence T5 Main
+A2	Confidence T2 Main

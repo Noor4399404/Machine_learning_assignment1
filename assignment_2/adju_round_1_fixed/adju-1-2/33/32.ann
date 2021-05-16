@@ -1,0 +1,7 @@
+T1	Trust 119 136	#samentegencorona
+A1	Confidence T1 Main
+T2	Caring 137 146	#staysafe
+A2	Confidence T2 High
+T3	Other 119 136	#samentegencorona
+A3	Confidence T3 High
+#1	AnnotatorNotes T3	solidarity

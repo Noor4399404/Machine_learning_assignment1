@@ -1,0 +1,7 @@
+T11	Anger 13 16;24 27;32 40	kap met aanjagen
+A11	Confidence T11 Main
+T21	Other 123 129;130 137	Alvast bedankt
+A21	Confidence T21 High
+#11	AnnotatorNotes T21	Sarcasm
+T12	Disgust 45 50;52 58;60 65;66 70	angst paniek drama etc.
+A12	Confidence T12 High

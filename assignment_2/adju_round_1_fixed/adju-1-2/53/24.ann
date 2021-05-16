@@ -1,0 +1,8 @@
+T11	Sadness 62 68;69 78	mensen overleden
+A11	Confidence T11 Low
+T21	Anticipation 0 4;15 19;5 7	Gaan zien we
+A21	Confidence T21 Low
+T12	Anger 12 14;8 11	nu dan
+A12	Confidence T12 Low
+T22	Anger 48 52;53 57	echt doet
+A22	Confidence T22 Low

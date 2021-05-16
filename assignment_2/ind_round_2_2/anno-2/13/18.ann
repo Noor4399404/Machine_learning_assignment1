@@ -1,0 +1,8 @@
+T1	Trust 0 4	Mooi
+A1	Confidence T1 Main
+T2	Trust 61 63;64 74	Nu doorpakken
+A2	Confidence T2 Main
+T3	Trust 173 178	prima
+A3	Confidence T3 Main
+T4	Trust 201 205	Doen
+A4	Confidence T4 Main

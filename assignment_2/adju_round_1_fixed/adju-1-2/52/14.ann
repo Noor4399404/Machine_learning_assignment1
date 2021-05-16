@@ -1,0 +1,12 @@
+T21	Anger 115 119;85 89	geen maar
+A21	Confidence T21 High
+T12	Sadness 138 141	Wat
+A12	Confidence T12 Main
+T22	Sadness 142 147	baten
+A22	Confidence T22 Main
+T32	Sadness 148 153	kaars
+A32	Confidence T32 Main
+T42	Sadness 154 156	en
+A42	Confidence T42 Main
+T52	Sadness 157 161	bril
+A52	Confidence T52 Main

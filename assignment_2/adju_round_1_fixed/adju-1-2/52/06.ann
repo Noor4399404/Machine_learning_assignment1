@@ -1,0 +1,14 @@
+T21	Fear 38 41	Let
+A21	Confidence T21 High
+T31	Fear 42 51	op elkaar
+A31	Confidence T31 High
+T12	Sadness 0 4	Pfft
+A12	Confidence T12 Main
+T22	Sadness 55 61	Pinkte
+A22	Confidence T22 Main
+T32	Sadness 62 65	een
+A32	Confidence T32 Main
+T42	Sadness 66 71	traan
+A42	Confidence T42 Main
+T52	Sadness 72 75	weg
+A52	Confidence T52 Main

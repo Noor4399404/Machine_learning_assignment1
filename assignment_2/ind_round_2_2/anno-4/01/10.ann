@@ -1,0 +1,6 @@
+T1	Sadness 23 27;29 33	hard info
+A1	Confidence T1 Main
+T2	Sadness 100 108	infected
+A2	Confidence T2 Main
+T3	Sadness 110 119	mortality
+A3	Confidence T3 Main

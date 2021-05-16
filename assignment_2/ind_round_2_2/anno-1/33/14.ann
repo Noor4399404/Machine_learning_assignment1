@@ -1,0 +1,4 @@
+T1	Disgust 83 95	afgeschreven
+T2	Caring 0 11	#blijfthuis
+A1	Confidence T2 Main
+A2	Confidence T1 Low

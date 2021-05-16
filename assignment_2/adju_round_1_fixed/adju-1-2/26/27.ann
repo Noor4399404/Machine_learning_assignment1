@@ -1,0 +1,6 @@
+T12	Disgust 10 15;26 37	lakse ontkennende
+A12	Confidence T12 Main
+T22	Sadness 183 189;190 202	zonder beschermende
+A22	Confidence T22 High
+T32	Disgust 214 226	flutadviezen
+A32	Confidence T32 Main

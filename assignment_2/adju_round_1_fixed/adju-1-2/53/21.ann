@@ -1,0 +1,6 @@
+T11	Fear 31 34;35 38;39 41;42 45;46 50	Hoe wil je dat doen
+A11	Confidence T11 Main
+T32	Anger 147 150	dus
+A32	Confidence T32 Low
+T1	Fear 107 109;110 114;115 117;118 122	al niet te doen
+A1	Confidence T1 Main

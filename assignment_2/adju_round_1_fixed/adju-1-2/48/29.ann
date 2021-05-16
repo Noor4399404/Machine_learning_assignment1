@@ -1,0 +1,4 @@
+T12	Joy 100 105;106 114;89 99	mogen verlaten ziekenhuis
+A12	Confidence T12 Main
+T22	Anticipation 0 8;9 11	Wachtend op
+A22	Confidence T22 High

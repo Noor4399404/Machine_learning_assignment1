@@ -1,0 +1,4 @@
+T21	Fear 131 135;136 141	Stay there
+A21	Confidence T21 Main
+T22	Anger 0 8;19 29;35 42	Couldn't instituted earlier
+A22	Confidence T22 High

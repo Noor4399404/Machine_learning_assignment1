@@ -1,0 +1,9 @@
+T41	Other 144 147;176 182;198 202	Ach lekker vrij
+A31	Confidence T41 High
+#11	AnnotatorNotes T41	irony
+T12	Anger 11 17;18 20;21 24	Waarom nu pas
+A12	Confidence T12 Main
+T22	Sadness 43 46;94 98;99 108	Als hoop voorkomen
+A22	Confidence T22 Low
+T32	Anger 122 128;132 138	achter feiten
+A32	Confidence T32 Low

@@ -1,0 +1,5 @@
+T11	Surprise 0 3;10 16;17 24;4 6;7 9;92 93	Wat juiste afstand is de ?
+A11	Confidence T11 High
+T12	Other 106 112;113 116;117 119;120 127;128 134	ruiken wat ze gegeten hebben
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	irony

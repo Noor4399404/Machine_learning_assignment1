@@ -1,0 +1,12 @@
+T11	Anger 176 179	...
+A11	Confidence T11 High
+T21	Anger 213 218	moord
+A21	Confidence T21 Main
+T31	Anger 136 140	maar
+A31	Confidence T31 High
+T12	Anger 61 65;66 68;69 72	niet zo erg
+A12	Confidence T12 Low
+T22	Sadness 98 107	verliezen
+A22	Confidence T22 High
+T1	Sadness 166 173	sterven
+A1	Confidence T1 High

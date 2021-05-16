@@ -1,0 +1,10 @@
+T31	Anger 161 169;171 186	dadelijk LockdownHolland
+A31	Confidence T31 Main
+T12	Anger 0 3;20 24;28 31;4 9	Wie eens les leest
+A12	Confidence T12 Main
+T22	Anger 43 48;63 66;67 70	komen mee weg
+A22	Confidence T22 Main
+T32	Anger 72 77;78 84	eerst zeggen
+A32	Confidence T32 Main
+T42	Anger 133 135	nu
+A42	Confidence T42 Main

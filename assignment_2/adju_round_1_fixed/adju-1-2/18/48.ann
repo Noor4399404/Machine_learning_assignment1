@@ -1,0 +1,10 @@
+T11	Disgust 58 61;62 69;70 76	zal blijven liegen
+A11	Confidence T11 Main
+T21	Disgust 191 203	'medicijnen'
+A21	Confidence T21 High
+T31	Disgust 149 151;152 154;155 158;159 162;163 166	in de zak zit van
+A31	Confidence T31 High
+T22	Fear 58 61;62 69;70 76	zal blijven liegen
+A22	Confidence T22 High
+T42	Anger 125 130;131 136	vaart blind
+A42	Confidence T42 High

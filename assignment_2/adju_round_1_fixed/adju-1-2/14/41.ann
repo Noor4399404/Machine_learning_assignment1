@@ -1,0 +1,8 @@
+T21	Fear 159 166;167 172	wachten staat
+A21	Confidence T21 Main
+T32	Fear 138 141	dit
+A32	Confidence T32 Main
+T42	Fear 108 114;124 128	vallen dood
+A42	Confidence T42 Main
+T12	Fear 174 185	Quarantaine
+A12	Confidence T12 Main

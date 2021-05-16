@@ -1,0 +1,6 @@
+T11	Trust 147 152	braaf
+A11	Confidence T11 Main
+T21	Disgust 34 38;39 43;50 54	niet gauw eens
+A21	Confidence T21 Low
+T22	Trust 232 242	belangrijk
+A22	Confidence T22 High

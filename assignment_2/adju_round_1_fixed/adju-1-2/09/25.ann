@@ -1,0 +1,8 @@
+T11	Surprise 15 20	Samen
+A11	Confidence T11 Main
+T21	Disgust 128 141	schurkenstaat
+A21	Confidence T21 High
+T22	Disgust 226 228;229 231;232 239	Ga je schamen
+A22	Confidence T22 Main
+T32	Disgust 263 274	roversbende
+A32	Confidence T32 High

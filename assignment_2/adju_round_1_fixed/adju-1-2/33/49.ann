@@ -1,0 +1,6 @@
+T21	Joy 42 47	happy
+A21	Confidence T21 High
+T31	Disgust 89 97;98 104	verwende plagen
+A31	Confidence T31 Main
+T1	Anger 89 97;98 104	verwende plagen
+A1	Confidence T1 High

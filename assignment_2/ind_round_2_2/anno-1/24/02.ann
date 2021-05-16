@@ -1,0 +1,8 @@
+T1	Anger 16 22	Waarom
+A1	Confidence T1 Main
+T2	Anger 204 207;208 211;212 219	had hem gesierd
+A2	Confidence T2 Main
+T3	Fear 124 134	risicoland
+A3	Confidence T3 High
+T4	Fear 149 160	alarmbellen
+A4	Confidence T4 High

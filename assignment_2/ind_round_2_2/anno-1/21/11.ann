@@ -1,0 +1,8 @@
+T1	Fear 21 28	neonazi
+A1	Confidence T1 Main
+T2	Fear 75 78	eng
+A2	Confidence T2 Main
+T3	Fear 85 88	eng
+A3	Confidence T3 Main
+T4	Fear 51 57;58 65	worden gevolgd
+A4	Confidence T4 Main

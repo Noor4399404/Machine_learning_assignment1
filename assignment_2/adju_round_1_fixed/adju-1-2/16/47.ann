@@ -1,0 +1,6 @@
+T11	Anger 54 58;59 63	weer eens
+A11	Confidence T11 Main
+T12	Fear 111 117	crisis
+A12	Confidence T12 High
+T22	Fear 64 72	vergeten
+A22	Confidence T22 High

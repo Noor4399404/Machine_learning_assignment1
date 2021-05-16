@@ -1,0 +1,14 @@
+T1	Anticipation 122 126;127 137	Wees empathisch
+A1	Confidence T1 High
+T2	Fear 87 96	kwetsbaar
+T3	Caring 103 112	beschermd
+A2	Confidence T3 Low
+A3	Confidence T2 Low
+T4	Caring 157 162	steun
+A4	Confidence T4 Main
+T5	Caring 166 172	liefde
+A5	Confidence T5 Main
+T6	Caring 179 181	❤️
+A6	Confidence T6 Main
+T7	Anticipation 213 219	strijd
+A7	Confidence T7 Low

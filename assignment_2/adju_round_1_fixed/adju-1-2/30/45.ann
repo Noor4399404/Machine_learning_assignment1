@@ -1,0 +1,6 @@
+T21	Sadness 227 252	Dat kost wel meer levens.
+T12	Surprise 0 20	Opmerkelijk antwoord
+A12	Confidence T12 Main
+T22	Surprise 105 148;170 171	Zijn er momenten wanneer dit wel gewenst is ?
+A22	Confidence T22 Main
+A1	Confidence T21 High

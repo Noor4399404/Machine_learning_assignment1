@@ -1,0 +1,6 @@
+T11	Anger 56 61;72 78;79 82	wordt aardig zat
+A11	Confidence T11 Main
+T22	Sadness 105 107;108 116;117 119;120 126;95 101	in isolatie te zitten gevoel
+A22	Confidence T22 Low
+T32	Anger 175 179;191 194;195 197;198 201	Zijn ook al zat
+A32	Confidence T32 High

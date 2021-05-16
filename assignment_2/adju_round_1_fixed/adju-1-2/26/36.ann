@@ -1,0 +1,4 @@
+T11	Disgust 22 27;28 32;3 6;44 54;63 69;7 13	virus zelf zou selecteren besmet willen
+A11	Confidence T11 Main
+T31	Fear 108 118	blijfthuis
+A31	Confidence T31 Main

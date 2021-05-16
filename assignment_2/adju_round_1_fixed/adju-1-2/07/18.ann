@@ -1,0 +1,8 @@
+T21	Fear 57 61;62 65;70 79	voel mij crimineel
+A11	Confidence T21 Low
+T31	Caring 101 112	pasopjezelf
+A21	Confidence T31 Main
+T41	Caring 114 124	blijfthuis
+A31	Confidence T41 Main
+T12	Surprise 15 24	Bijzonder
+A12	Confidence T12 High

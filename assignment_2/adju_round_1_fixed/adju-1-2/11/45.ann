@@ -1,0 +1,8 @@
+T11	Other 10 13;14 16	Nou uh
+A11	Confidence T11 High
+#11	AnnotatorNotes T11	irony
+T21	Other 30 34;97 101	hoor maar
+A21	Confidence T21 High
+#21	AnnotatorNotes T21	irony
+T12	Disgust 124 130	gebral
+A12	Confidence T12 Main

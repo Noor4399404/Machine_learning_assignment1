@@ -1,0 +1,11 @@
+T11	Caring 100 110	blijfthuis
+T21	Caring 112 122	StayAtHome
+A11	Confidence T21 High
+T31	Surprise 26 30	ofzo
+A21	Confidence T31 High
+T41	Surprise 30 34	????
+A31	Confidence T41 High
+T12	Anger 12 25	laaggeletterd
+A12	Confidence T12 Main
+T22	Anger 43 49;50 58	boetes uitdelen
+A22	Confidence T22 Main

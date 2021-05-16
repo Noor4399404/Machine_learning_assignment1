@@ -1,0 +1,10 @@
+T1	Other 0 8;13 17;18 24	Vertrouw maar lekker
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	irony
+T2	Disgust 65 73;74 79;80 85	compleet naast zaten
+A2	Confidence T2 High
+T3	Anger 98 107	gerotzooi
+A3	Confidence T3 High
+T4	Other 240 245;246 252	Slaap lekker
+A4	Confidence T4 Low
+#2	AnnotatorNotes T4	irony

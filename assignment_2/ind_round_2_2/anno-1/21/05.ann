@@ -1,0 +1,8 @@
+T1	Disgust 110 117	zooitje
+A1	Confidence T1 Main
+T2	Disgust 118 123;124 130	super smerig
+A2	Confidence T2 Main
+T3	Disgust 93 97	DRUK
+A3	Confidence T3 Main
+T4	Disgust 106 109;98 105	nee afstand
+A4	Confidence T4 Main

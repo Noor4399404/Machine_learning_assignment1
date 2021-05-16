@@ -1,0 +1,6 @@
+T11	Anger 11 16;29 34;3 7;46 49	proef niets ruik NUL
+A11	Confidence T11 Main
+T21	Anticipation 109 117;88 94	klachten mensen
+A21	Confidence T21 High
+T12	Fear 55 60;61 71	nooit meegemaakt
+A12	Confidence T12 High

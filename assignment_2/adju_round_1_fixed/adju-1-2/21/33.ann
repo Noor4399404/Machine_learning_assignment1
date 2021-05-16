@@ -1,0 +1,6 @@
+T11	Fear 12 16;17 23;24 31	geen gewoon griepje
+A11	Confidence T11 Main
+T21	Anticipation 129 132;87 91;96 98;99 103	mee neem de kans
+A21	Confidence T21 High
+T22	Fear 252 268;269 277	maatschappelijke gevolgen
+A22	Confidence T22 Main

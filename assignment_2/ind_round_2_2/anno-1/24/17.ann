@@ -1,0 +1,8 @@
+T1	Fear 0 9	Schokkend
+A1	Confidence T1 Main
+T2	Fear 41 45;46 53	niet kloppen
+A2	Confidence T2 Main
+T3	Fear 105 107;108 113;88 92	te meten niet
+A3	Confidence T3 Main
+T4	Fear 116 127;128 133;155 157;159 167	coronavirus lijkt op stikstof
+A4	Confidence T4 Main

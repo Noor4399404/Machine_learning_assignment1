@@ -1,0 +1,8 @@
+T21	Surprise 103 107;108 120;121 125	niet belangrijker zijn
+A21	Confidence T21 High
+T22	Surprise 84 93	überhaupt
+A22	Confidence T22 High
+T32	Anticipation 209 215	mening
+T1	Surprise 55 61	waarom
+A1	Confidence T1 Main
+A2	Confidence T32 High

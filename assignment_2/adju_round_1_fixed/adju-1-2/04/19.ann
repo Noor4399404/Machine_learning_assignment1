@@ -1,0 +1,5 @@
+T31	Surprise 103 107;98 102	toch kunt
+A31	Confidence T31 Main
+T12	Surprise 22 28	Waarom
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	distrust

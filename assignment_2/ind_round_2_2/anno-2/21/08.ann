@@ -1,0 +1,8 @@
+T1	Other 0 3	Nou
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	Irony
+T2	Other 91 95	zelf
+A2	Confidence T2 Main
+#2	AnnotatorNotes T2	Irony
+T3	Anger 28 30;31 34;35 42	op ons flikker
+A3	Confidence T3 High

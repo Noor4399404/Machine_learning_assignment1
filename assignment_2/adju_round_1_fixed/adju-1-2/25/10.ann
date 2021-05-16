@@ -1,0 +1,8 @@
+T11	Anger 197 199;203 207;208 212	ga toch niet
+A11	Confidence T11 High
+T32	Sadness 35 40;41 48	leven gelaten
+A32	Confidence T32 High
+T1	Sadness 132 139;140 145;149 155;156 163	niemand heeft morgen beloofd
+A1	Confidence T1 Low
+T3	Anger 75 80;88 96	laten afpakken
+A3	Confidence T3 Main

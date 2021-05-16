@@ -1,0 +1,6 @@
+T11	Anticipation 196 200;201 205	meer kans
+A11	Confidence T11 Main
+T22	Fear 32 39;40 42;46 51	aanslag op lever
+A22	Confidence T22 High
+T1	Anticipation 21 24	Als
+A1	Confidence T1 High

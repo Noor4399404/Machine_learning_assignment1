@@ -1,0 +1,6 @@
+T1	Disgust 18 21;22 28;29 31;32 36	een beetje te veel
+A1	Confidence T1 Main
+T2	Disgust 234 238;239 244;245 254	hoge doses náïviteit
+A2	Confidence T2 High
+T3	Disgust 267 274	slechte
+A3	Confidence T3 High

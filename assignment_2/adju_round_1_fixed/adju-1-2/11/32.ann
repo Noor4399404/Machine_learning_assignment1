@@ -1,0 +1,6 @@
+T11	Anticipation 8 17	voorspelt
+A11	Confidence T11 Main
+T12	Anticipation 8 17	voorspelt
+A12	Confidence T12 Main
+T22	Trust 177 186	aangezien
+A22	Confidence T22 Low

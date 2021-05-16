@@ -1,0 +1,5 @@
+T11	Anger 0 6	Lekker
+A11	Confidence T11 Main
+T12	Other 0 6	Lekker
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	irony

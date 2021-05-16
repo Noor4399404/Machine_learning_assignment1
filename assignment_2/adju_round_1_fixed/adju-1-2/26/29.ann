@@ -1,0 +1,10 @@
+T11	Disgust 161 168;169 176	illusie voorbij
+A11	Confidence T11 Main
+T31	Disgust 210 215;216 222	niets gedaan
+A31	Confidence T31 Main
+T41	Disgust 240 245;246 252	eigen hachje
+A41	Confidence T41 Main
+T22	Sadness 255 269	foutindeoorlog
+A22	Confidence T22 Main
+T42	Sadness 185 189	fout
+A42	Confidence T42 Main

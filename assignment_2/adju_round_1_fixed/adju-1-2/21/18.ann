@@ -1,0 +1,10 @@
+T11	Disgust 186 190;191 196	doen alsof
+A11	Confidence T11 Main
+T21	Sadness 19 22;29 32	nog ook
+A21	Confidence T21 High
+T12	Disgust 258 261	wan
+A12	Confidence T12 Main
+T22	Disgust 265 275	delusional
+A22	Confidence T22 Main
+T32	Disgust 92 97;98 107	dwang gedachten
+A42	Confidence T32 Main

@@ -1,0 +1,8 @@
+T11	Anger 238 243;244 247;248 251;252 255	maken wij wel uit
+A11	Confidence T11 Main
+T21	Anger 80 88	moeilijk
+A21	Confidence T21 Main
+T12	Fear 162 168;169 178	Paniek voorkomen
+A12	Confidence T12 High
+T22	Anger 192 195;196 200	nou eens
+A22	Confidence T22 Main

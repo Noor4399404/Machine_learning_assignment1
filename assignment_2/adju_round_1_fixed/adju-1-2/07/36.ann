@@ -1,0 +1,24 @@
+T11	Disgust 46 50;51 55;56 62	Gaan over lijken
+A11	Confidence T11 High
+T21	Disgust 147 152;153 160	laten stikken
+A21	Confidence T21 High
+T31	Disgust 184 197	verachtelijke
+A31	Confidence T31 High
+T41	Disgust 198 210	incompetente
+A41	Confidence T41 Main
+T51	Disgust 211 216	domme
+A51	Confidence T51 Main
+T61	Disgust 246 257	islampijper
+A61	Confidence T61 High
+T12	Disgust 18 27	ONGEHOORD
+A12	Confidence T12 High
+T22	Anger 46 50;51 55;56 62	Gaan over lijken
+A22	Confidence T22 Main
+T32	Anger 147 152;153 160	laten stikken
+A32	Confidence T32 Main
+T42	Anger 184 197	verachtelijke
+A42	Confidence T42 Main
+T52	Anger 198 210	incompetente
+A52	Confidence T52 High
+T62	Anger 211 216	domme
+A62	Confidence T62 High

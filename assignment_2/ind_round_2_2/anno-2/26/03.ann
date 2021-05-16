@@ -1,0 +1,6 @@
+T1	Anger 79 84	Onzin
+A1	Confidence T1 High
+T2	Sadness 148 154	besmet
+A2	Confidence T2 Main
+T3	Sadness 174 182;183 191	ernstige gevolgen
+A3	Confidence T3 Main

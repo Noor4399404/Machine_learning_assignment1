@@ -1,0 +1,8 @@
+T11	Anger 50 56;57 62	gewoon naief
+A11	Confidence T11 Main
+T22	Anger 64 68;69 71;72 76	Denk je echt
+A22	Confidence T22 Main
+T32	Sadness 176 182	“goed”
+A32	Confidence T32 Main
+T42	Anticipation 215 218;219 221	Let op
+A42	Confidence T42 High

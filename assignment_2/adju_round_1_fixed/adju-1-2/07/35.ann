@@ -1,0 +1,12 @@
+T11	Other 84 91	logisch
+A11	Confidence T11 Low
+T21	Other 222 231	inderdaad
+A21	Confidence T21 Low
+T12	Anger 108 112;113 118	niet mogen
+A12	Confidence T12 Main
+T22	Anger 169 179	overlijden
+A22	Confidence T22 Main
+T32	Anger 180 184;185 190	niet mogen
+A32	Confidence T32 Main
+#1	AnnotatorNotes T11	sarcasm
+#2	AnnotatorNotes T21	sarcasm

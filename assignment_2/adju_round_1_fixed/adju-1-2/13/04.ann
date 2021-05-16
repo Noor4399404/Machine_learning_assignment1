@@ -1,0 +1,7 @@
+T11	Anger 14 18;46 50	niet komt
+A11	Confidence T11 Low
+T22	Trust 155 159;163 167	goed vrij
+A22	Confidence T22 High
+T12	Disgust 69 73;79 83	zelf doen
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	Distrust

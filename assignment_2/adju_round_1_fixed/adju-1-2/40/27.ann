@@ -1,0 +1,6 @@
+T21	Trust 105 109;126 132;133 136;137 140	ging gewoon van uit
+A21	Confidence T21 Main
+T12	Surprise 150 154	raar
+A12	Confidence T12 High
+T22	Trust 89 94	prima
+A22	Confidence T22 High

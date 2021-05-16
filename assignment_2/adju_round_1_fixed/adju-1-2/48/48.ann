@@ -1,0 +1,6 @@
+T11	Anger 30 38;42 45;49 55	kansloos dit roepen
+A11	Confidence T11 High
+T21	Anger 219 223;224 230;231 236	GEEN GEWONE GRIEP
+A21	Confidence T21 High
+T31	Anticipation 280 285;289 298	komen problemen
+A31	Confidence T31 Main

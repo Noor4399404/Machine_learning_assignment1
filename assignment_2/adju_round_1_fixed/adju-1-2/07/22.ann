@@ -1,0 +1,10 @@
+T12	Trust 57 70	topprioriteit
+A12	Confidence T12 Main
+T22	Trust 72 76;80 88;93 97	Maar vergeten niet
+A22	Confidence T22 Main
+T32	Disgust 123 134	dramatische
+A32	Confidence T32 High
+T42	Disgust 145 151;152 159	zonder toegang
+A42	Confidence T42 High
+T52	Trust 186 190	Help
+A52	Confidence T52 Main

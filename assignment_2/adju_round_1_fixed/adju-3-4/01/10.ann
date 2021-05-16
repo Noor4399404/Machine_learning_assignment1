@@ -1,0 +1,15 @@
+T11	Anger 79 88	blundered
+A11	Confidence T11 Main
+T21	Sadness 60 68	Nonsense
+A21	Confidence T21 High
+T31	Other 48 52;53 57	good work
+A31	Confidence T31 High
+T12	Anger 60 68	Nonsense
+A12	Confidence T12 Main
+T22	Disgust 75 78;79 88	has blundered
+A22	Confidence T22 High
+T32	Sadness 204 207	ill
+A32	Confidence T32 Low
+#1	AnnotatorNotes T31	sarcasm
+T1	Anticipation 142 149;150 154	learned from
+A1	Confidence T1 High

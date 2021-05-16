@@ -1,0 +1,6 @@
+T11	Anticipation 87 90;91 95;96 104	Het word spannend
+A11	Confidence T11 Main
+T21	Surprise 108 115	Serieus
+A21	Confidence T21 Low
+T12	Anger 43 50	afbraak
+A12	Confidence T12 Low

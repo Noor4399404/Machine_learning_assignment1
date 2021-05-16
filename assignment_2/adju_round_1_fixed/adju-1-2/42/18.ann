@@ -1,0 +1,8 @@
+T21	Disgust 100 109;110 113	terminale lul
+A21	Confidence T21 Main
+T31	Fear 201 209;210 213;223 230	oppompen met leugens
+A31	Confidence T31 Low
+T12	Joy 0 2;12 16;3 6;7 11	On side the plus
+A12	Confidence T12 Low
+T42	Disgust 223 230	leugens
+A42	Confidence T42 Main

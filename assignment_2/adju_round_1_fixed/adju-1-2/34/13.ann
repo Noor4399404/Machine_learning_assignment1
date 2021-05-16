@@ -1,0 +1,10 @@
+T11	Disgust 133 140	sjakies
+A11	Confidence T11 High
+T21	Anger 0 8	Voordeel
+A21	Confidence T21 Low
+#11	AnnotatorNotes T21	Irony and thus frustration
+T22	Anger 201 207;208 211;212 215;216 218;219 225	gouden pik uit te hangen
+A22	Confidence T22 Main
+T32	Anger 227 230;231 234;238 252;253 263	Wat zal luchtkwaliteit verbeteren
+A32	Confidence T32 High
+#12	AnnotatorNotes T32	Sarcasm

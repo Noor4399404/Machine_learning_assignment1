@@ -1,0 +1,24 @@
+T11	Fear 36 37	😱
+A11	Confidence T11 Low
+T21	Fear 37 38	😱
+A21	Confidence T21 Low
+T31	Fear 38 39	😱
+A31	Confidence T31 Low
+T41	Fear 39 40	😱
+A41	Confidence T41 Low
+T61	Sadness 74 86	besmettingen
+A61	Confidence T61 High
+T12	Sadness 30 35	DODEN
+A12	Confidence T12 High
+T32	Surprise 0 8	Breaking
+A32	Confidence T32 Main
+T22	Fear 67 73;74 86	nieuwe besmettingen
+A22	Confidence T22 High
+T1	Surprise 36 37	😱
+A1	Confidence T1 Main
+T2	Surprise 37 38	😱
+A2	Confidence T2 Main
+T3	Surprise 38 39	😱
+A3	Confidence T3 Main
+T4	Surprise 39 40	😱
+A4	Confidence T4 Main

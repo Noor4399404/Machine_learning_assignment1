@@ -1,0 +1,4 @@
+T12	Trust 11 18;22 32;33 40;4 10	nuchter verhelderd verhaal lekker
+A12	Confidence T12 Main
+T22	Fear 108 112;117 123	kost levens
+A22	Confidence T22 Low

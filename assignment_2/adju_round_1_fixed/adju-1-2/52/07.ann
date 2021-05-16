@@ -1,0 +1,6 @@
+T11	Anger 116 120;121 125;129 136	geen peil trekken
+A11	Confidence T11 Main
+T21	Anger 201 203;204 207	Te gek
+A21	Confidence T21 Main
+T31	Fear 243 256	massahysterie
+A31	Confidence T31 High

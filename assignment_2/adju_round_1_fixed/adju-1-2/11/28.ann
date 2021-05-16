@@ -1,0 +1,8 @@
+T11	Sadness 43 48;49 59	heeft onderschat
+A11	Confidence T11 Main
+T21	Sadness 72 78;79 81;82 88;89 97	achter de feiten aanloopt
+A21	Confidence T21 Main
+T12	Disgust 49 59	onderschat
+A12	Confidence T12 Low
+T22	Disgust 72 97	achter de feiten aanloopt
+A22	Confidence T22 Low

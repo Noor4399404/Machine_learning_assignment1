@@ -1,0 +1,10 @@
+T11	Anger 3 6	zou
+A11	Confidence T11 Main
+T21	Anger 27 33	willen
+A21	Confidence T21 Main
+T31	Anger 34 42	bevragen
+A31	Confidence T31 Main
+T12	Sadness 91 95	niet
+A12	Confidence T12 High
+T22	Sadness 118 123	falen
+A22	Confidence T22 High

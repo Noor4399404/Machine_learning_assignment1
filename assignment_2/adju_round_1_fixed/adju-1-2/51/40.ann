@@ -1,0 +1,10 @@
+T11	Joy 10 18;4 9	voordeel enige
+A11	Confidence T11 Main
+T21	Disgust 145 151	Blugh!
+A21	Confidence T21 High
+T31	Joy 152 156	Blij
+A31	Confidence T31 High
+T41	Fear 38 41;49 51;52 57	zie op tegen
+A41	Confidence T41 High
+T32	Disgust 75 81;82 86	Teveel pijn
+A32	Confidence T32 High

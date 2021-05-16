@@ -1,0 +1,5 @@
+T11	Other 0 3;10 14;4 9	Wie erom maalt
+#11	AnnotatorNotes T11	distrust
+T12	Trust 218 232	al lang bekend
+A12	Confidence T12 Main
+A1	Confidence T11 Low

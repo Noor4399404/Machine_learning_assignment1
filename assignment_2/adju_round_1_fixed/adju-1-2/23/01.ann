@@ -1,0 +1,12 @@
+T11	Fear 72 83	onzekerheid
+A11	Confidence T11 Main
+T21	Fear 87 92	angst
+A21	Confidence T21 Main
+T31	Sadness 188 189	😢
+A31	Confidence T31 High
+T22	Fear 87 92	angst
+A12	Confidence T22 Main
+T32	Sadness 188 189	😢
+A22	Confidence T32 High
+T42	Fear 72 83	onzekerheid
+A32	Confidence T42 Main

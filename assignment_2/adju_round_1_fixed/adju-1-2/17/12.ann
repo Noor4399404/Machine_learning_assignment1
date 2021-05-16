@@ -1,0 +1,6 @@
+T11	Fear 22 35	schrikbarende
+A11	Confidence T11 High
+T22	Disgust 103 111;112 123	compleet ondeskundig
+A12	Confidence T22 High
+T32	Anger 66 71;72 78;79 81;82 88	enorm zitten te slapen
+A32	Confidence T32 Main

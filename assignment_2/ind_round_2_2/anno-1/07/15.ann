@@ -1,0 +1,10 @@
+T1	Surprise 151 154;155 160;161 164	Het lijkt wel
+A1	Confidence T1 High
+T2	Anger 172 176;177 182;183 186	niet beter mag
+A2	Confidence T2 High
+T3	Fear 254 256;257 262;263 267;268 272	Er klopt iets niet
+A3	Confidence T3 Main
+T4	Anger 202 209;210 221	extreem tegenwerken
+A4	Confidence T4 High
+T5	Fear 0 4;12 16;29 31;5 8	Valt niet op het
+A5	Confidence T5 Main

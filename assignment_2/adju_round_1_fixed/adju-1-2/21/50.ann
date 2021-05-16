@@ -1,0 +1,6 @@
+T11	Fear 38 46	‘veilig’
+A11	Confidence T11 Main
+T21	Anticipation 124 140	samentegencorona
+A21	Confidence T21 High
+T31	Trust 103 105;88 91;92 94;95 98;99 102	is Het is wat het
+A31	Confidence T31 High

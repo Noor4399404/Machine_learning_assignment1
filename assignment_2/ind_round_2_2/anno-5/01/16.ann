@@ -1,0 +1,5 @@
+T1	Sadness 11 16;17 20;7 10	there yet not
+T2	Trust 31 35;36 40;41 43	keep this up
+A1	Confidence T2 Main
+T3	Trust 144 151;152 156	slowing down
+A2	Confidence T3 Main

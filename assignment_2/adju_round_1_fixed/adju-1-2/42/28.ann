@@ -1,0 +1,10 @@
+T11	Anger 107 113;114 116;117 121	kunnen ze niks
+A11	Confidence T11 High
+T31	Sadness 48 54;58 63	kappot maken
+A31	Confidence T31 Low
+T12	Sadness 17 23;24 28;6 11	liever druk maakt
+A12	Confidence T12 High
+T32	Disgust 17 23;24 28;6 11	liever druk maakt
+A32	Confidence T32 Main
+T42	Disgust 107 113;114 115;117 121	kunnen z niks
+A42	Confidence T42 Main

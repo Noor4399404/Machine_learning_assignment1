@@ -1,0 +1,10 @@
+T11	Anticipation 104 108;109 113	Stay safe
+A11	Confidence T11 High
+T21	Caring 19 21;22 29	👍🏻 bedankt
+A21	Confidence T21 High
+T31	Disgust 86 91	🤦🏼‍♂️
+A31	Confidence T31 Low
+T22	Joy 34 42	Gelukkig
+A22	Confidence T22 Main
+T32	Joy 98 102	goed
+A32	Confidence T32 Main

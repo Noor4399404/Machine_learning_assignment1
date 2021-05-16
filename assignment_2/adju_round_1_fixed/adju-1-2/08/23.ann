@@ -1,0 +1,8 @@
+T12	Caring 14 34	gezamenlijk omkijken
+A12	Confidence T12 Main
+T22	Sadness 135 145	grote nood
+A22	Confidence T22 High
+T32	Sadness 149 164	voedsel tekort.
+A32	Confidence T32 High
+T42	Caring 165 171	Doneer
+A42	Confidence T42 Main

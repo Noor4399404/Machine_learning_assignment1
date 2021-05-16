@@ -1,0 +1,8 @@
+T11	Fear 103 106;107 110;93 99	hel los breekt
+A11	Confidence T11 High
+T21	Fear 195 201;202 207	besmet raken
+A21	Confidence T21 High
+T41	Anger 255 260	naïef
+A41	Confidence T41 Main
+T22	Fear 217 227	overlijden
+A22	Confidence T22 High

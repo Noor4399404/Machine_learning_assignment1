@@ -1,0 +1,4 @@
+T1	Fear 243 250;251 258	blijven stijgen
+A1	Confidence T1 Main
+T2	Sadness 156 162;166 168;169 174	helaas 10 doden
+A2	Confidence T2 High

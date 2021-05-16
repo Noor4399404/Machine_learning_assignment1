@@ -1,0 +1,10 @@
+T21	Fear 166 170;171 177;178 189	niet altijd betrouwbaar
+A21	Confidence T21 Main
+T12	Trust 0 7	Heldere
+A12	Confidence T12 High
+T22	Sadness 47 52	Sorry
+A22	Confidence T22 High
+T32	Disgust 166 170;171 177;178 189	niet altijd betrouwbaar
+A32	Confidence T32 High
+T1	Trust 207 216	betrokken
+A1	Confidence T1 High

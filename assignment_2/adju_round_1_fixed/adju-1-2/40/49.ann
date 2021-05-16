@@ -1,0 +1,10 @@
+T11	Trust 4 10	roepen
+A11	Confidence T11 High
+T21	Trust 11 13	op
+A21	Confidence T21 High
+T31	Trust 33 42	voorbeeld
+A31	Confidence T31 Main
+T41	Trust 57 63	volgen
+A41	Confidence T41 Main
+T12	Trust 131 139	verslaan
+A12	Confidence T12 Low

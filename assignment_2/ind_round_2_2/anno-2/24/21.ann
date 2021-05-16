@@ -1,0 +1,12 @@
+T1	Anger 32 40	probleem
+T2	Anger 70 75;76 84	foute adviezen
+A1	Confidence T2 Main
+A2	Confidence T1 Main
+T3	Anger 144 155	achterhaald
+A3	Confidence T3 Main
+T4	Anger 170 182	lachwekkende
+A4	Confidence T4 Main
+T5	Anger 269 281	onvoldoende.
+A5	Confidence T5 Main
+T6	Anger 282 293	incompetent
+A6	Confidence T6 Main

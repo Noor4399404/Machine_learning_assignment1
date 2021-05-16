@@ -1,0 +1,9 @@
+T11	Disgust 115 128	een lachertje
+A11	Confidence T11 Main
+T12	Disgust 119 128	lachertje
+A12	Confidence T12 Main
+T1	Disgust 29 54	geen glazen bol te hebben
+A1	Confidence T1 Main
+T2	Other 29 54	geen glazen bol te hebben
+A2	Confidence T2 High
+#1	AnnotatorNotes T2	Irony

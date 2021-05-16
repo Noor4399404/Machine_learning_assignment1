@@ -1,0 +1,5 @@
+T1	Anger 8 12	STOP
+A1	Confidence T1 Main
+T2	Disgust 138 145	irreëel
+T3	Disgust 150 158	irritant
+A2	Confidence T3 High

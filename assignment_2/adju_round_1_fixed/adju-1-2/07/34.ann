@@ -1,0 +1,8 @@
+T11	Trust 61 65;66 68	Hoop op
+A11	Confidence T11 High
+T21	Anticipation 28 31;32 34;35 38	zal nu wel
+A21	Confidence T21 Main
+T31	Anticipation 164 167;191 194;195 205;206 215	Zal het nauwelijks aankunnen
+A31	Confidence T31 Main
+T12	Sadness 19 27	dodental
+A12	Confidence T12 High

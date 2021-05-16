@@ -1,0 +1,4 @@
+T1	Disgust 49 54;55 62	lakse houding
+T2	Disgust 115 117;118 127	te makkelijk
+A1	Confidence T2 Main
+A2	Confidence T1 Main

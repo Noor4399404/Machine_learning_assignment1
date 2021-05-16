@@ -1,0 +1,9 @@
+T21	Other 251 254;270 278	wie vertrouw
+A21	Confidence T21 High
+#11	AnnotatorNotes T21	Irony
+T22	Other 163 169;173 181	scheld bedreigt
+A22	Confidence T22 Main
+#22	AnnotatorNotes T22	distrust
+T32	Other 223 230;231 240	complot theorieën
+A32	Confidence T32 Main
+#32	AnnotatorNotes T32	distrust

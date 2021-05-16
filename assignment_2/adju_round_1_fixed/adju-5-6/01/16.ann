@@ -1,0 +1,6 @@
+T11	Anger 81 85;86 88	shut up
+A11	Confidence T11 Main
+T31	Anger 213 216;217 219;220 223;224 232	out of the question
+A31	Confidence T31 Main
+T22	Anticipation 125 131;137 147;162 165;166 171	should interfered set rules
+A22	Confidence T22 High

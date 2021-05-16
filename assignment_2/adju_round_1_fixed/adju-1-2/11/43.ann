@@ -1,0 +1,6 @@
+T11	Anticipation 181 186;187 191;192 197;198 204	neemt geen enkel risico
+A11	Confidence T11 Main
+T21	Anticipation 137 151	voorzorgsmatig
+A21	Confidence T21 Main
+T12	Trust 177 204	men neemt geen enkel risico
+A12	Confidence T12 Low

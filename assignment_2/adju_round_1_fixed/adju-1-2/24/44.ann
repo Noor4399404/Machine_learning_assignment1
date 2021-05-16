@@ -1,0 +1,8 @@
+T11	Fear 40 45;46 52	Blijf binnen
+A11	Confidence T11 Low
+T31	Anger 221 225	....
+A31	Confidence T31 Main
+T12	Anger 78 81;82 87;88 91	hoe rijmt dat
+A12	Confidence T12 Main
+T1	Caring 78 81;82 87;88 91	hoe rijmt dat
+A1	Confidence T1 High

@@ -1,0 +1,6 @@
+T11	Anger 73 87	onbegrijpelijk
+A11	Confidence T11 Main
+T21	Anger 131 141;182 186;194 197	belangrijk niet uit
+A21	Confidence T21 Low
+T31	Anger 257 261;269 278	niet overbodig
+A31	Confidence T31 Low

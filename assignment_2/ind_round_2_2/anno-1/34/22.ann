@@ -1,0 +1,6 @@
+T1	Fear 106 108;109 115;116 120;121 130	We worden niet beschermd
+A1	Confidence T1 Main
+T2	Disgust 68 72;73 76	rare man
+A2	Confidence T2 High
+T3	Anger 257 258	😡
+A3	Confidence T3 High

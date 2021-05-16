@@ -1,0 +1,10 @@
+T1	Caring 10 14	help
+A1	Confidence T1 High
+T2	Disgust 63 73	ridiculous
+A2	Confidence T2 Main
+T3	Disgust 109 113;114 123	easy scapegoat
+A3	Confidence T3 Main
+T4	Anger 165 170	Anger
+A4	Confidence T4 High
+T5	Anger 192 200;201 215	ruthless money-grubbers
+A5	Confidence T5 High

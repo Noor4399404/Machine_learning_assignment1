@@ -1,0 +1,10 @@
+T21	Sadness 107 119	keepdreaming
+A21	Confidence T21 Main
+T22	Sadness 204 220	SocialDistancing
+A22	Confidence T22 Main
+T32	Fear 193 202	afwachten
+A32	Confidence T32 High
+T42	Trust 181 189	doorgaan
+A42	Confidence T42 High
+T1	Sadness 101 105;23 26;27 33;83 88;89 96;97 100	zijn zou willen alles voorbij zou
+A1	Confidence T1 Main

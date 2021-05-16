@@ -1,0 +1,10 @@
+T11	Disgust 119 125;144 149;153 157	speelt leven dood
+A11	Confidence T11 High
+T12	Trust 40 43;44 50	met elkaar
+A12	Confidence T12 Main
+T32	Trust 177 181;182 202	onze verantwoordelijkheid
+A32	Confidence T32 Main
+T42	Trust 218 222;223 228	goed voelt
+A42	Confidence T42 Main
+T52	Trust 238 243;244 248	nooit fout
+A52	Confidence T52 Main

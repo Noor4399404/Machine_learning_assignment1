@@ -1,0 +1,8 @@
+T11	Disgust 252 263;268 274	coronavirus leugen
+A11	Confidence T11 Low
+T22	Other 58 61;62 71	Wie vertrouwt
+A22	Confidence T22 Main
+T32	Other 102 111;127 134	instituut kritiek
+A32	Confidence T32 Main
+#22	AnnotatorNotes T32	distrust
+#12	AnnotatorNotes T22	distrust

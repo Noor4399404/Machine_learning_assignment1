@@ -1,0 +1,8 @@
+T31	Anger 111 115;122 135	Waar journalistiek
+A31	Confidence T31 Low
+T12	Other 102 107;97 101	right Yeah
+A12	Confidence T12 Main
+#12	AnnotatorNotes T12	Distrust
+T22	Other 6 11	liegt
+A22	Confidence T22 Main
+#22	AnnotatorNotes T22	Distrust

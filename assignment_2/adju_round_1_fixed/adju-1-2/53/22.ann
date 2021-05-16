@@ -1,0 +1,8 @@
+T11	Trust 104 107;108 112;95 100	wel door komen
+A11	Confidence T11 Main
+T32	Trust 124 125	🙏
+A32	Confidence T32 Low
+T42	Trust 128 129	👍
+A42	Confidence T42 Low
+T1	Trust 0 8	Gelukkig
+A1	Confidence T1 Main

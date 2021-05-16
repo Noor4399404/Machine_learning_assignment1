@@ -1,0 +1,8 @@
+T1	Disgust 63 71;72 76	onnozele wijf
+T2	Disgust 27 34	gepiest
+A1	Confidence T2 Main
+A2	Confidence T1 Main
+T3	Disgust 172 180;181 191	verdomde klotenstel
+A3	Confidence T3 Main
+T4	Anger 157 164	ziedend
+A4	Confidence T4 High

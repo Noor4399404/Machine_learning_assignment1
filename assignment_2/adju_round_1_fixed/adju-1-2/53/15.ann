@@ -1,0 +1,6 @@
+T11	Sadness 38 42;43 47;52 61	niet echt verbering
+A11	Confidence T11 Main
+T22	Sadness 0 3;12 15;21 25;26 29;4 8	Hoe ook best doe hard
+A22	Confidence T22 Main
+T32	Trust 63 67	hoop
+A32	Confidence T32 High

@@ -1,0 +1,6 @@
+T12	Disgust 116 119;120 122;123 126;127 133	Not at 1.5 meters
+A12	Confidence T12 Main
+T22	Disgust 158 161;162 172;173 175;180 191	not penetrated by seriousness
+A22	Confidence T22 Main
+T32	Surprise 54 61	several
+A32	Confidence T32 High

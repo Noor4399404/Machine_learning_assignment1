@@ -1,0 +1,8 @@
+T1	Trust 20 23;24 31	was terecht
+A1	Confidence T1 High
+T2	Trust 43 52	inderdaad
+A2	Confidence T2 High
+T3	Sadness 182 186;187 189	Maar ja
+A3	Confidence T3 Main
+T4	Sadness 53 62;63 75	voorbarig optimistisch
+A4	Confidence T4 Main

@@ -1,0 +1,4 @@
+T1	Disgust 0 4;5 8;9 13	What the hell
+A1	Confidence T1 Main
+T2	Anger 99 103	STOP
+A2	Confidence T2 High

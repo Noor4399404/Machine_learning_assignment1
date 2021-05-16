@@ -1,0 +1,6 @@
+T12	Joy 30 39;49 56	schouders ophalen
+T22	Sadness 176 180;186 190	niet blij
+A12	Confidence T22 Main
+T32	Sadness 254 263	pijnlijke
+A22	Confidence T32 Main
+A32	Confidence T12 High

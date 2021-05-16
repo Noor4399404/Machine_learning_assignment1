@@ -1,0 +1,6 @@
+T1	Fear 34 39;40 46;63 71	can't handle problems
+A1	Confidence T1 Low
+T2	Anger 130 133;134 139;140 144	for god's sake
+A2	Confidence T2 Main
+T3	Anger 34 39;40 46;63 71	can't handle problems
+A3	Confidence T3 Main

@@ -1,0 +1,6 @@
+T11	Trust 0 3;4 7	Hou vol
+A11	Confidence T11 Main
+T31	Trust 100 116	samentegencorona
+A31	Confidence T31 Main
+T32	Trust 54 59;60 69	goede voorbeeld
+A32	Confidence T32 High

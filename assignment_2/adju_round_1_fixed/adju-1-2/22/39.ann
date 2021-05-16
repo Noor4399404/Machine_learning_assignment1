@@ -1,0 +1,6 @@
+T21	Disgust 230 239;240 251	stelletje emo-tosti’s
+A21	Confidence T21 Main
+T12	Trust 26 30;31 33	Lets go
+A12	Confidence T12 Low
+T22	Trust 142 149;150 154	normaal doen
+A22	Confidence T22 Low

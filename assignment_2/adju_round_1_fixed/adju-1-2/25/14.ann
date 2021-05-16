@@ -1,0 +1,4 @@
+T12	Fear 146 157;205 211;225 236	quarantaine besmet coronavirus
+A12	Confidence T12 Main
+T1	Anger 37 40;41 45;51 59	how many warnings
+A1	Confidence T1 High

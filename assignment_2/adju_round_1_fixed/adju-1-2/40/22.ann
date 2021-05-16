@@ -1,0 +1,6 @@
+T11	Other 65 73	"alleen"
+A11	Confidence T11 Main
+T12	Fear 3 9;44 48;49 53;54 60	impact gaat veel verder
+A12	Confidence T12 Main
+T22	Fear 154 158;159 163;177 183	niet meer liggen
+A22	Confidence T22 Low

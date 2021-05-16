@@ -1,0 +1,6 @@
+T11	Anger 48 55	wegdook
+A11	Confidence T11 High
+T21	Disgust 3 11;68 80	'leider' 'deskundige'
+A21	Confidence T21 Main
+T12	Disgust 48 55	wegdook
+A12	Confidence T12 High

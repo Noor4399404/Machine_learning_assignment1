@@ -1,0 +1,6 @@
+T1	Fear 0 6;7 12	Steeds vaker
+A1	Confidence T1 Main
+T2	Fear 84 90;91 101	steeds dichterbij
+A2	Confidence T2 Main
+T3	Fear 109 115;116 125	steeds concreter
+A3	Confidence T3 Main

@@ -1,0 +1,10 @@
+T12	Fear 72 83	eenzaamheid
+A12	Confidence T12 Main
+T22	Fear 85 92	wanhoop
+A22	Confidence T22 Main
+T32	Fear 94 104	desillusie
+A32	Confidence T32 Main
+T42	Fear 106 117	benauwdheid
+A42	Confidence T42 Main
+T52	Fear 121 133	ontwrichting
+A52	Confidence T52 Main

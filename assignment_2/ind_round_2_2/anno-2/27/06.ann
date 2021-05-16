@@ -1,0 +1,4 @@
+T1	Trust 143 146;147 151	Hou vast
+A1	Confidence T1 Main
+T2	Fear 41 43;44 48	is evil
+A2	Confidence T2 High

@@ -1,0 +1,6 @@
+T11	Surprise 0 3;15 17;4 8;9 11	Hoe of weet je
+A11	Confidence T11 Main
+T21	Surprise 111 114;115 119;120 122;123 125	hoe weet je of
+A21	Confidence T21 Main
+T22	Sadness 83 87	pijn
+A22	Confidence T22 High

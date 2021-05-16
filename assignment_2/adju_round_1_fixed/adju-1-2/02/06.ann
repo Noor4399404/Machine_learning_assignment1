@@ -1,0 +1,4 @@
+T12	Disgust 17 21;22 26;27 32	niet doen alsof
+A12	Confidence T12 Main
+T22	Fear 127 133	besmet
+A22	Confidence T22 Low

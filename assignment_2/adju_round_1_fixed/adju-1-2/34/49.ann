@@ -1,0 +1,10 @@
+T12	Sadness 37 45;46 53	obligate schisma
+A12	Confidence T12 Main
+T22	Surprise 83 89	gaarne
+A22	Confidence T22 High
+T32	Anger 234 245;247 259;260 266	bewierookte alternatieve feiten
+A32	Confidence T32 Low
+T1	Anger 166 172;173 183;184 190	ervoor gestudeerd hebben
+A1	Confidence T1 Low
+#1	AnnotatorNotes T1	Sarcasm
+#2	AnnotatorNotes T32	Sarcasm

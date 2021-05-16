@@ -1,0 +1,4 @@
+T1	Disgust 38 40;41 44	F* job
+A1	Confidence T1 High
+T2	Anger 199 210;214 225;226 235	belachelijk ondergraaft draagvlak
+A2	Confidence T2 Main

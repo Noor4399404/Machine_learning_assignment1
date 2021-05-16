@@ -1,0 +1,8 @@
+T11	Disgust 42 45;50 55;7 13	met leven speelt
+A11	Confidence T11 Main
+T21	Disgust 106 111;112 116	snapt niet
+A21	Confidence T21 High
+T22	Fear 206 208;209 213;214 218	de klos zijn
+A22	Confidence T22 High
+T32	Anger 251 255;270 276	Geen school
+A32	Confidence T32 High

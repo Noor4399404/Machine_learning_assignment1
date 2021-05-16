@@ -1,0 +1,6 @@
+T11	Disgust 27 31;32 39	niet eerlijk
+A11	Confidence T11 Main
+T12	Disgust 78 81;82 89;93 98	Pot verwijt ketel
+A12	Confidence T12 Main
+T22	Disgust 100 104	Bias
+A22	Confidence T22 Main

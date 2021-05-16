@@ -1,0 +1,15 @@
+T31	Anger 106 113	Hamster
+A31	Confidence T31 Main
+T41	Anger 165 169;170 173;213 215	niet ego ..
+A41	Confidence T41 Main
+T12	Anger 15 21	klagen
+A12	Confidence T12 Main
+T22	Anger 52 55	Pff
+A22	Confidence T22 Main
+T32	Anger 124 130	mensen
+A32	Confidence T32 Main
+T42	Anger 93 100	serieus
+A42	Confidence T42 Main
+T52	Other 233 239	allang
+A52	Confidence T52 Low
+#12	AnnotatorNotes T52	Irony

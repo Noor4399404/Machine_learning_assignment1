@@ -1,0 +1,8 @@
+T31	Disgust 173 180;181 186	plastic troep
+A31	Confidence T31 High
+T12	Trust 232 234;236 242;248 251;252 264	De boeren van levensbelang
+A12	Confidence T12 Main
+T32	Trust 89 96;97 108	gezonde boerenstand
+A32	Confidence T32 Main
+T1	Fear 24 32	cruciaal
+A1	Confidence T1 High

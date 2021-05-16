@@ -1,0 +1,9 @@
+For the first 50 tweets we had to annotate in round 1, the inter-annotator agreement (Cohen-Kappa score) was about 0.164. 
+For the second 25 tweets in round 2 it was about 0.269. 
+This is significantly higher than the first batch of annotations, although both scores are not great.
+We think the score not being very high is because our way of interpreting the text is quite different.
+The increase we see is because after calculating the golden standard, and revising the guidelines with each other, we got a look at the others' way of thinking. 
+When talking about the golden standard for the first round of annotations we also talked about the annotation guidelines, and we really tried to understand why the other annotated the tweet the way they did.
+We were quite thorough here. This made it so that when we got to the revision of the guidelines for round 2, we were quite on the same line on the guidelines.
+This helped when annotating the next batch of tweets, but it did not suddenly make us think about the tweets in the same way.
+We think this different way of interpreting certain tweets prevented us from obtaining an even higher score for the second round.

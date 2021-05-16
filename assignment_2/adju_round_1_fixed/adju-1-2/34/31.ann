@@ -1,0 +1,8 @@
+T11	Sadness 70 77	ondanks
+A11	Confidence T11 Low
+T12	Anger 30 38	brulpijp
+A12	Confidence T12 High
+T22	Anger 125 128;129 132	lak aan
+A22	Confidence T22 Main
+T32	Anger 150 155;156 162	extra lawaai
+A32	Confidence T32 High

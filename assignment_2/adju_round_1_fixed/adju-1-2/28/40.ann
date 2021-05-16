@@ -1,0 +1,6 @@
+T21	Caring 117 125	staysafe
+A21	Confidence T21 Main
+T12	Caring 0 6	Pas op
+A12	Confidence T12 Main
+T22	Anticipation 13 21	Gelukkig
+A22	Confidence T22 High

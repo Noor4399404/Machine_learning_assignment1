@@ -1,0 +1,8 @@
+T11	Sadness 26 32;33 37;48 56	liever naar kinderen
+A11	Confidence T11 High
+T21	Trust 101 104;108 114;120 124	kan gewoon niet
+A21	Confidence T21 High
+T31	Anger 177 183;204 216	alleen noodzakelijk
+A31	Confidence T31 Main
+T22	Anger 130 138;156 161;165 172	moeilijk thuis blijven
+A22	Confidence T22 Low

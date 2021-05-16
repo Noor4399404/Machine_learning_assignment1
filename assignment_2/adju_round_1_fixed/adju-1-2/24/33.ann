@@ -1,0 +1,6 @@
+T11	Anger 19 24;25 29	nooit goed
+A11	Confidence T11 Main
+T21	Anger 161 173	onsympathiek
+A21	Confidence T21 Main
+T22	Disgust 194 200	schuld
+A22	Confidence T22 High

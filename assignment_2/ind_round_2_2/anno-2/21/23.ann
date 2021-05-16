@@ -1,0 +1,8 @@
+T1	Disgust 21 26;27 31	halve gare
+A1	Confidence T1 Main
+T2	Disgust 56 64	helemaal
+A2	Confidence T2 Main
+T3	Disgust 65 70	niets
+A3	Confidence T3 Main
+T4	Anger 102 106;115 120	Laat thuis
+A4	Confidence T4 High

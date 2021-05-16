@@ -1,0 +1,9 @@
+T11	Other 16 23;24 30	vingers getikt
+A11	Confidence T11 Main
+#11	AnnotatorNotes T11	Irony
+T21	Other 108 110	:D
+A21	Confidence T21 High
+T31	Other 34 36	:)
+A31	Confidence T31 Main
+#21	AnnotatorNotes T31	Irony
+#1	AnnotatorNotes T21	Irony

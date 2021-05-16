@@ -1,0 +1,9 @@
+T11	Anger 138 142;151 156	doet niets
+A11	Confidence T11 Main
+T21	Anger 229 238;239 241;242 249	naïviteit is voorbij
+A21	Confidence T21 High
+T22	Anticipation 143 150	wederom
+A22	Confidence T22 High
+T32	Caring 158 162;176 186	Stop controleer
+A32	Confidence T32 High
+#1	AnnotatorNotes T22	Irony

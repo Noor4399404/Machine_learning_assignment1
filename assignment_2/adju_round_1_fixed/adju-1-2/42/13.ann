@@ -1,0 +1,8 @@
+T11	Joy 129 134	goede
+T21	Anticipation 190 194	Hoop
+A11	Confidence T21 Main
+T12	Anticipation 129 134;135 144	goede recensies
+A12	Confidence T12 Main
+T32	Trust 129 134;135 144	goede recensies
+A32	Confidence T32 High
+A1	Confidence T11 Low

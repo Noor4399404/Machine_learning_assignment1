@@ -1,0 +1,10 @@
+T11	Trust 115 120	ECHTE
+A11	Confidence T11 Main
+T21	Trust 76 82	helden
+A21	Confidence T21 Main
+T31	Trust 259 263;269 274	ECHT nodig
+A31	Confidence T31 Main
+T22	Trust 152 164	Vrijwilliger
+A22	Confidence T22 Main
+T32	Trust 167 181	Zelfbedruipend
+A32	Confidence T32 Main

@@ -1,0 +1,12 @@
+T21	Anger 166 172;173 176	gewoon weg
+A21	Confidence T21 High
+T31	Disgust 186 202;203 207;223 228	verantwoordelijk voor doden
+A31	Confidence T31 Low
+T12	Anger 48 52;53 55;56 60	fout op fout
+A12	Confidence T12 High
+T22	Disgust 48 52;53 55;56 60	fout op fout
+A22	Confidence T22 Main
+T32	Disgust 265 276	JAAPMOETWEG
+A32	Confidence T32 Main
+T42	Disgust 155 165;173 176	natuurlijk weg
+A42	Confidence T42 Main

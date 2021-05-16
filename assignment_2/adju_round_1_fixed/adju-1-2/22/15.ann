@@ -1,0 +1,12 @@
+T21	Fear 213 219;224 226;238 242;243 247	redden nu niet meer
+A21	Confidence T21 Low
+T31	Sadness 262 271;272 275;276 280	verliezen hun baan
+A31	Confidence T31 High
+T12	Other 46 48;60 63;64 69;70 76;77 84	GA ALS KUDDE DIEREN EROPUIT
+A12	Confidence T12 High
+#12	AnnotatorNotes T12	Irony
+T22	Anger 124 129;130 138	grote gevolgen
+A22	Confidence T22 Main
+T32	Other 102 111	gezellige
+A32	Confidence T32 Low
+#22	AnnotatorNotes T32	Irony

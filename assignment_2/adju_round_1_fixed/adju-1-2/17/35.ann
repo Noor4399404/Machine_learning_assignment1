@@ -1,0 +1,6 @@
+T11	Surprise 0 4;12 15;5 7;8 11	Valt mee me nog
+A11	Confidence T11 Main
+T22	Anger 83 86;87 89;90 96	aan te smeren
+A22	Confidence T22 High
+T1	Disgust 133 146;148 154;156 169	geldklopperij paniek doemaargewoon
+A1	Confidence T1 High

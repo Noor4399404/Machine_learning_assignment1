@@ -1,0 +1,7 @@
+T11	Sadness 109 111	Al
+A11	Confidence T11 Low
+T21	Sadness 198 201;202 207;211 217;218 220;221 227;228 231	Wat loopt achter de feiten aan
+A21	Confidence T21 Main
+T31	Surprise 233 240	Hoeveel
+A31	Confidence T31 Low
+T32	Anticipation 233 240	Hoeveel

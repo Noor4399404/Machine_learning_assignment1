@@ -1,0 +1,6 @@
+T11	Trust 29 36;37 40	volgens mij
+A11	Confidence T11 Main
+T21	Trust 101 103;104 108;98 100	te zien zo
+A21	Confidence T21 Main
+T12	Disgust 73 78;79 85	foute mannen
+A1	Confidence T12 High

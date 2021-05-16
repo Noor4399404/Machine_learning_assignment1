@@ -1,0 +1,5 @@
+T1	Fear 104 112;90 92;93 97;98 100	onveilig Ik voel me
+A1	Confidence T1 Main
+T2	Anticipation 156 161;162 168	wordt wakker
+T3	Fear 177 187	gevaarlijk
+A2	Confidence T3 High

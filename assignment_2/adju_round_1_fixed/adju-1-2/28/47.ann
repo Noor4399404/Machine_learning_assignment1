@@ -1,0 +1,10 @@
+T11	Anger 68 73;74 77	klaar mee
+A11	Confidence T11 Main
+T21	Anger 103 108;114 120;121 128;97 102	onder nagels vandaan bloed
+A21	Confidence T21 Main
+T31	Anger 223 228	ruzie
+A31	Confidence T31 Main
+T41	Anger 240 244;245 248	geen zin
+A41	Confidence T41 Main
+T51	Anger 255 259;260 267	geen energie
+A51	Confidence T51 High

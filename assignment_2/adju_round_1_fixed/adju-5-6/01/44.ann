@@ -1,0 +1,8 @@
+T11	Joy 4 13	advantage
+A11	Confidence T11 High
+T21	Disgust 108 120	disadvantage
+A21	Confidence T21 Main
+T12	Joy 41 43;44 47;57 66	no one interrupt
+A12	Confidence T12 High
+T22	Sadness 150 152;153 156;157 160;161 170	no one can interrupt
+A22	Confidence T22 High

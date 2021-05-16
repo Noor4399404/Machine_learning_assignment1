@@ -1,0 +1,4 @@
+T1	Trust 120 123;124 128;129 131;132 138	Dat zijn de feiten
+A1	Confidence T1 Main
+T2	Trust 140 145;146 150;151 154	reken maar uit
+A2	Confidence T2 Main

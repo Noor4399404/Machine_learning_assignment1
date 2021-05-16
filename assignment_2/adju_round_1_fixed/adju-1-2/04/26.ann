@@ -1,0 +1,6 @@
+T21	Sadness 51 55;59 63;64 68	doet geen goed
+A21	Confidence T21 Main
+T32	Fear 70 76	onrust
+A32	Confidence T32 High
+T1	Sadness 70 76	onrust
+A1	Confidence T1 Main

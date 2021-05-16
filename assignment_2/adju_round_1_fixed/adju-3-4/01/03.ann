@@ -1,0 +1,12 @@
+T11	Anticipation 228 239	Consequence
+A11	Confidence T11 Low
+T12	Anger 15 20;21 27	naive policy
+A12	Confidence T12 Main
+T32	Anticipation 122 134	consequences
+A32	Confidence T32 Low
+T42	Sadness 136 141;142 149	empty shelves
+A42	Confidence T42 High
+T52	Disgust 155 162;192 202	economy standstill
+A52	Confidence T52 High
+T62	Sadness 241 246;247 255;256 262	major economic damage
+A62	Confidence T62 High

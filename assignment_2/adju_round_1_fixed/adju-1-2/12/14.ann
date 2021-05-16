@@ -1,0 +1,6 @@
+T11	Surprise 76 84;85 92	piekeren checken
+A11	Confidence T11 High
+T12	Sadness 151 155;156 169	niet gerustgesteld
+A12	Confidence T12 Main
+T22	Sadness 221 225;226 234;238 248	zeer onrustig emotioneel
+A22	Confidence T22 Main

@@ -1,0 +1,6 @@
+T1	Other 180 191	betrouwbaar
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	distrust
+T2	Other 231 233;237 244;245 251	in ijskast zetten
+A2	Confidence T2 High
+#2	AnnotatorNotes T2	irony

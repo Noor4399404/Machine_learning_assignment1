@@ -1,0 +1,6 @@
+T11	Fear 0 7	Dilemma
+A11	Confidence T11 Low
+T21	Joy 92 100	Gelukkig
+T12	Surprise 51 54;55 58	kan dat
+A12	Confidence T12 Main
+#1	AnnotatorNotes T11	Self-advertisement

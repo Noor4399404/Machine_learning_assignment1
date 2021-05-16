@@ -1,0 +1,10 @@
+T11	Trust 66 72;73 83	handen ineenslaan
+A11	Confidence T11 Main
+T21	Trust 160 168	ONEWorld
+A21	Confidence T21 Main
+T31	Trust 38 46;47 52	iedereen nodig
+A31	Confidence T31 Main
+T22	Anticipation 102 111	aansporen
+A22	Confidence T22 Low
+T32	Fear 6 12	strijd
+A32	Confidence T32 Low

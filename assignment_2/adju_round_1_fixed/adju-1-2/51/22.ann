@@ -1,0 +1,9 @@
+T11	Other 165 170;171 175	lijkt me..
+A11	Confidence T11 High
+#11	AnnotatorNotes T11	Doubt
+T21	Anger 11 14;15 19;20 21	het PLAN ?
+A21	Confidence T21 Main
+T22	Anger 100 108;94 99	controle onder
+A22	Confidence T22 High
+T42	Anger 228 231;236 240;241 243;244 246	als geld op is
+A42	Confidence T42 High

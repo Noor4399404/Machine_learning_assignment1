@@ -1,0 +1,8 @@
+T11	Anger 65 69;75 78	lukt wel
+A11	Confidence T11 Main
+#11	AnnotatorNotes T11	Sarcasm thus annoyance, frustration
+T12	Anger 109 110;112 113	. 😂
+A12	Confidence T12 Low
+T22	Caring 0 6;13 18;7 12	Liefde blind maakt
+A22	Confidence T22 High
+#1	AnnotatorNotes T12	Sarcasm

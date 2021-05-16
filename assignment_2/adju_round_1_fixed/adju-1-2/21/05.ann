@@ -1,0 +1,10 @@
+T11	Trust 21 25;26 31;32 34;35 39	Hart onder de riem
+A11	Confidence T11 Main
+T31	Trust 122 132	samensterk
+A31	Confidence T31 Main
+T41	Trust 41 45;70 74;75 80	Laat maar komen
+A41	Confidence T41 Main
+T21	Trust 82 84;85 91;92 95	We kunnen dit
+A21	Confidence T21 Main
+T22	Trust 0 5;6 10	Goede doel
+A22	Confidence T22 Main

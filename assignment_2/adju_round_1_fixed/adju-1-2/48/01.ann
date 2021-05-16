@@ -1,0 +1,5 @@
+T21	Surprise 21 27;4 9	corona weten
+A21	Confidence T21 Low
+T22	Fear 49 52;53 59;77 89	pas testen risicogebied
+A22	Confidence T22 Low
+#22	AnnotatorNotes T22	concern

@@ -1,0 +1,7 @@
+T11	Disgust 118 121	erg
+A11	Confidence T11 High
+T22	Anger 106 109;89 92	wel Nou
+A22	Confidence T22 High
+T1	Other 40 45;46 60;61 69	beste dorpspredikant demagoog
+A1	Confidence T1 Main
+#1	AnnotatorNotes T1	irony

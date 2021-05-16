@@ -1,0 +1,4 @@
+T12	Trust 45 53	Gelukkig
+T22	Sadness 192 198	missen
+A12	Confidence T22 Low
+A22	Confidence T12 Main

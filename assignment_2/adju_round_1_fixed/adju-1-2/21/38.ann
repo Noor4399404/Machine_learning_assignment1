@@ -1,0 +1,8 @@
+T11	Anticipation 119 121;122 124;125 130	in te tomen
+A11	Confidence T11 High
+T21	Trust 83 91;92 101	maximaal mogelijke
+T31	Trust 21 25;26 28;29 33	niet te laat
+A21	Confidence T21 Main
+A31	Confidence T31 Main
+T12	Trust 136 139;140 144;145 149	zou mooi zijn
+A12	Confidence T12 Main

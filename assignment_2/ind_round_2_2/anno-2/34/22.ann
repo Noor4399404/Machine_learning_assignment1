@@ -1,0 +1,10 @@
+T1	Fear 116 120;121 130	niet beschermd
+A1	Confidence T1 Main
+T2	Fear 150 155;156 160;161 164;165 167;168 175	loopt giga uit de klauwen
+A2	Confidence T2 High
+T3	Disgust 68 72;73 76	rare man
+A3	Confidence T3 High
+T4	Disgust 24 30;31 33;34 38	meteen in fout
+A4	Confidence T4 High
+T5	Anger 257 258	😡
+A5	Confidence T5 High
