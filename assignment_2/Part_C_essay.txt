@@ -1,20 +1,38 @@
-I agree with the 'one truth' myth. In annotation there is not always one truth, one correct answer or one true interpretation. 
-Some text elements can be ambigious, and the words can mean multiple things or radiate multiple feelings. With annotating the tweets we often came across some tweets that not had an emotion, and sometimes we assigned multiple emotions to the tweets or we assigned no emotion at all. 
+We agree with the 'one truth' myth. In annotation there is not always one truth, one correct answer or one true interpretation. 
+Some text elements can be ambigious, and the words can mean multiple things or radiate multiple feelings. 
+While anotating we often came across tweets that brought up different emotions in us. These were often small
+differences like whether someone was annoyed or showed dislike towards a certain subject. Often we would have
+multiple of these occurrences, and one would stick with the 'Anger', and the other one with 'Disgust'.
 
-I also agree with the 'disagreement is bad' is a myth statement. 
+We also agree with the 'disagreement is bad' is a myth statement. 
 Because of disagreement it is necessary to talk with the annotators about the difference and the ambigious text elements. 
-We also often disagreed with the annotations and because of the disagreement we looked more in detail to the tweet and found a better label for the text element. 
+We also often disagreed with the annotations and because of the disagreement we looked at the tweet in more detail 
+and found a better label for the text element. 
 
-I think detailed guidelines can help the annotators to prevent a big difference in annotations. It can be beneficial to make the guidelines help more datailed. This way the annotators know when to use a label. For exemple when we annotated the tweets we could only choose from a certain set of emotions, these emotions were well described in detail. This way we knew when to use  'Anger' and when to use 'Disgust'.
-Sometimes we did not find the right emotion for the tweet, when this was the case, we did not assign an emotion at all. 
+We think detailed guidelines can help the annotators and prevent a big difference in the annotations. 
+It can be beneficial to make the guidelines more datailed. 
+This way the annotators know when to use a label. 
+For exemple when we annotated the tweets we could only choose from a certain set of emotions, these emotions were quite well described. 
+This way the difference between emotions that were easily confused were more clear, like 'Anger' and 'Disgust'.
+Whenever we did not find an emotion in a tweet we did not assign one, because this was in the guidelines. This was very useful.
+Even though there were a lot of useful tips in there for annotating, remembering them all while annotating was sometimes confusing, 
+and we might forget a thing or two. We helped each other out here while creating the golden standard, which fixed everything.
 
-I do agree with myth five:  'experts are better'. 
-You do not always need experts to annotate certain files, but when the annotions require certain knowledge in a certain field of expertise, it is not always beneficial when experts make the annotations.
-We made annotations for tweets with the topic of Covid-19 in the Netherlands, while  were not experts in this field.
+We agree with myth five: 'experts are better' as well. 
+You do not always need experts to do your annotations, even when you might think you do. 
+In cases mentioned in the paper, it was not really beneficial to use experts. 
+However, if you need to annotate text that contains a lot of language specific to their area of expertise, 
+we think you do need experts to do the annootation.
+We made annotations for tweets with the topic of Covid-19 in the Netherlands, while we're not experts in this field. 
+So this was an example of a case where this is possible.
 
-I agree that  'One is Enough' statement is a myth. With the annotations for machine learing, two persons made annotations for the text elements. 
-This had a lot of benefits. one perspective is not always enough, some cases cannot be seen by only one annotator, especially ambigious tweets.
+We agree that 'One is Enough' statement is a myth. With the annotations for machine learning, 
+two people made annotations for the text elements. 
+This had a lot of benefits. One perspective is not always enough, some cases cannot be properly annotated by only one annotator. 
+Especially when it comes to ambigious tweets.
 
-I also think the 'once done, forever valid' statement is a myth. Annotations are not always valid in different points of time. 
+We also think the 'once done, forever valid' statement is definitely a myth. 
+Annotations are not always valid in different points of time. 
+Just like the meaning of the Covid tweets might change as more discoveries are done about the virus.
 
  
