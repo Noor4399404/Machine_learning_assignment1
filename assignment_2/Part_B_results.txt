@@ -36,4 +36,7 @@ This is the confusion matrix:
  [29  0  0  0  0  0  0  0  0  0  0  0]
  [28  0  0  0  0  0  0  4  0  0  0  0]]
 
- From this we can conclude that the 
+ From this we can conclude that the trained program was only really familiar with the 
+ anger and none tags, and therefore only assigned those to the unknown tweets during the 
+ testing phase. This is probably because the annotated tweets contained considerably more angry
+ tweets than other emotions.
