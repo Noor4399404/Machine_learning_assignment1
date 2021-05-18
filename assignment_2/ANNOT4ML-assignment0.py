@@ -1,6 +1,7 @@
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.pipeline import Pipeline
+from sklearn.metrics import confusion_matrix
 
 from sklearn.metrics import classification_report
 
@@ -53,4 +54,8 @@ classifier.fit(Xtrain, Ytrain)
 
 Yguess = classifier.predict(Xtest)
 
-print(classification_report(Ytest, Yguess, digits=3))
+print('This is the classification report:\n')
+print(classification_report(Ytest, Yguess, digits=3), "\n\n")
+print("This is the confusion matrix:\n")
+print(confusion_matrix(Ytest, Yguess))
+

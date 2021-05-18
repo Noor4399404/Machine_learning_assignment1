@@ -1,0 +1,39 @@
+This is the classification report:
+
+                precision    recall  f1-score   support
+
+         Anger      0.215     0.979     0.353        97
+AnnotatorNotes      0.000     0.000     0.000         1
+  Anticipation      0.000     0.000     0.000        25
+        Caring      0.000     0.000     0.000        23
+       Disgust      0.000     0.000     0.000        54
+          Fear      0.000     0.000     0.000        31
+           Joy      0.000     0.000     0.000        31
+          None      0.409     0.087     0.144       103
+         Other      0.000     0.000     0.000        12
+       Sadness      0.000     0.000     0.000        25
+      Surprise      0.000     0.000     0.000        29
+         Trust      0.000     0.000     0.000        32
+
+      accuracy                          0.225       463
+     macro avg      0.052     0.089     0.041       463
+  weighted avg      0.136     0.225     0.106       463
+ 
+
+
+This is the confusion matrix:
+
+[[95  0  0  0  0  0  0  2  0  0  0  0]
+ [ 0  0  0  0  0  0  0  1  0  0  0  0]
+ [23  0  0  0  0  0  0  2  0  0  0  0]
+ [23  0  0  0  0  0  0  0  0  0  0  0]
+ [52  0  0  0  0  0  0  2  0  0  0  0]
+ [31  0  0  0  0  0  0  0  0  0  0  0]
+ [30  0  0  0  0  0  0  1  0  0  0  0]
+ [94  0  0  0  0  0  0  9  0  0  0  0]
+ [12  0  0  0  0  0  0  0  0  0  0  0]
+ [24  0  0  0  0  0  0  1  0  0  0  0]
+ [29  0  0  0  0  0  0  0  0  0  0  0]
+ [28  0  0  0  0  0  0  4  0  0  0  0]]
+
+ From this we can conclude that the 
