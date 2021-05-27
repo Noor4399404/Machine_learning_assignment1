@@ -67,7 +67,7 @@ def main():
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument('-t', '--tree', action='store_true', help='This will estimate the emotions by making a decision tree.')
     group.add_argument('-b', '--bayes', action='store_true', help='This will estimate the emotions using Naive Bayes.')
-    group.add_argument('-c', '--cross_validation', default=argparse.SUPPRESS, help='Prints different cross validation scores.')
+    group.add_argument('-c', '--cross_validation', default=argparse.SUPPRESS, help='Prints different cross validation scores. Takes a number that detemines the splitting strategy.')
 
     args = parser.parse_args()
 
@@ -80,13 +80,15 @@ def main():
         naive_bayes(documents, labels, 0.25)
 
     if args.cross_validation:
+
+        strategy = int(args.cross_validation)
         
         clf = Pipeline([('vec', TfidfVectorizer()), ('cls', DecisionTreeClassifier())])
-        scores = cross_val_score(clf, documents, labels, cv=5)
+        scores = cross_val_score(clf, documents, labels, cv=strategy)
         print(f'The decision tree algorithm has a {scores.mean():.2f} accuracy with a standard deviation of {scores.std():.2f}')
 
         clf = Pipeline([('vec', TfidfVectorizer()), ('cls', MultinomialNB())])
-        scores = cross_val_score(clf, documents, labels, cv=5)
+        scores = cross_val_score(clf, documents, labels, cv=strategy)
         print(f'The decision tree algorithm has a {scores.mean():.2f} accuracy with a standard deviation of {scores.std():.2f}')
 
     
