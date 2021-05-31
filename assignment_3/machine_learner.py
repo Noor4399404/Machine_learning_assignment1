@@ -82,14 +82,16 @@ def main():
     if args.cross_validation:
 
         strategy = int(args.cross_validation)
-        
-        clf = Pipeline([('vec', TfidfVectorizer()), ('cls', DecisionTreeClassifier())])
-        scores = cross_val_score(clf, documents, labels, cv=strategy)
-        print(f'The decision tree algorithm has a {scores.mean():.2f} accuracy with a standard deviation of {scores.std():.2f}')
+
 
         clf = Pipeline([('vec', TfidfVectorizer()), ('cls', MultinomialNB())])
-        scores = cross_val_score(clf, documents, labels, cv=strategy)
-        print(f'The decision tree algorithm has a {scores.mean():.2f} accuracy with a standard deviation of {scores.std():.2f}')
+        scores = cross_val_score(clf, documents, labels, cv=strategy, scoring="f1_weighted")
+        print(f'The Naive Bayes algorithm has a weighted average f1-score of {scores.mean():.3f}, with a standard deviation of {scores.std():.3f}.')
+        
+        clf = Pipeline([('vec', TfidfVectorizer()), ('cls', DecisionTreeClassifier())])
+        scores = cross_val_score(clf, documents, labels, cv=strategy, scoring="f1_weighted")
+        print(f'The decision tree algorithm has a weighted average f1-score of {scores.mean():.3f}, with a standard deviation of {scores.std():.3f}.')
+
 
     
 if __name__ == "__main__":
